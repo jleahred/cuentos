@@ -2,17 +2,17 @@
 
 ### 1. Triunfador
 
-Me llamo David, tengo treinta y siete años y creo que puedo decir, sin falsa modestia, que soy un triunfador.
+Me llamo David, tengo treinta y 4 años y soy un triunfador.
 
-Soy uno de los principales directivos de una gran multinacional tecnológica estadounidense. Gano más de medio millón de euros al año, sin contar los incentivos y las acciones, y vivo en una mansión espectacular a las afueras de Madrid.
+Soy uno de los principales directivos de una gran multinacional tecnológica estadounidense. Gano más de medio millón de euros al año, sin contar los incentivos y las acciones.
 
 No voy a fingir que el dinero no me importa. Me encanta ganar dinero y, sobre todo, me encanta lo que puedo hacer con él.
 
 Tengo una casa maravillosa, con un jardín enorme, piscina climatizada, gimnasio privado y un garaje en el que guardo mis tres maravillosas joyas de la ingeniería: un Ferrari, un Lamborghini y un Porsche.
 
-Desgraciadamente, tenemos unas carreteras con bastantes defectos. Hay demasiados badenes, rampas mal diseñadas y accesos imposibles. Con el Ferrari, por ejemplo, tengo que entrar casi de lado en algunos aparcamientos para no rozar los bajos.
+Desgraciadamente, tenemos unas carreteras con bastantes defectos. Hay demasiados badenes, rampas mal diseñadas y accesos imposibles. Con el Ferrari, por ejemplo, tengo que entrar casi de lado en los aparcamientos para no rozar los bajos.
 
-Para ir a trabajar tengo un chófer de la empresa que me recoge todas las mañanas. Así aprovecho el trayecto para leer informes, contestar correos y preparar reuniones. Conducir por Madrid es una pérdida de tiempo que prefiero evitar.
+Para ir a trabajar tengo un chófer de la empresa que me recoge todas las mañanas. Así aprovecho el trayecto para leer informes, contestar correos y preparar reuniones. Conducir es una pérdida de tiempo que no me puedo permitir.
 
 Mi vida sentimental tampoco está nada mal.
 
@@ -28,27 +28,17 @@ Desde pequeño he tenido una facilidad extraordinaria para aprender, comprender 
 
 En el colegio siempre fui varios cursos por delante de mis compañeros. Entré en la universidad con quince años y terminé la carrera antes de cumplir los veinte.
 
-A los veintidós fundé mi primera empresa tecnológica. Siete años después, una multinacional estadounidense la compró por una cantidad considerable. No solo les interesaba nuestra tecnología; también querían que yo dirigiera una parte importante de su negocio.
+Tengo una memoria excelente y una capacidad de análisis muy por encima de la media. Soy capaz de comprender en unos minutos asuntos que a otras personas les llevan días. He sabido sacar partido a mis cualidades.
 
-Fue una oferta difícil de rechazar.
+A los veintidós fundé mi primera empresa tecnológica. Siete años después, una multinacional estadounidense la compró por una cantidad considerable. Me incorporaron en su directiva y he ido ganando posiciones y responsabilides.
 
-Tengo una memoria excelente y una capacidad de análisis muy por encima de la media. Soy capaz de comprender en unos minutos asuntos que a otras personas les llevan días.
+Sé que todavía puedo conseguir hitos fantásticos, y trabajo para ello.
 
-No es arrogancia. Simplemente, conozco mis capacidades.
-
-Y he sabido aprovecharlas.
-
-Soy ambicioso, tengo una enorme capacidad de trabajo y no pienso desaprovechar mi inteligencia. Esas son las claves de mi éxito.
-
-Y todavía puedo llegar mucho más lejos.
-
-Por supuesto, cuido mi cerebro con especial atención.
+Estoy orgulloso de mi cerebro y lo cuido con especial atención.
 
 No bebo alcohol ni café. Vigilo cuidadosamente mi alimentación, duermo las horas necesarias y hago ejercicio casi todos los días.
 
 También procuro mantener mi mente activa. Leo mucho, estudio idiomas y me gusta resolver problemas matemáticos por puro entretenimiento.
-
-Creo que una inteligencia extraordinaria merece unos cuidados extraordinarios.
 
 En mi trabajo disfruto especialmente de los retos difíciles. Me encantan las negociaciones complicadas, los proyectos tecnológicos que parecen imposibles y las decisiones que otros no se atreven a tomar.
 
@@ -57,8 +47,6 @@ He conseguido que nuestra división crezca de manera espectacular y mis resultad
 La dirección de la multinacional está encantada conmigo y tengo una relación excelente con los máximos responsables de la compañía.
 
 Trabajo mucho, es verdad. Doce o catorce horas algunos días. Pero no me importa. Disfruto con lo que hago y me resulta difícil entender a quienes están deseando que llegue el viernes para olvidarse de su trabajo.
-
-Yo no necesito escapar de mi vida durante el fin de semana.
 
 Me gusta vivir intensamente. Organizo mis días para aprovechar cada minuto, sin perder el tiempo en cosas que no me aportan nada. Hay demasiadas cosas interesantes que hacer y demasiadas oportunidades que aprovechar.
 
