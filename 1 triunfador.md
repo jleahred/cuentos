@@ -2,7 +2,7 @@
 
 ### 1. Triunfador
 
-Me llamo David, tengo treinta y 4 años y soy un triunfador.
+Me llamo David, tengo treinta y cuatro años y soy un triunfador.
 
 Soy uno de los principales directivos de una gran multinacional tecnológica estadounidense. Gano más de medio millón de euros al año, sin contar los incentivos y las acciones.
 
@@ -10,9 +10,9 @@ No voy a fingir que el dinero no me importa. Me encanta ganar dinero y, sobre to
 
 Tengo una casa maravillosa, con un jardín enorme, piscina climatizada, gimnasio privado y un garaje en el que guardo mis tres maravillosas joyas de la ingeniería: un Ferrari, un Lamborghini y un Porsche.
 
-Desgraciadamente, tenemos unas carreteras con bastantes defectos. Hay demasiados badenes, rampas mal diseñadas y accesos imposibles. Con el Ferrari, por ejemplo, tengo que entrar casi de lado en los aparcamientos para no rozar los bajos.
+El precio a pagar es la lucha constante con badenes, rampas y otras imperfecciones de la carretera.
 
-Para ir a trabajar tengo un chófer de la empresa que me recoge todas las mañanas. Así aprovecho el trayecto para leer informes, contestar correos y preparar reuniones. Conducir es una pérdida de tiempo que no me puedo permitir.
+Mi chófer conduce con cuidado y me deja trabajar tranquilo durante el trayecto en el confortable coche de la empresa, mientras reviso informes, correos y reuniones.
 
 Mi vida sentimental tampoco está nada mal.
 
@@ -22,17 +22,17 @@ No estoy casado ni tengo hijos. Nunca he sentido la necesidad de formar una fami
 
 Tengo una agenda social muy intensa. Conozco a empresarios, políticos, directivos y personas muy influyentes. Siempre hay alguna cena interesante, una invitación a un evento o un viaje que merece la pena.
 
-Pero si hay algo de lo que me siento especialmente orgulloso, es de mi inteligencia.
+Tengo una inteligencia extraordinaria.
 
 Desde pequeño he tenido una facilidad extraordinaria para aprender, comprender problemas complejos y encontrar soluciones que a otros ni siquiera se les ocurren.
 
 En el colegio siempre fui varios cursos por delante de mis compañeros. Entré en la universidad con quince años y terminé la carrera antes de cumplir los veinte.
 
-Tengo una memoria excelente y una capacidad de análisis muy por encima de la media. Soy capaz de comprender en unos minutos asuntos que a otras personas les llevan días. He sabido sacar partido a mis cualidades.
+Tengo una memoria excelente y una capacidad de análisis muy por encima de la media. Soy capaz de comprender en unos minutos asuntos que a otras personas les llevan días. He sabido utilizarlo en mi vida.
 
-A los veintidós fundé mi primera empresa tecnológica. Siete años después, una multinacional estadounidense la compró por una cantidad considerable. Me incorporaron en su directiva y he ido ganando posiciones y responsabilides.
+A los veintidós fundé mi primera empresa tecnológica. Siete años después, una multinacional estadounidense la compró por una cantidad considerable. Me incorporaron a su equipo directivo y desde entonces he ido ascendiendo y asumiendo cada vez más responsabilidades.
 
-Sé que todavía puedo conseguir hitos fantásticos, y trabajo para ello.
+Trabajo duro para seguir avanzando, queda todavía mucho camino por recorrer
 
 Estoy orgulloso de mi cerebro y lo cuido con especial atención.
 
@@ -48,20 +48,12 @@ La dirección de la multinacional está encantada conmigo y tengo una relación 
 
 Trabajo mucho, es verdad. Doce o catorce horas algunos días. Pero no me importa. Disfruto con lo que hago y me resulta difícil entender a quienes están deseando que llegue el viernes para olvidarse de su trabajo.
 
-Me gusta vivir intensamente. Organizo mis días para aprovechar cada minuto, sin perder el tiempo en cosas que no me aportan nada. Hay demasiadas cosas interesantes que hacer y demasiadas oportunidades que aprovechar.
+Por supuesto, también cuido mi forma física. Tengo un gimnasio perfectamente equipado en casa, donde entreno casi todos los días.
 
-Aunque, naturalmente, también tengo mis aficiones.
+Agunos fines de semana salgo con la bicicleta. Tengo una magnífica bicicleta de carbono que me costó quince mil euros.
 
-La principal es el ciclismo.
+Voy a mi ritmo, ortanizo mi ruta, no tengo que esperar a nadie.
 
-Tengo una bicicleta de carbono de última generación que me costó algo más de doce mil euros. Es una maravilla de la tecnología: ligera, rígida, aerodinámica y con unos componentes extraordinarios.
+Disfruto de una vida envidiable.
 
-Me gusta salir los fines de semana y hacer rutas largas, especialmente por la montaña.
-
-Llevo un ciclocomputador que registra absolutamente todo: velocidad, potencia, pulsaciones, desnivel, cadencia y tiempos de cada segmento.
-
-Me encanta analizar los datos después de cada entrenamiento y comprobar cómo voy mejorando.
-
-Normalmente salgo solo. Así puedo organizar la ruta a mi gusto, mantener el ritmo que quiero y detenerme únicamente cuando lo necesito.
-
-A mis treinta y siete años, disfruto de una vida envidiable.
+Me ha sorprendido siempre que no se valore adecudamente la inteligencia, supongo que es el "consuelo de tontos"
