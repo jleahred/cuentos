@@ -2,48 +2,41 @@
 
 ### 1. Triunfador
 
-Soy directivo de una gran multinacional tecnológica estadounidense. Gano más de medio millón de euros al año, sin contar los incentivos y las acciones.
+Desde pequeño tuve facilidad para aprender. En el colegio siempre fui varios cursos por delante de mis compañeros. Entré en la universidad con quince años y terminé la carrera antes de cumplir los veinte.
 
-Tengo una bonita casa con un amplio jardín, piscina climatizada, gimnasio y un garaje en el que guardo mis tres maravillosas joyas de la ingeniería: un Ferrari, un Lamborghini y un Porsche que disfruto mucho conduciendo a pesar de las peleas con los badenes, rampas y defectos en la calzada.
+Tenía una memoria excelente y las matemáticas se me daban especialmente bien. Me sorprendía que mis compañeros necesitaran tanto tiempo para comprender cosas que a mí me parecían evidentes.
 
-El coche de empresa es más cómodo, y el chofer es suficientemente cuidadoso permitiéndome trabajar en preparación de reuniones, correos y conversaciones durante el trayecto a la oficina.
+A los veintidós años fundé mi primera empresa tecnológica. Siete años después, una multinacional estadounidense la compró por una cantidad considerable.
 
-He salido con mujeres bellísimas y divertidas, que me acompañan a restaurantes excelentes, fiestas privadas y viajes a lugares increíbles.
+Hoy, con treinta y cuatro años, soy directivo de esta multinacional tecnológica. Gano más de medio millón de euros al año, sin contar los incentivos y las acciones.
 
-No estoy casado ni tengo hijos. Nunca he sentido la necesidad de formar una familia. Me gusta mi libertad y disfruto conociendo gente nueva.
+Tengo una bonita casa con un amplio jardín, piscina climatizada y un garaje donde guardo tres joyas de la ingeniería: un Ferrari, un Lamborghini y un Porsche.
 
-Es raro el día que no tengo alguna cena o comida intersante con empresarios, políticos, directivos y otras personas influyentes.
+Disfruto mucho conduciéndolos. El precio a pagar es la pelea con los badenes, las rampas y las imperfecciones de la carretera.
 
-Desde pequeño he tenido una facilidad extraordinaria para aprender, comprender problemas complejos y encontrar soluciones que a otros ni siquiera se les ocurren.
+El coche de empresa es amplio y cómodo, y mi chófer conduce con suavidad mientras preparo reuniones, reviso informes y contesto correos.
 
-En el colegio siempre fui varios cursos por delante de mis compañeros. Entré en la universidad con quince años y terminé la carrera antes de cumplir los veinte.
+Mi trabajo es exigente. Las jornadas de doce o catorce horas son habituales, pero no me quejo. Me gusta trabajar duro. Disfruto con las negociaciones difíciles, los proyectos que parecen imposibles y las decisiones que otros prefieren evitar.
 
-Tengo una memoria excelente y una capacidad de análisis muy por encima de la media. Soy capaz de comprender en unos minutos asuntos que a otras personas les llevan días.
+El año pasado duplicamos la facturación de nuestra división. Desde entonces, el presidente me consulta personalmente algunas de las decisiones más importantes.
 
-A los veintidós fundé mi primera empresa tecnológica. Siete años después, una multinacional estadounidense la compró por una cantidad considerable. Me incorporaron a su equipo directivo y desde entonces he ido ascendiendo y asumiendo cada vez más responsabilidades.
+Mi agenda social está casi tan llena como la profesional. Ayer cené con el presidente de un banco y un antiguo ministro. Hoy tengo una comida con dos empresarios que quieren presentarme un proyecto. Mañana, una fiesta en casa de un buen amigo.
 
-Me queda mucho camino por recorrer, y trabajo muy duro para seguir avanzando.
+Actualmente me acompaña una bellísima modelo brasileña. Es divertida y le encanta viajar. Hace unas semanas pasamos un fin de semana estupendo en París. Nos alojamos en el Ritz y cenamos en un restaurante extraordinario.
 
-Tengo jornadas de trabajo 12 o 14 con frecuencia, y no me quejo, porque me gusta lo que hago y voy en la dirección que quiero.
+Antes he tenido relaciones con actrices, modelos y otras mujeres guapísimas e interesantes. Hemos disfrutado de buenos restaurantes, fiestas privadas y viajes por medio mundo. Algunas relaciones duraron más que otras, pero guardo buenos recuerdos de todas.
 
-En mi trabajo disfruto especialmente de los retos difíciles. Me encantan las negociaciones complicadas, los proyectos tecnológicos que parecen imposibles y las decisiones que otros no se atreven a tomar.
+Nunca me he casado ni he tenido hijos. Tampoco he sentido la necesidad. Me gusta mi libertad, conocer gente nueva y no tener que dar explicaciones.
 
-He conseguido que nuestra división crezca de manera espectacular y mis resultados hablan por sí solos.
+Cuido especialmente mi cerebro. Es mi principal herramienta y me ha permitido llegar hasta aquí.
 
-La dirección de la multinacional está encantada conmigo y tengo una relación excelente con los máximos responsables de la compañía.
+No bebo alcohol ni café. Vigilo mi alimentación y duermo las horas necesarias. Tengo un gimnasio perfectamente equipado en casa, donde entreno casi todos los días.
 
-Estoy orgulloso de mi cerebro y lo cuido con especial atención.
+Leo mucho, estudio idiomas y resuelvo problemas matemáticos por puro entretenimiento.
 
-No bebo alcohol ni café. Vigilo cuidadosamente mi alimentación, duermo las horas necesarias y hago ejercicio casi todos los días.
+Algunos fines de semana salgo con una magnífica bicicleta de gama profesional. Me gusta rodar solo. Elijo la ruta, marco el ritmo y no tengo que esperar a nadie.
 
-También procuro mantener mi mente activa. Leo mucho, estudio idiomas y me gusta resolver problemas matemáticos por puro entretenimiento.
+Hay actores famosos, deportistas famosos y personas conocidas simplemente por ser ricas. Sin embargo, son muy pocos los que alcanzan la fama por su inteligencia.
 
-Por supuesto, también cuido mi forma física. Tengo un gimnasio perfectamente equipado en casa, donde entreno casi todos los días.
+Supongo que es una especie de consuelo para tontos. Al fin y al cabo, son mayoría.
 
-Agunos fines de semana salgo con una preciosa bicileta de gama profesional..
-
-Voy a mi ritmo, ortanizo mi ruta, no tengo que esperar a nadie.
-
-Soy... triunfador
-
-Me sorprende que no se valore adecudamente la inteligencia, supongo que es el "consuelo de tontos"
