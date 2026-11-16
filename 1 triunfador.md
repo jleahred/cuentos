@@ -2,17 +2,17 @@
 
 ### 1. Triunfador
 
-Desde pequeño tuve facilidad para aprender. En el colegio siempre fui varios cursos por delante de mis compañeros. Entré en la universidad con quince años y terminé la carrera antes de cumplir los veinte.
+Siempre he tenido facilidad para aprender. En el colegio iba varios cursos por delante de mis compañeros. Entré en la universidad con quince años y terminé la carrera antes de cumplir los veinte.
 
-Tenía una memoria excelente y las matemáticas se me daban especialmente bien. Me sorprendía que mis compañeros necesitaran tanto tiempo para comprender cosas que a mí me parecían evidentes.
+Tenía una memoria excelente y resolvía problemas matemáticos sin esfuerzo. Me sorprendía que mis compañeros necesitaran tanto tiempo para comprender cosas que a mí me parecían evidentes.
 
-A los veintidós años fundé mi primera empresa tecnológica. Siete años después, una multinacional estadounidense la compró por una cantidad considerable.
+A los veintidós años fundé mi propia empresa tecnológica. Con el tiempo, pasó a formar parte de una gran multinacional estadounidense.
 
-Hoy, con treinta y cuatro años, soy directivo de esta multinacional tecnológica. Gano más de medio millón de euros al año, sin contar los incentivos y las acciones.
+Hoy, con treinta y cuatro años, soy uno de sus principales directivos. Gano más de medio millón de euros al año, sin contar los incentivos y las acciones.
 
 Tengo una bonita casa con un amplio jardín, piscina climatizada y un garaje donde guardo tres joyas de la ingeniería: un Ferrari, un Lamborghini y un Porsche.
 
-Disfruto mucho conduciéndolos. El precio a pagar es la pelea con los badenes, las rampas y las imperfecciones de la carretera.
+Disfruto mucho conduciéndolos a pesar de la pelea con los badenes, las rampas y las imperfecciones de la carretera.
 
 El coche de empresa es amplio y cómodo, y mi chófer conduce con suavidad mientras preparo reuniones, reviso informes y contesto correos.
 
@@ -24,7 +24,7 @@ Mi agenda social está casi tan llena como la profesional. Ayer cené con el pre
 
 Actualmente me acompaña una bellísima modelo brasileña. Es divertida y le encanta viajar. Hace unas semanas pasamos un fin de semana estupendo en París. Nos alojamos en el Ritz y cenamos en un restaurante extraordinario.
 
-Antes he tenido relaciones con actrices, modelos y otras mujeres guapísimas e interesantes. Hemos disfrutado de buenos restaurantes, fiestas privadas y viajes por medio mundo. Algunas relaciones duraron más que otras, pero guardo buenos recuerdos de todas.
+Antes he tenido relaciones con mujeres guapísimas e interesantes, mayoritariamente actrices y modelos. Hemos disfrutado de buenos restaurantes, fiestas privadas y viajes por medio mundo. Algunas relaciones duraron más que otras, pero guardo buenos recuerdos de todas.
 
 Nunca me he casado ni he tenido hijos. Tampoco he sentido la necesidad. Me gusta mi libertad, conocer gente nueva y no tener que dar explicaciones.
 
@@ -36,7 +36,6 @@ Leo mucho, estudio idiomas y resuelvo problemas matemáticos por puro entretenim
 
 Algunos fines de semana salgo con una magnífica bicicleta de gama profesional. Me gusta rodar solo. Elijo la ruta, marco el ritmo y no tengo que esperar a nadie.
 
-Hay actores famosos, deportistas famosos y personas conocidas simplemente por ser ricas. Sin embargo, son muy pocos los que alcanzan la fama por su inteligencia.
+Trabajo muy duro, pero lo que más me agota no es el trabajo. Son las personas. Las conversaciones triviales, las explicaciones interminables, la dificultad para comprender lo evidente. Schopenhauer tenía razón: la inteligencia tiene un precio, y ese precio es la soledad.
 
-Supongo que es una especie de consuelo para tontos. Al fin y al cabo, son mayoría.
-
+El hombre-masa y yo estamos condenados a no entendernos. Todos vemos el mundo desde nuestra propia perspectiva. Desde la mía, el mundo está lleno de tontos.
