@@ -264,7 +264,7 @@ David estaba sentado en su despacho, rodeado de informes médicos y libros que a
 
 —Lo sé.
 
-—Y estás utilizando un nivel de apalancamiento que considero peligroso.
+—Y has invertido demasiado de tus ahorros en esas empresas.
 
 —Los riesgos están calculados.
 
@@ -272,7 +272,7 @@ David estaba sentado en su despacho, rodeado de informes médicos y libros que a
 
 David lo miró con impaciencia.
 
-—Llevo veinte años tomando decisiones financieras.
+—Llevo años tomando decisiones financieras.
 
 —Y has tenido un éxito extraordinario. Pero ahora estás asumiendo riesgos innecesarios.
 
@@ -316,26 +316,17 @@ Su asesor detectó varios errores en sus cálculos.
 
 —No cambia la tesis de inversión.
 
-—David, estamos hablando de varios millones.
+—David, estamos hablando de una parte importante de tus ahorros.
 
 —Sé perfectamente de cuánto estamos hablando.
 
 No modificó sus posiciones.
 
 ***
-<<una guerra sorpresa, mala suerte, fallan las inversiones, exceso de riesgo>>
-<<y también un escándalo, hace que se desplomen algunas acciones>>
 
-La primera gran pérdida llegó con una empresa estadounidense de **inteligencia artificial**.
-<<no quiero inteligencia artificial>>
+Una de las empresas en las que más había invertido publicó unos resultados decepcionantes. Sus acciones cayeron con fuerza.
 
-David había invertido una cantidad considerable, convencido de que su tecnología revolucionaría el mercado.
-
-La compañía publicó unos resultados decepcionantes.
-
-Las acciones cayeron un treinta por ciento en dos días.
-
-Su asesor lo llamó inmediatamente.
+El asesor lo llamó inmediatamente.
 
 —Tenemos que reducir la exposición.
 
@@ -347,27 +338,17 @@ Su asesor lo llamó inmediatamente.
 
 —Puede seguir cayendo.
 
-—Entonces compraremos más.
+—Entonces compraré más.
 
 —David...
 
 —Es una oportunidad extraordinaria.
 
-Aumentó su posición.
+Aumentó su posición. Las acciones continuaron bajando.
 
-Las acciones continuaron bajando.
+Poco después, un escándalo contable hizo caer otra de las empresas de su cartera. David pasó días buscando información que demostrase que el mercado se equivocaba. Cada vez encontraba menos, pero se negó a vender.
 
-Poco después, otra de sus inversiones sufrió un desplome.
-
-Las entidades financieras empezaron a exigir garantías adicionales por los préstamos que había utilizado para financiar sus operaciones.
-
-David vendió parte de su cartera para cubrirlas.
-
-Después solicitó nuevos créditos, respaldados por otros activos de su patrimonio.
-
-Su asesor insistió en que estaba asumiendo un riesgo desproporcionado.
-
-David dejó de consultarle.
+Cuando su asesor volvió a llamarlo, no contestó.
 
 ***
 
@@ -405,15 +386,11 @@ David se levantó.
 
 ***
 
-A su regreso encontró varios mensajes urgentes de su asesor financiero.
+A su regreso encontró varios mensajes de su asesor financiero.
 
-El mercado había vuelto a caer.
+Durante su viaje había estallado una guerra que nadie esperaba. Los mercados habían caído y los inversores se habían apresurado a vender. Dos de sus principales inversiones habían perdido más de la mitad de su valor.
 
-Dos de sus principales inversiones habían perdido más de la mitad de su valor. Los bancos exigían nuevas garantías y amenazaban con liquidar posiciones.
-
-David pasó toda la noche revisando las cifras.
-
-Intentó construir un modelo que le permitiera recuperar las pérdidas.
+David pasó toda la noche revisando las cifras. Intentó calcular cuánto tendrían que subir las acciones para recuperar lo perdido.
 
 Se equivocó varias veces.
 
@@ -423,118 +400,44 @@ A las cinco de la mañana seguía sentado frente al ordenador.
 
 Finalmente llamó a su asesor.
 
-—Necesito liquidez.
+—Quiero vender.
 
-—¿Cuánta?
+Hubo un silencio al otro lado del teléfono.
 
-David le dio una cifra.
+—De acuerdo. Podemos revisar juntos las posiciones.
 
-Hubo un silencio.
+—Vende las dos.
 
-—No disponemos de esa cantidad.
+—¿Estás seguro?
 
-—Vende lo que sea necesario.
-
-—Ya hemos vendido gran parte de la cartera líquida.
-
-—Entonces utiliza las garantías.
-
-—David, las garantías están comprometidas.
-
-—Busca una solución.
-
-—La solución es dejar de operar y negociar con los bancos.
-
-—No pienso aceptar esas condiciones.
-
-—No tenemos muchas alternativas.
-
-—Siempre hay alternativas.
-
-—Esta vez no.
-
-***
-
-Durante las semanas siguientes perdió el control de su patrimonio.
-
-Los bancos ejecutaron garantías. Varias inversiones fueron liquidadas en el peor momento. Los préstamos, los intereses y las obligaciones pendientes consumieron buena parte de los activos que todavía conservaba.
-
-Su asesor consiguió evitar una situación aún peor, pero fue necesario vender propiedades y cancelar inversiones a largo plazo.
-
-El Ferrari fue el primero en desaparecer.
-
-Después el Lamborghini.
-
-David apenas prestó atención.
-
-Cuando le comunicaron que también tendría que vender la casa, reaccionó con incredulidad.
-
-—Es absurdo. Esa propiedad vale varios millones.
-
-—Precisamente por eso podemos obtener liquidez.
-
-—No pienso venderla.
-
-—Los bancos no van a esperar indefinidamente.
-
-—Negocia con ellos.
-
-—Llevamos semanas negociando.
-
-—Pues negocia mejor.
-
-El asesor guardó silencio.
-
-—David, tenemos que ser realistas.
-
-—No me hables como si fuera un idiota.
-
-—No lo estoy haciendo.
-
-—Entonces deja de explicarme cosas evidentes.
-
-***
-
-La última reunión se celebró en el despacho del asesor.
-
-Habían vendido la casa, liquidado casi todas sus inversiones y cancelado la mayor parte de las deudas.
-
-David conservaba una cantidad de dinero que para muchas personas habría sido una fortuna.
-
-Para él era una miseria.
-
-—Esta es la situación definitiva —dijo el asesor, entregándole un documento.
-
-David examinó las cifras.
-
-—¿Esto es todo?
+David miró la pantalla.
 
 —Sí.
 
-—¿Después de pagar todas las deudas?
+***
 
-—Después de pagar todas las deudas.
+La reunión se celebró unos días después en el despacho del asesor.
 
-—No puede ser.
+—Has perdido una parte importante de tus ahorros —dijo, entregándole un documento—. Pero sigues teniendo margen.
 
-—Lo hemos revisado varias veces.
+David examinó las cifras.
 
-David permaneció en silencio.
+—¿Cuánto?
 
-—Con este patrimonio puedes vivir razonablemente bien —continuó el asesor—. Pero tendrás que controlar los gastos.
+—Depende de cómo quieras vivir.
 
-—¿Controlar los gastos?
+—Quiero vivir como hasta ahora.
 
-—No puedes mantener el nivel de vida que tenías.
+El asesor esperó a que levantara la vista.
 
-David volvió a mirar el documento.
+—Sin tu sueldo y con lo que has perdido, tendrás que reducir algunos gastos. No inmediatamente, pero conviene que hagas planes.
 
-Intentó calcular cuánto tiempo podría vivir con aquella cantidad.
+—Puedo volver a trabajar.
 
-Hizo una operación mental, pero perdió el hilo.
+—Claro.
 
-Volvió a empezar.
+David volvió a mirar el documento. Intentó calcular cuánto tiempo podría mantener la casa con aquella cantidad. Empezó a multiplicar, perdió el hilo y volvió a intentarlo.
 
-El asesor esperó.
+—Puedes tomarte tu tiempo —dijo el asesor.
 
 David sacó el teléfono y abrió la calculadora.
