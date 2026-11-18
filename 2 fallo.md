@@ -28,19 +28,19 @@ Ella miró la pantalla.
 
 David volvió a mirar las cifras.
 
-Era obvio, estaba avergonzado, tuvo vértigo y se escondió diciendo.
+Era evidente. Sintió que le ardían las mejillas.
 
-—Sí, sí, evidente, pero hay algo que no me convence.
+—Sí, sí, evidente. Pero hay algo que no me convence.
 
 Clara regresó a su mesa.
+
+David cerró el documento. Llevaba veinte minutos intentando resolver un problema que Clara había identificado en unos segundos.
 
 No había dormido bien. Llevaba varios días con dolor de cabeza y una sensación de cansancio que no conseguía quitarse de encima. Probablemente estaba incubando una gripe.
 
 Aquella tarde se marchó temprano.
 
 A la mañana siguiente se encontraba mejor.
-
-O eso le pareció.
 
 Durante una reunión olvidó el nombre de uno de los principales clientes de la compañía. Lo conocía desde hacía años. Habían cenado juntos en numerosas ocasiones.
 
@@ -50,27 +50,35 @@ Durante una reunión olvidó el nombre de uno de los principales clientes de la 
 
 —Sí, Schneider. Como decía...
 
-Continuó sin dificultad, pero le molestó el incidente, nunca le había pasado.
+Continuó sin dificultad. Era la primera vez que le ocurría algo semejante.
 
 Siempre había tenido una memoria extraordinaria. Recordaba nombres, fechas, cifras y conversaciones de hacía años. Nunca necesitaba tomar notas.
-
-Últimamente, sin embargo, había empezado a apuntar algunas cosas.
 
 No era preocupante. Tenía demasiados asuntos en la cabeza.
 
 ***
 
-Las semanas siguientes fueron especialmente intensas. La nueva división europea exigía reuniones constantes, viajes y decisiones importantes. David trabajaba más de catorce horas al día.
+Los días siguientes transcurrieron sin incidentes.
 
-Al principio, los problemas eran insignificantes.
+David dirigió una negociación especialmente difícil con una empresa alemana. Durante más de cuatro horas discutieron cláusulas, cifras y condiciones. Recordaba cada detalle del contrato y detectó varias contradicciones que habían pasado inadvertidas a los abogados.
 
-Tardaba más en leer los informes. Tenía que repasar algunos párrafos. Olvidaba detalles de conversaciones recientes.
+Al terminar, el director financiero se acercó a felicitarlo.
 
-Después empezó a costarle concentrarse.
+—No sé cómo consigues retener tantas cifras.
 
-Una mañana, mientras revisaba una propuesta tecnológica, descubrió que llevaba casi una hora intentando comprender un algoritmo que él mismo había diseñado años atrás.
+—No es tan complicado.
 
-Conocía perfectamente su funcionamiento. Recordaba incluso algunas de las decisiones que había tomado durante su desarrollo.
+—Para ti, quizá.
+
+David sonrió.
+
+Se encontraba perfectamente. Había sido una semana agotadora y nada más.
+
+***
+
+Un mes después, mientras revisaba una propuesta tecnológica, descubrió que llevaba casi una hora intentando comprender un algoritmo que él mismo había diseñado años atrás.
+
+Conocía su funcionamiento. Recordaba incluso algunas de las decisiones que había tomado durante su desarrollo.
 
 Pero no conseguía seguir el razonamiento.
 
@@ -80,85 +88,71 @@ Nada.
 
 Cerró el ordenador de golpe.
 
-Necesitaba descansar.
+Aquella noche durmió nueve horas.
 
-Se tomó un fin de semana libre por primera vez en varios meses. Durmió, hizo ejercicio y salió con su bicicleta.
+A la mañana siguiente volvió a examinar el algoritmo. Esta vez lo comprendió en pocos minutos.
 
-El lunes volvió a examinar el algoritmo.
+Encontró incluso una pequeña mejora que había pasado inadvertida en el diseño original.
 
-Lo comprendió, pero necesitó casi toda la mañana.
+Se quedó satisfecho.
 
-Antes habría tardado unos minutos.
+Había sido una falta de concentración.
 
 ***
 
-—Creo que deberíamos reconsiderar la arquitectura —dijo David.
+Las semanas siguientes fueron especialmente intensas. La nueva división europea exigía reuniones constantes, viajes y decisiones importantes.
 
-Los seis ingenieros que participaban en la reunión guardaron silencio.
+De vez en cuando aparecía algún problema.
 
-—¿Por qué? —preguntó Andrés, el responsable técnico.
+Olvidaba detalles de conversaciones recientes. Tardaba más en leer determinados informes. En ocasiones tenía que repasar varias veces un párrafo.
 
-—No es suficientemente eficiente.
+Otras veces trabajaba con su rapidez habitual.
 
-—Hicimos las pruebas de rendimiento la semana pasada. Los resultados fueron excelentes.
+Una mañana resolvió en menos de una hora un problema de integración que llevaba semanas bloqueando a un equipo de ingenieros.
 
-—Hay un problema de escalabilidad.
+—Es increíble —comentó Andrés, el responsable técnico—. Llevamos quince días trabajando en esto.
 
-Andrés abrió un documento.
+—El problema era el planteamiento.
 
-—Precisamente lo comprobamos. Con esta configuración podemos multiplicar por diez el volumen actual sin degradación apreciable.
+—Nadie había pensado en hacerlo así.
 
-David examinó los gráficos.
+—Por eso me pagáis tanto.
 
-—Eso no demuestra nada.
+Andrés se rio.
 
-—También tenemos las simulaciones.
+David también.
 
-—Las simulaciones no siempre reflejan la realidad.
+Sin embargo, dos días después fue incapaz de encontrar un error en un programa relativamente sencillo.
 
-—Por supuesto. Pero fue la arquitectura que propusiste tú.
+Pidió a uno de los ingenieros que lo revisara.
 
-David levantó la vista.
+—Aquí está —dijo el joven, señalando una línea.
 
-—¿Y?
+David miró el código.
 
-—Que seguimos exactamente tus indicaciones.
+—Eso ya lo había visto.
 
-—Las circunstancias cambian, Andrés.
+—Ah, perdona.
 
-—Naturalmente. ¿Qué propones modificar?
+—Estaba comprobando si había algún otro problema.
 
-David miró el esquema.
+El ingeniero volvió a su mesa.
 
-Sabía que había algo que no le convencía. Una limitación, una dependencia, un problema que los demás no estaban viendo.
+David permaneció un rato mirando la pantalla.
 
-Pero no conseguía identificarlo.
-
-—Necesito revisar algunos detalles.
-
-—De acuerdo. ¿Seguimos adelante mientras tanto?
-
-David dudó.
-
-—Sí. De momento.
-
-Cuando terminó la reunión, se quedó solo en la sala.
-
-Abrió de nuevo el documento.
-
-La arquitectura era correcta.
-
-Había cuestionado durante media hora una solución que él mismo había diseñado.
+El error era elemental.
 
 ***
 
 Pasaron otros dos meses.
 
-David comenzó a evitar las reuniones técnicas. Delegaba decisiones que antes habría tomado personalmente y pedía informes cada vez más detallados.
+Los fallos empezaron a repetirse con mayor frecuencia.
 
-No le gustaba.
+Algunos días David trabajaba casi como siempre. Otros le costaba concentrarse, necesitaba consultar documentos y tardaba mucho más en tomar decisiones.
 
-Había construido su carrera resolviendo problemas que otros consideraban imposibles. Ahora algunos de esos problemas le parecían imposibles a él.
+Había empezado a utilizar una agenda para recordar reuniones y compromisos. También anotaba nombres, cifras y detalles que antes habría retenido sin esfuerzo.
+
+Le irritaba depender de aquellas notas.
 
 Una tarde, Clara entró en su despacho.
 
@@ -274,8 +268,6 @@ Pidió unos días de vacaciones. Se marchó a su casa de la sierra y desconectó
 
 Durmió mucho. Caminó, leyó y salió en bicicleta.
 
-Pero incluso leer se había vuelto difícil. Antes podía terminar un libro complejo en una tarde. Ahora tenía que releer páginas enteras.
-
 Intentó resolver algunos problemas matemáticos.
 
 Empezó por uno que recordaba de sus años universitarios. Lo había resuelto a los dieciséis años en menos de una hora.
@@ -284,43 +276,99 @@ Pasó toda la mañana trabajando en él.
 
 No encontró la solución.
 
-Probó otro más sencillo.
+Probó otro más sencillo. Esta vez consiguió resolverlo, aunque necesitó bastante más tiempo del que esperaba.
 
-Tampoco.
+Al día siguiente volvió al primer problema.
 
-Arrojó el cuaderno sobre la mesa.
+Después de varias horas encontró la solución.
 
-No era posible.
+Era correcta, pero mucho menos elegante que la que recordaba haber obtenido años atrás.
 
-Había dedicado toda su vida a cultivar su inteligencia. Había aprendido idiomas por diversión, estudiado matemáticas avanzadas, leído filosofía, física y economía.
+Se quedó mirando el cuaderno.
 
-Y ahora no conseguía resolver problemas que antes le parecían elementales.
-
-Se sirvió un vaso de agua y permaneció largo rato mirando por la ventana.
+Antes había disfrutado con aquellos problemas. Ahora le producían una irritación insoportable.
 
 ***
 
 Regresó al trabajo el lunes siguiente.
 
-—Tienes reunión con el presidente a las diez —le recordó Clara.
+Durante la primera semana no tuvo dificultades importantes. Dirigió varias reuniones, revisó los presupuestos de la división y resolvió una disputa entre dos equipos.
 
-—Lo sé.
+Empezó a recuperar la confianza.
 
-—Y con el equipo de Frankfurt a las doce.
+Sin embargo, había algo que no conseguía ignorar.
 
-—También lo sé.
+Antes las soluciones aparecían casi inmediatamente en su cabeza. Ahora necesitaba detenerse, ordenar las ideas y comprobar sus razonamientos.
 
-—Te he preparado los documentos.
+Seguía encontrando soluciones que otros no veían.
 
-—No necesito que me organices la vida.
+Pero le costaba mucho más.
 
-Clara dejó la carpeta sobre la mesa.
+Y cada vez tenía más días malos.
 
-—Es mi trabajo.
+***
 
-David no contestó.
+—Creo que deberíamos reconsiderar la arquitectura —dijo David.
 
-A las diez entró en el despacho del presidente.
+Los seis ingenieros que participaban en la reunión guardaron silencio.
+
+—¿Por qué? —preguntó Andrés.
+
+—No es suficientemente eficiente.
+
+—Hicimos las pruebas de rendimiento la semana pasada. Los resultados fueron excelentes.
+
+—Hay un problema de escalabilidad.
+
+Andrés abrió un documento.
+
+—Precisamente lo comprobamos. Con esta configuración podemos multiplicar por diez el volumen actual sin degradación apreciable.
+
+David examinó los gráficos.
+
+—Eso no demuestra nada.
+
+—También tenemos las simulaciones.
+
+—Las simulaciones no siempre reflejan la realidad.
+
+—Por supuesto. Pero fue la arquitectura que propusiste tú.
+
+David levantó la vista.
+
+—¿Y?
+
+—Que seguimos exactamente tus indicaciones.
+
+—Las circunstancias cambian, Andrés.
+
+—Naturalmente. ¿Qué propones modificar?
+
+David miró el esquema.
+
+Sabía que había algo que no le convencía. Una limitación, una dependencia, un problema que los demás no estaban viendo.
+
+Pero no conseguía identificarlo.
+
+—Necesito revisar algunos detalles.
+
+—De acuerdo. ¿Seguimos adelante mientras tanto?
+
+David dudó.
+
+—Sí. De momento.
+
+Cuando terminó la reunión, se quedó solo en la sala.
+
+Abrió de nuevo el documento.
+
+La arquitectura era correcta.
+
+Había cuestionado durante media hora una solución que él mismo había diseñado.
+
+***
+
+Una semana después, el presidente lo llamó a su despacho.
 
 —Siéntate, David.
 
@@ -400,21 +448,21 @@ Salió del despacho dando un portazo.
 
 Aquella misma tarde reunió a su equipo.
 
-Quería demostrar que seguía siendo capaz de dirigir cualquier proyecto. Había elegido un problema especialmente complicado, relacionado con la integración de dos plataformas tecnológicas.
+Había estado revisando un problema especialmente complicado, relacionado con la integración de dos plataformas tecnológicas. Creía haber encontrado una solución mejor que la propuesta por sus ingenieros.
 
-Lo había estudiado durante el fin de semana.
-
-—La solución que proponéis es innecesariamente compleja —comenzó.
+—La arquitectura que habéis diseñado es innecesariamente compleja —comenzó.
 
 Andrés intervino.
 
 —Es la que acordamos la semana pasada.
 
-—He encontrado una alternativa mejor.
+—He encontrado una alternativa.
 
 David se acercó a la pizarra y comenzó a dibujar un esquema.
 
 Durante los primeros minutos todo fue bien.
+
+Explicó las ventajas de su propuesta y respondió a varias preguntas. Incluso Andrés pareció convencido.
 
 Después se confundió con una de las conexiones.
 
@@ -436,19 +484,21 @@ Intentó modificar el esquema, pero apareció otra contradicción.
 
 Miró la pizarra.
 
-Las líneas, las flechas y los componentes parecían mezclarse. Sabía que había una solución. Estaba seguro de que podía encontrarla.
+Conocía perfectamente aquellos sistemas. Había diseñado algunos de sus componentes y sabía que el problema tenía solución.
 
-Solo necesitaba pensar.
+Pero las líneas y las conexiones empezaron a confundirse.
+
+Intentó recordar qué estaba explicando.
+
+No pudo.
 
 Notó un calor repentino.
 
 Se aflojó la corbata.
 
-—¿Estás bien? —preguntó alguien.
+—¿Estás bien? —preguntó Andrés.
 
 —Perfectamente.
-
-Intentó continuar, pero había olvidado qué estaba explicando.
 
 Se apoyó en la mesa.
 
@@ -488,69 +538,4 @@ David se dejó caer sobre la almohada.
 
 Recordaba la reunión. La pizarra. Las miradas de sus ingenieros.
 
-No recordaba cómo había terminado en el suelo.
-
-***
-
-Las primeras pruebas no revelaron nada especialmente preocupante. Le recomendaron descanso y nuevas exploraciones si los síntomas continuaban.
-
-David regresó a casa convencido de que había sufrido un episodio de agotamiento.
-
-Pero los problemas continuaron.
-
-Una mañana olvidó una reunión importante. Otro día fue incapaz de recordar una contraseña que llevaba años utilizando.
-
-Cada vez tardaba más en tomar decisiones.
-
-Antes, cuando alguien le planteaba un problema, la solución aparecía casi inmediatamente en su cabeza. Ahora necesitaba tiempo, papel, calculadora y, en ocasiones, ayuda.
-
-Lo peor era que empezaba a equivocarse.
-
-Sus colaboradores revisaban sus decisiones. Algunos le corregían. Otros, más discretos, simplemente dejaban de consultarle.
-
-David se daba cuenta.
-
-Y lo detestaba.
-
-***
-
-El presidente volvió a llamarlo.
-
-Esta vez fue más directo.
-
-—David, necesitamos tomar una decisión.
-
-—Ya la he tomado.
-
-Sacó un sobre de su cartera y lo dejó sobre la mesa.
-
-—Mi dimisión.
-
-El presidente lo miró sorprendido.
-
-—No es necesario llegar a esto.
-
-—No voy a aceptar que me supervisen personas a las que yo he formado.
-
-—Podrías tomarte unos meses de descanso.
-
-—No necesito vacaciones.
-
-—Entonces, ¿qué necesitas?
-
-David no respondió.
-
-—Eres uno de los hombres más brillantes que he conocido —continuó el presidente—. Nadie está poniendo eso en duda.
-
-—No necesito que me recuerdes lo que soy.
-
-El presidente abrió el sobre.
-
-—¿Estás seguro?
-
-—Completamente.
-
-Se estrecharon la mano.
-
-David salió del edificio sin despedirse de nadie.
-
+Y a Andrés corrigiendo su esquema delante de todos.
