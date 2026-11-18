@@ -122,26 +122,6 @@ Andrés se rio.
 
 David también.
 
-Sin embargo, dos días después fue incapaz de encontrar un error en un programa relativamente sencillo.
-
-Pidió a uno de los ingenieros que lo revisara.
-
-—Aquí está —dijo el joven, señalando una línea.
-
-David miró el código.
-
-—Eso ya lo había visto.
-
-—Ah, perdona.
-
-—Estaba comprobando si había algún otro problema.
-
-El ingeniero volvió a su mesa.
-
-David permaneció un rato mirando la pantalla.
-
-El error era elemental.
-
 ***
 
 Pasaron otros dos meses.
@@ -286,7 +266,9 @@ Era correcta, pero mucho menos elegante que la que recordaba haber obtenido año
 
 Se quedó mirando el cuaderno.
 
-Antes había disfrutado con aquellos problemas. Ahora le producían una irritación insoportable.
+Antes, cuando encontraba la solución, se quedaba un rato contemplándola. Le gustaba descubrir cómo encajaban las piezas, como si el problema le hubiera estado ocultando algo a plena vista.
+
+Ahora solo podía pensar en el tiempo que había tardado. Cerró el cuaderno.
 
 ***
 
@@ -364,7 +346,7 @@ Abrió de nuevo el documento.
 
 La arquitectura era correcta.
 
-Había cuestionado durante media hora una solución que él mismo había diseñado.
+Cerró el documento sin guardar las notas.
 
 ***
 

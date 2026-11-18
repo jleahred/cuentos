@@ -120,11 +120,17 @@ Su alimentación también empeoró. Dejó de preocuparse por las calorías y los
 
 El jardín comenzó a parecerle un lugar extraño. Durante semanas no salió de casa salvo para acudir a alguna consulta médica.
 
-Clara lo llamó varias veces.
+Clara lo llamó varias veces. No contestó.
 
-También Marta, desde Barcelona.
+Una tarde apareció el nombre de Marta en la pantalla. David dejó que sonara. Al poco recibió un mensaje.
 
-No contestó.
+«He visto que hoy hace sol en Madrid. Puedes salir al jardín; creo que sigue detrás de la casa».
+
+David sonrió. Escribió «No tengo jardín» y lo borró. Después escribió «Estoy bien».
+
+Marta respondió enseguida: «No te he preguntado».
+
+David dejó el teléfono sobre la mesa. Al cabo de un rato volvió a cogerlo, pero no escribió nada más.
 
 ***
 
@@ -224,7 +230,7 @@ Algunos especialistas reconocían pequeñas alteraciones en determinadas pruebas
 
 Todos coincidían en algo: seguía teniendo una capacidad intelectual superior a la media.
 
-Aquello no le consolaba, sólo era un poco menos tonto.
+David guardó los informes en la carpeta sin volver a mirarlos.
 
 ***
 
@@ -386,9 +392,13 @@ David se levantó.
 
 ***
 
-A su regreso encontró varios mensajes de su asesor financiero.
+Al aterrizar, encendió el teléfono. Tenía varios mensajes de su asesor financiero.
 
-Durante su viaje había estallado una guerra que nadie esperaba. Los mercados habían caído y los inversores se habían apresurado a vender. Dos de sus principales inversiones habían perdido más de la mitad de su valor.
+En la pantalla del aeropuerto, un presentador hablaba del estallido de una guerra. Las imágenes mostraban humo sobre una ciudad que David no reconoció. Un rótulo anunciaba caídas en las bolsas.
+
+Abrió su cartera. Dos de sus principales inversiones habían perdido más de la mitad de su valor desde que las compró.
+
+El teléfono volvió a vibrar. Era su asesor. David lo dejó sonar mientras miraba las cifras.
 
 David pasó toda la noche revisando las cifras. Intentó calcular cuánto tendrían que subir las acciones para recuperar lo perdido.
 
