@@ -246,7 +246,7 @@ El semáforo seguía en rojo. El primero, un hombre de pelo canoso y piernas del
 
 —Estupendo. Nosotros tampoco nos ponemos de acuerdo nunca.
 
-El semáforo cambió y arrancaron juntos. Al llegar a la rotonda, David tomó la misma salida que ellos. Rodaron un rato por una vía tranquila, hasta que el hombre canoso se puso a su lado.
+El semáforo cambió y arrancaron juntos. Al llegar a la rotonda, David tomó la misma salida que ellos. Rodaron un rato por una vía tranquila, hasta que el hombre canoso se puso a su lado. Su bicicleta era antigua y sencilla, con la pintura gastada en algunos puntos y una bolsa sujeta bajo el sillín.
 
 —Soy Enrique.
 
@@ -262,7 +262,7 @@ El semáforo cambió y arrancaron juntos. Al llegar a la rotonda, David tomó la
 
 —Pues yo soy ciclista profesional.
 
-David lo miró. El hombre debía de tener más de sesenta años y llevaba un maillot con una mancha junto a la cremallera.
+David lo miró. El hombre debía de tener más de sesenta años y esa bici...
 
 —¿Qué?
 
@@ -288,13 +288,13 @@ Poco después llegaron a un cruce. David dijo que seguiría por su cuenta. Enriq
 
 —He dicho que estaba en paro.
 
-—Tienes razón. Mi ahijada dirige una sección de una empresa de logística y necesita a alguien. Está cerca de aquí. Si te interesa, puedes pasarte a hablar con ella.
+—Tienes razón. Conozco mi sobrina trabaja en una empresa de logística y necesitan a alguien. Está cerca de aquí. Si te interesa, puedes pasarte a preguntar.
 
 David dudó.
 
 —No tengo experiencia en logística.
 
-—Pregúntaselo a ella. Se llama Gema.
+—Nadie la tiene.
 
 Enrique le dio el nombre de la empresa y la dirección. David los anotó en el teléfono. Después vio alejarse al grupo y emprendió el camino en dirección contraria.
 
@@ -395,6 +395,20 @@ Se alejó con la carpeta y David regresó a recepción con la hoja en la mano. A
 El lunes, Elena lo recibió en la oficina.
 
 —Tú eres David, ¿no? Soy Elena. Ven, te enseño esto antes de que empiecen a llegar los transportistas.
+
+—Vine por Enrique. Él me habló del trabajo.
+
+—¿Enrique? No me digas que te ha contado lo del ciclista profesional.
+
+—Sí. ¿Lo conoces?
+
+Elena se rio.
+
+—Desde hace años. ¿Todavía va contando ese chiste?
+
+—Me temo que sí.
+
+—Pues habrá que aguantarlo otros cuantos.
 
 Elena le enseñó las mesas de la oficina, la zona de recepción de mercancías y el programa donde registraban las entregas. Le presentó a Rafa, que estaba preparando unos envíos, y le indicó una mesa libre junto a la suya.
 

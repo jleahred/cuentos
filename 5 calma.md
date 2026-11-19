@@ -32,9 +32,9 @@ Arrancaron cuando el semáforo se puso verde. David rodó un rato al final del g
 
 Pararon en la de las tostadas pequeñas. David pidió una infusión y una tostada con tomate.
 
-—¿Has hablado con mi ahijada? —le preguntó Enrique.
+—¿Qué tal en la empresa de mi sobrina? —le preguntó Enrique.
 
-—Sí. He empezado a trabajar allí.
+—He empezado esta semana.
 
 —¡Pues enhorabuena!
 
@@ -46,20 +46,6 @@ Pararon en la de las tostadas pequeñas. David pidió una infusión y una tostad
 
 —¿Cómo?
 
-—Fuimos por la oficina y la nave. Ella hablaba por teléfono y yo iba detrás.
-
-Enrique se rio.
-
-—Esa es Gema. ¿Te dio tiempo a decirle algo?
-
-—Sí. Tres veces que sí y una que el lunes.
-
-—Pues habéis tenido suerte los dos. De pequeña no callaba ni debajo del agua.
-
-—¿Y ahora? —preguntó uno.
-
-—Ahora le pagan.
-
 La camarera llegó con las tostadas. El que había defendido aquella cafetería señaló la suya.
 
 —¿Veis? No es tan pequeña.
@@ -69,42 +55,6 @@ La camarera lo miró.
 —Te he puesto dos mitades.
 
 Los demás se echaron a reír. David también sonrió, mientras apartaba la taza para hacer sitio al plato.
-
-***
-
-Aquella tarde, al entrar en el portal con la bicicleta, encontró a Lucía sentada en el último escalón. Tenía una hoja de papel sobre las rodillas y una caja de lápices abierta a su lado.
-
-—¿Qué haces? —preguntó David.
-
-—Un cartel.
-
-En la hoja había dibujado una bicicleta roja con unas ruedas mucho más grandes que el cuadro.
-
-—Es la mía —dijo ella—. Para la carrera.
-
-—¿Qué carrera?
-
-—Una que vamos a hacer Dani y yo. Pero dice que él gana porque es más mayor.
-
-—Eso no significa que vaya a ganar.
-
-—Ya se lo he dicho.
-
-David miró el dibujo.
-
-—Con esas ruedas, quizá tengas un problema para pasar por debajo de los árboles.
-
-Lucía miró la hoja y luego a él.
-
-—No pasa por debajo. Los salta.
-
-—Ah. Entonces no he dicho nada.
-
-Ella cogió un lápiz verde y dibujó un árbol diminuto bajo una de las ruedas. David apoyó la bicicleta y sujetó la caja de lápices, que empezaba a deslizarse por el escalón.
-
-—Gracias —dijo Lucía.
-
-Al día siguiente, David encontró el cartel pegado en el portal. Debajo de la bicicleta, Lucía había añadido un árbol y una figura con casco que parecía mirar hacia arriba.
 
 ***
 
