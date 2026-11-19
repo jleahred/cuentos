@@ -228,4 +228,4 @@ Elena dejó el portátil en su mesa y se fue al baño. Rafa esperó a que la pue
 
 —¿Sí? ¿Y eso?
 
-—No conoces a Gema. Por menos ha despedido a unos cuantos. Uf.
+—No conoces a Gema. Por menos ha decapitado a unos cuantos. Uf.
