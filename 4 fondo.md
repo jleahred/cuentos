@@ -288,7 +288,7 @@ Poco después llegaron a un cruce. David dijo que seguiría por su cuenta. Enriq
 
 —He dicho que estaba en paro.
 
-—Tienes razón. Mi sobrina dirige una sección de una empresa de logística y necesita a alguien. Está cerca de aquí. Si te interesa, puedes pasarte a hablar con ella.
+—Tienes razón. Mi ahijada dirige una sección de una empresa de logística y necesita a alguien. Está cerca de aquí. Si te interesa, puedes pasarte a hablar con ella.
 
 David dudó.
 
