@@ -98,6 +98,10 @@ El presidente suspiró.
 
 ***
 
+Recursos Humanos le confirmó que tendría que dejar la casa. Le darían tiempo para buscar otra. David dejó el mensaje sin contestar; ya se ocuparía de eso.
+
+***
+
 Durante las primeras semanas intentó mantener sus costumbres.
 
 Se levantaba temprano, hacía ejercicio y dedicaba varias horas al estudio. Compró nuevos libros de matemáticas y física, convencido de que la actividad intelectual le ayudaría a recuperar sus facultades.
@@ -236,27 +240,9 @@ David guardó los informes en la carpeta sin volver a mirarlos.
 
 Los meses pasaron.
 
-David dejó de viajar por placer. Apenas veía a sus amigos y evitaba las reuniones sociales.
+David dejó de viajar por placer y evitaba las reuniones sociales.
 
 Había perdido interés por casi todo.
-
-Una tarde encendió el televisor.
-
-Estaban emitiendo un concurso en el que varios participantes respondían preguntas de cultura general.
-
-Las primeras le parecieron ridículamente fáciles.
-
-Después apareció una pregunta de historia.
-
-Conocía la respuesta. Estaba seguro de haberla leído muchas veces.
-
-Pero no conseguía recordarla.
-
-El concursante acertó.
-
-David apagó el televisor.
-
-Al día siguiente volvió a encenderlo.
 
 ***
 
@@ -300,35 +286,7 @@ El asesor cerró la carpeta.
 
 ***
 
-Al principio, las inversiones fueron bien.
-
-David había identificado varias compañías con un enorme potencial de crecimiento. Algunas subieron con fuerza y obtuvo beneficios importantes.
-
-Se sintió reivindicado.
-
-Durante unas semanas recuperó parte de su antigua energía. Volvió a estudiar los mercados, revisó balances y construyó modelos financieros.
-
-Pero cada vez le costaba más.
-
-En ocasiones confundía cifras, olvidaba datos relevantes o interpretaba mal los resultados.
-
-Su asesor detectó varios errores en sus cálculos.
-
-—Has utilizado el beneficio bruto en lugar del operativo.
-
-—Es una simplificación.
-
-—Cambia completamente la valoración.
-
-—No cambia la tesis de inversión.
-
-—David, estamos hablando de una parte importante de tus ahorros.
-
-—Sé perfectamente de cuánto estamos hablando.
-
-No modificó sus posiciones.
-
-***
+Al principio, las inversiones fueron bien. Durante unas semanas David recuperó parte de su antigua energía, pero cada vez le costaba más seguir las cifras y revisar sus cálculos.
 
 Una de las empresas en las que más había invertido publicó unos resultados decepcionantes. Sus acciones cayeron con fuerza.
 
@@ -440,14 +398,8 @@ David examinó las cifras.
 
 El asesor esperó a que levantara la vista.
 
-—Sin tu sueldo y con lo que has perdido, tendrás que reducir algunos gastos. No inmediatamente, pero conviene que hagas planes.
+—Sin tu sueldo y con lo que has perdido, tendrás que reducir algunos gastos. Y buscar una casa cuando dejes la de la empresa.
 
 —Puedo volver a trabajar.
 
 —Claro.
-
-David volvió a mirar el documento. Intentó calcular cuánto tiempo podría mantener la casa con aquella cantidad. Empezó a multiplicar, perdió el hilo y volvió a intentarlo.
-
-—Puedes tomarte tu tiempo —dijo el asesor.
-
-David sacó el teléfono y abrió la calculadora.

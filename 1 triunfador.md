@@ -8,9 +8,9 @@ David sonrió mientras esperaban el coche.
 
 —No era una amenaza. Me habría levantado.
 
-—Y habrías perdido un contrato de trescientos millones.
+—Y habrías perdido un contrato de tres millones.
 
-—Trescientos veinte.
+—Tres y medio.
 
 —Perdona. Qué vulgaridad por mi parte.
 
@@ -96,7 +96,7 @@ David sonrió mientras esperaban el coche.
 
 —Disfruto de muchas cosas.
 
-—Ya. Tienes una casa maravillosa en la que apenas estás.
+—Ya. La empresa te pone una casa maravillosa y apenas estás en ella.
 
 —Estoy todos los días.
 
@@ -132,7 +132,7 @@ David sonrió mientras esperaban el coche.
 
 Marta sonrió.
 
-—¿Y tu coche? Te pasaste semanas eligiéndolo y apenas lo utilizas.
+—¿Y tu deportivo? Te pasaste semanas eligiéndolo y apenas lo utilizas.
 
 —Lo utilizo cuando tengo ocasión.
 
@@ -180,9 +180,9 @@ Marta sonrió.
 
 —Todavía tenemos que hablar de las condiciones.
 
-—Por supuesto. Medio millón al año debe de ser una miseria para ti.
+—Por supuesto. Nunca te pagan bastante.
 
-—Gano bastante más con los incentivos.
+—Depende de los incentivos.
 
 —Pobrecito. No sé cómo llegas a fin de mes.
 
@@ -220,7 +220,7 @@ Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asi
 
 —Desde pequeño he sido diferente. En el colegio...
 
-—Ya conozco la historia, David. Ibas varios cursos por delante de tus compañeros, entraste en la universidad con quince años, terminaste antes de los veinte y a los veintidós fundaste tu empresa. Una multinacional americana te compró la empresa y, por si fuera poco, decidió quedarse contigo. ¿Me he dejado algo?
+—Ya conozco la historia, David. Ibas varios cursos por delante de tus compañeros y entraste en la universidad con quince años. ¿Me he dejado algo?
 
 —Mi extraordinaria memoria.
 
@@ -254,7 +254,7 @@ Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asi
 
 —Y se lo dan. Es un negocio.
 
-—Exactamente. La televisión no es mala porque sus responsables sean idiotas. Es mala porque conocen a su público.
+—Exactamente. Ahí tienes una medida objetiva.
 
 —David, a veces la gente solo quiere entretenerse.
 

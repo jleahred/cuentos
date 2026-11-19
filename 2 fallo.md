@@ -108,19 +108,7 @@ Olvidaba detalles de conversaciones recientes. Tardaba más en leer determinados
 
 Otras veces trabajaba con su rapidez habitual.
 
-Una mañana resolvió en menos de una hora un problema de integración que llevaba semanas bloqueando a un equipo de ingenieros.
-
-—Es increíble —comentó Andrés, el responsable técnico—. Llevamos quince días trabajando en esto.
-
-—El problema era el planteamiento.
-
-—Nadie había pensado en hacerlo así.
-
-—Por eso me pagáis tanto.
-
-Andrés se rio.
-
-David también.
+Una mañana ayudó a Andrés y a su equipo a resolver un problema de integración. Durante unas horas se olvidó de sus dificultades y disfrutó del trabajo como antes.
 
 ***
 
@@ -290,63 +278,9 @@ Y cada vez tenía más días malos.
 
 ***
 
-—Creo que deberíamos reconsiderar la arquitectura —dijo David.
+Una tarde revisó la arquitectura de uno de los proyectos. Durante un buen rato estuvo convencido de que había una limitación que los ingenieros no habían visto. Buscó entre sus notas, repasó las pruebas y volvió a examinar el esquema.
 
-Los seis ingenieros que participaban en la reunión guardaron silencio.
-
-—¿Por qué? —preguntó Andrés.
-
-—No es suficientemente eficiente.
-
-—Hicimos las pruebas de rendimiento la semana pasada. Los resultados fueron excelentes.
-
-—Hay un problema de escalabilidad.
-
-Andrés abrió un documento.
-
-—Precisamente lo comprobamos. Con esta configuración podemos multiplicar por diez el volumen actual sin degradación apreciable.
-
-David examinó los gráficos.
-
-—Eso no demuestra nada.
-
-—También tenemos las simulaciones.
-
-—Las simulaciones no siempre reflejan la realidad.
-
-—Por supuesto. Pero fue la arquitectura que propusiste tú.
-
-David levantó la vista.
-
-—¿Y?
-
-—Que seguimos exactamente tus indicaciones.
-
-—Las circunstancias cambian, Andrés.
-
-—Naturalmente. ¿Qué propones modificar?
-
-David miró el esquema.
-
-Sabía que había algo que no le convencía. Una limitación, una dependencia, un problema que los demás no estaban viendo.
-
-Pero no conseguía identificarlo.
-
-—Necesito revisar algunos detalles.
-
-—De acuerdo. ¿Seguimos adelante mientras tanto?
-
-David dudó.
-
-—Sí. De momento.
-
-Cuando terminó la reunión, se quedó solo en la sala.
-
-Abrió de nuevo el documento.
-
-La arquitectura era correcta.
-
-Cerró el documento sin guardar las notas.
+Al final encontró el problema. Él mismo lo había resuelto en una versión anterior del documento.
 
 ***
 
