@@ -1,11 +1,5 @@
 ### 4. Fondo
 
-Antes de mudarse, David borró las fotografías, publicaciones y datos de sus redes sociales y cerró todas sus cuentas. Eliminó sus mensajes y canceló sus direcciones de correo. Cambió de número de teléfono y no dio el nuevo ni su dirección a nadie de su vida anterior.
-
-El último mensaje de Marta seguía sin respuesta. Lo leyó una vez más antes de borrarlo y apagar el teléfono antiguo.
-
-***
-
 La caja se rompió en el portal.
 
 David había bajado del coche las cosas que no quería dejar en manos de los de la mudanza. En aquella caja llevaba libros. El fondo cedió cuando intentaba abrir la puerta y los libros quedaron desparramados por el suelo.
@@ -51,6 +45,12 @@ El piso estaba en una calle tranquila, a diez minutos andando de una estación d
 El propietario le había dicho que entraba mucha luz por las mañanas. David había ido a verlo por la tarde y no había vuelto para comprobarlo.
 
 Los de la mudanza subieron los muebles y las cajas. Cuando se marcharon, David se quedó de pie en medio del salón.
+
+Sacó el ordenador de una caja y lo puso sobre la mesa. Borró las fotografías, publicaciones y datos de sus redes sociales y cerró todas sus cuentas. Eliminó sus mensajes y canceló sus direcciones de correo.
+
+El último mensaje de Marta seguía sin respuesta. Lo leyó una vez más antes de borrarlo y apagar el teléfono antiguo. Ya tenía un número nuevo. No se lo daría a nadie de su vida anterior; tampoco les diría dónde vivía.
+
+Para David, David había muerto.
 
 La bicicleta estaba apoyada contra la pared, junto a la mesa. Había pensado guardarla en el trastero, pero el trastero olía a humedad y la puerta no cerraba bien.
 
