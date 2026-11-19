@@ -1,6 +1,6 @@
 ### 5. Calma
 
-El martes, David llegó al semáforo a las nueve menos cinco.
+El sábado, David llegó al semáforo a las nueve menos cinco.
 
 Se dijo que había elegido aquella ruta porque le gustaba. El semáforo estaba en su camino y no había razón para dar un rodeo.
 
@@ -32,7 +32,7 @@ Arrancaron cuando el semáforo se puso verde. David rodó un rato al final del g
 
 Pararon en la de las tostadas pequeñas. David pidió una infusión y una tostada con tomate.
 
-—¿Qué tal en la empresa de mi sobrina? —le preguntó Enrique.
+—¿Qué tal en la empresa de mi ahijada? —le preguntó Enrique.
 
 —He empezado esta semana.
 
@@ -55,6 +55,28 @@ La camarera lo miró.
 —Te he puesto dos mitades.
 
 Los demás se echaron a reír. David también sonrió, mientras apartaba la taza para hacer sitio al plato.
+
+***
+
+Aquella tarde, David encontró a Lucía sentada en un escalón del portal. Dibujaba una bicicleta roja con unas ruedas enormes.
+
+—Es la mía —dijo ella, al verlo mirar.
+
+—Con esas ruedas no vas a pasar por debajo de los árboles.
+
+—Los salta.
+
+David volvió a mirar el dibujo.
+
+—Ah. Entonces no he dicho nada.
+
+Lucía cogió un lápiz verde. La caja empezó a deslizarse por el escalón y David la sujetó mientras ella dibujaba un árbol diminuto debajo de la bicicleta.
+
+—Ese es el primero —dijo.
+
+—Te quedan muchos.
+
+David se sentó un momento a su lado, con la caja de lápices entre las manos.
 
 ***
 

@@ -76,47 +76,7 @@ Se encontraba perfectamente. Había sido una semana agotadora y nada más.
 
 ***
 
-Un mes después, mientras revisaba una propuesta tecnológica, descubrió que llevaba casi una hora intentando comprender un algoritmo que él mismo había diseñado años atrás.
-
-Conocía su funcionamiento. Recordaba incluso algunas de las decisiones que había tomado durante su desarrollo.
-
-Pero no conseguía seguir el razonamiento.
-
-Se levantó, caminó por el despacho y volvió a sentarse.
-
-Nada.
-
-Cerró el ordenador de golpe.
-
-Aquella noche durmió nueve horas.
-
-A la mañana siguiente volvió a examinar el algoritmo. Esta vez lo comprendió en pocos minutos.
-
-Encontró incluso una pequeña mejora que había pasado inadvertida en el diseño original.
-
-Se quedó satisfecho.
-
-Había sido una falta de concentración.
-
-***
-
-Las semanas siguientes fueron especialmente intensas. La nueva división europea exigía reuniones constantes, viajes y decisiones importantes.
-
-De vez en cuando aparecía algún problema.
-
-Olvidaba detalles de conversaciones recientes. Tardaba más en leer determinados informes. En ocasiones tenía que repasar varias veces un párrafo.
-
-Otras veces trabajaba con su rapidez habitual.
-
-Una mañana ayudó a Andrés y a su equipo a resolver un problema de integración. Durante unas horas se olvidó de sus dificultades y disfrutó del trabajo como antes.
-
-***
-
-Pasaron otros dos meses.
-
-Los fallos empezaron a repetirse con mayor frecuencia.
-
-Algunos días David trabajaba casi como siempre. Otros le costaba concentrarse, necesitaba consultar documentos y tardaba mucho más en tomar decisiones.
+Durante los dos meses siguientes, la nueva división europea exigió reuniones constantes, viajes y decisiones importantes. Algunos días David trabajaba con su rapidez habitual. Otros olvidaba detalles de conversaciones recientes y necesitaba leer varias veces un informe.
 
 Había empezado a utilizar una agenda para recordar reuniones y compromisos. También anotaba nombres, cifras y detalles que antes habría retenido sin esfuerzo.
 
@@ -232,7 +192,7 @@ Había sido incapaz de explicar unos cálculos que él mismo había realizado.
 
 Por primera vez sintió miedo.
 
-Pidió unos días de vacaciones. Se marchó a su casa de la sierra y desconectó el teléfono.
+Pidió unos días de vacaciones. Se quedó en casa y desconectó el teléfono.
 
 Durmió mucho. Caminó, leyó y salió en bicicleta.
 
@@ -260,27 +220,7 @@ Ahora solo podía pensar en el tiempo que había tardado. Cerró el cuaderno.
 
 ***
 
-Regresó al trabajo el lunes siguiente.
-
-Durante la primera semana no tuvo dificultades importantes. Dirigió varias reuniones, revisó los presupuestos de la división y resolvió una disputa entre dos equipos.
-
-Empezó a recuperar la confianza.
-
-Sin embargo, había algo que no conseguía ignorar.
-
-Antes las soluciones aparecían casi inmediatamente en su cabeza. Ahora necesitaba detenerse, ordenar las ideas y comprobar sus razonamientos.
-
-Seguía encontrando soluciones que otros no veían.
-
-Pero le costaba mucho más.
-
-Y cada vez tenía más días malos.
-
-***
-
-Una tarde revisó la arquitectura de uno de los proyectos. Durante un buen rato estuvo convencido de que había una limitación que los ingenieros no habían visto. Buscó entre sus notas, repasó las pruebas y volvió a examinar el esquema.
-
-Al final encontró el problema. Él mismo lo había resuelto en una versión anterior del documento.
+Regresó al trabajo el lunes siguiente. Seguía encontrando soluciones, pero necesitaba detenerse, ordenar las ideas y comprobar sus razonamientos.
 
 ***
 

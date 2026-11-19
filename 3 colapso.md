@@ -98,7 +98,7 @@ El presidente suspiró.
 
 ***
 
-Recursos Humanos le confirmó que tendría que dejar la casa. Le darían tiempo para buscar otra. David dejó el mensaje sin contestar; ya se ocuparía de eso.
+Recursos Humanos le confirmó que tendría que dejar la casa. Podía quedarse unos meses más pagando el alquiler. David aceptó sin buscar otra; ya se ocuparía de eso.
 
 ***
 
@@ -194,37 +194,9 @@ El médico guardó silencio.
 
 Las nuevas pruebas tampoco ofrecieron respuestas concluyentes.
 
-David consultó a otros dos especialistas en Madrid. Después viajó a Barcelona.
+David consultó a otros especialistas, primero en Madrid y después fuera de España. Unos insistían en el estrés y la falta de sueño; otros solicitaban nuevas pruebas.
 
-Uno de los médicos sugirió que podía tratarse de un trastorno funcional. Otro consideró necesario estudiar posibles causas neurológicas poco frecuentes. Un tercero insistió en la influencia del estrés y la falta de sueño.
-
-Ninguno encontró una explicación convincente.
-
-David empezó a desconfiar de todos ellos.
-
-—Los médicos son incapaces de reconocer lo que no saben —le comentó a su asesor financiero durante una comida.
-
-—Quizá deberías darles tiempo.
-
-—Llevo meses dándoles tiempo.
-
-—Son especialistas.
-
-—Especialistas en cobrar consultas.
-
-—¿Y qué vas a hacer?
-
-—Buscar a alguien que sepa más.
-
-Viajó a Londres.
-
-Después a Zúrich.
-
-Finalmente, a Estados Unidos.
-
-Consultó a neurólogos de prestigio internacional, especialistas en enfermedades neurodegenerativas y expertos en trastornos cognitivos poco frecuentes.
-
-Se sometió a resonancias, análisis, estudios genéticos y nuevas evaluaciones neuropsicológicas.
+Acumuló resonancias, análisis y evaluaciones. Cada viaje terminaba con otra carpeta de informes.
 
 Los resultados eran similares.
 
@@ -246,37 +218,13 @@ Había perdido interés por casi todo.
 
 ***
 
-—Tenemos que hablar de tus inversiones —le dijo su asesor financiero.
-
-David estaba sentado en su despacho, rodeado de informes médicos y libros que apenas había abierto.
-
-—¿Qué ocurre?
-
-—Tu cartera está demasiado concentrada.
-
-—Lo sé.
-
-—Y has invertido demasiado de tus ahorros en esas empresas.
+—Tienes demasiado dinero en esas empresas —le dijo su asesor financiero—. Deberías reducir posiciones.
 
 —Los riesgos están calculados.
 
-—No todos.
+—Estás comprometiendo una parte excesiva de tus ahorros.
 
-David lo miró con impaciencia.
-
-—Llevo años tomando decisiones financieras.
-
-—Y has tenido un éxito extraordinario. Pero ahora estás asumiendo riesgos innecesarios.
-
-—El mercado está infravalorando varias empresas tecnológicas.
-
-—Puede ser. Pero estás comprometiendo una parte excesiva de tu patrimonio.
-
-—Precisamente por eso las oportunidades son interesantes.
-
-—Te recomiendo reducir posiciones.
-
-—Yo te recomiendo que dejes de preocuparte.
+—El mercado las está infravalorando.
 
 El asesor cerró la carpeta.
 
@@ -344,7 +292,7 @@ David se levantó.
 
 —He venido a consultar a un neurólogo, no a un loquero, no estoy loco.
 
-—Ambas cosas pueden ser compatibles.
+—No hace falta estar loco para necesitar ayuda.
 
 —Gracias por su tiempo.
 

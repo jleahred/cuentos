@@ -250,12 +250,6 @@ Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asi
 
 —Pues no la veas.
 
-—Lo preocupante es que las cadenas hacen estudios de mercado. Saben perfectamente lo que quiere la gente.
-
-—Y se lo dan. Es un negocio.
-
-—Exactamente. Ahí tienes una medida objetiva.
-
 —David, a veces la gente solo quiere entretenerse.
 
 —Eso es lo que me preocupa.
@@ -273,8 +267,6 @@ Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asi
 —Un filósofo alemán.
 
 —Ah. No me interesa.
-
-—Sostenía que los hombres de gran inteligencia...
 
 —David, por favor. Acabamos de cenar estupendamente. No me estropees la noche con otro filósofo.
 

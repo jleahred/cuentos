@@ -210,7 +210,7 @@ Luis se limpió las manos en los pantalones.
 
 —Es una afición.
 
-—Pues si algún día sales con él, llévate algo de comer. Se pasa el camino preguntando cuánto falta para parar.
+—A Dani también le gusta. Sale conmigo algunos domingos.
 
 Subieron juntos. En el segundo, Luis sacó las llaves.
 
@@ -288,13 +288,13 @@ Poco después llegaron a un cruce. David dijo que seguiría por su cuenta. Enriq
 
 —He dicho que estaba en paro.
 
-—Tienes razón. Conozco mi sobrina trabaja en una empresa de logística y necesitan a alguien. Está cerca de aquí. Si te interesa, puedes pasarte a preguntar.
+—Tienes razón. Mi ahijada trabaja en una empresa de logística y necesitan a alguien. Está cerca de aquí. Si te interesa, puedes pasarte a preguntar.
 
 David dudó.
 
 —No tengo experiencia en logística.
 
-—Nadie la tiene.
+—Allí te enseñarán.
 
 Enrique le dio el nombre de la empresa y la dirección. David los anotó en el teléfono. Después vio alejarse al grupo y emprendió el camino en dirección contraria.
 

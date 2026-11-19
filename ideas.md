@@ -21,3 +21,7 @@ Le operan, se recupera, recobra su enorme inteligencia, y decide que es más fel
 No sé si hacer que su enamorada vuelva en algún momento y se unan, iremos viendo. es probable
 
 Para más adelante: David habla varios idiomas. Podrían ser útiles en la empresa de logística y darle una ocasión para acercarse a Gema. La sección es pequeña, pero pertenece a una empresa mayor donde podría haber posibilidades de crecer.
+
+La advertencia de Rafa sobre Gema al final de «Calma» es una broma, una novatada a David. Se aclarará más adelante: Gema no es la jefa cruel que Rafa le hace imaginar.
+
+Enrique es el padrino de Gema. David y el lector deben creer inicialmente que su ahijada es Elena, por la familiaridad con que ella habla de él. La bicicleta antigua de Enrique también invita a David a juzgar sus recursos por las apariencias.
