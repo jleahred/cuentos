@@ -250,6 +250,8 @@ Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asi
 
 —Pues no la veas.
 
+—Las cadenas hacen estudios de mercado y ponen lo que la gente quiere ver. Ahí tienes un dato objetivo sobre lo tonta que es la gente.
+
 —David, a veces la gente solo quiere entretenerse.
 
 —Eso es lo que me preocupa.

@@ -194,9 +194,11 @@ El médico guardó silencio.
 
 Las nuevas pruebas tampoco ofrecieron respuestas concluyentes.
 
-David consultó a otros especialistas, primero en Madrid y después fuera de España. Unos insistían en el estrés y la falta de sueño; otros solicitaban nuevas pruebas.
+David consultó a otros especialistas en Madrid y después viajó a Barcelona. Unos insistían en el estrés y la falta de sueño; otros solicitaban nuevas pruebas.
 
-Acumuló resonancias, análisis y evaluaciones. Cada viaje terminaba con otra carpeta de informes.
+Ninguno encontró una explicación que lo convenciera. Siguió buscando: viajó a Londres, después a Zúrich y finalmente a Estados Unidos. Pidió cita con neurólogos de prestigio y especialistas en trastornos cognitivos poco frecuentes.
+
+Pagó consultas privadas, vuelos y hoteles. Se sometió a resonancias, análisis y nuevas evaluaciones. Cada viaje terminaba con otra carpeta de informes.
 
 Los resultados eran similares.
 

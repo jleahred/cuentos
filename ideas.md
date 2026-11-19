@@ -24,4 +24,8 @@ Para más adelante: David habla varios idiomas. Podrían ser útiles en la empre
 
 La advertencia de Rafa sobre Gema al final de «Calma» es una broma, una novatada a David. Se aclarará más adelante: Gema no es la jefa cruel que Rafa le hace imaginar.
 
-Enrique es el padrino de Gema. David y el lector deben creer inicialmente que su ahijada es Elena, por la familiaridad con que ella habla de él. La bicicleta antigua de Enrique también invita a David a juzgar sus recursos por las apariencias.
+Enrique es el padrino de Gema y se refiere a ella como su ahijada; Gema lo llama tío. David y el lector deben creer inicialmente que su ahijada es Elena, por la familiaridad con que ella habla de él. La bicicleta antigua de Enrique también invita a David a juzgar sus recursos por las apariencias.
+
+Gema no es sobrina de Enrique: es hija de un amigo suyo. Perdió a su familia de niña y Enrique y su mujer se encargaron de ella. Esto se desvelará más adelante.
+
+Quizá Enrique sea el médico que finalmente encuentre el problema de David. Su aspecto humilde contrastaría con los especialistas a los que David ha acudido; queda por decidir.
