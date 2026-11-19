@@ -19,3 +19,5 @@ Conoció una tonta adorable, se enamora, pero se aparta porque tiene miedo de ha
 Le operan, se recupera, recobra su enorme inteligencia, y decide que es más feliz con los tontos, no vuelve a su antiguo trabajo bien pagado, sigue leyendo comics y disfrutando con sus amigos tontos, chistes tontos, quizá montando en bici
 
 No sé si hacer que su enamorada vuelva en algún momento y se unan, iremos viendo. es probable
+
+Para más adelante: David habla varios idiomas. Podrían ser útiles en la empresa de logística y darle una ocasión para acercarse a Gema. La sección es pequeña, pero pertenece a una empresa mayor donde podría haber posibilidades de crecer.

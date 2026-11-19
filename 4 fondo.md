@@ -40,9 +40,9 @@ Luis abrió la puerta y salió a la calle. David recogió el último libro y lo 
 
 ***
 
-El piso estaba en una calle tranquila, a diez minutos andando de una estación de metro. El salón era pequeño y la cocina tenía una ventana que daba a un patio interior. Desde el dormitorio se veía la ventana de otro dormitorio.
+El piso estaba en una calle tranquila, a diez minutos andando de una estación de metro. Era pequeño, luminoso y estaba recién reformado. El salón tenía el suelo de madera clara y una cocina abierta, con armarios blancos y una mesa junto a la ventana. Desde el dormitorio se veían los árboles de la calle.
 
-El propietario le había dicho que entraba mucha luz por las mañanas. David había ido a verlo por la tarde y no había vuelto para comprobarlo.
+No se parecía en nada a la casa que acababa de dejar. Aun así, cuando fue a verlo, le había gustado.
 
 Los de la mudanza subieron los muebles y las cajas. Cuando se marcharon, David se quedó de pie en medio del salón.
 
@@ -52,7 +52,7 @@ El último mensaje de Marta seguía sin respuesta. Lo leyó una vez más antes d
 
 Para David, David había muerto.
 
-La bicicleta estaba apoyada contra la pared, junto a la mesa. Había pensado guardarla en el trastero, pero el trastero olía a humedad y la puerta no cerraba bien.
+La bicicleta estaba apoyada contra la pared, junto a la mesa. Había pensado guardarla en el trastero, pero la puerta se atascaba y no había conseguido cerrarla.
 
 Llamaron al timbre.
 
@@ -126,7 +126,7 @@ Dani bajó el último escalón de un salto. Luis le dio una bolsa y el niño ent
 
 Los primeros días David apenas salió del piso. Deshizo algunas cajas, colocó los libros en una estantería y dejó otras junto a la pared del salón.
 
-Por las mañanas se despertaba temprano. A veces preparaba café y se sentaba a mirar por la ventana de la cocina. Una vecina tendía ropa en el patio y sacudía cada prenda antes de colgarla. A David le parecía que tardaba demasiado.
+Por las mañanas se despertaba temprano. A veces se preparaba una infusión y se sentaba a mirar por la ventana de la cocina. Una vecina tendía ropa en el patio y sacudía cada prenda antes de colgarla. A David le parecía que tardaba demasiado.
 
 Consultó varias ofertas de trabajo. En algunas conocía a la empresa. En otras conocía incluso a quien probablemente dirigiría la entrevista.
 
@@ -174,7 +174,7 @@ Luis asintió. La mujer ya había llegado a la esquina.
 
 —Tendría que alcanzar a mi madre antes de que se enfade. Hasta luego.
 
-David salió detrás de él. Caminó hasta una cafetería y pidió un café. En la mesa de al lado, dos mujeres hablaban de una compañera de trabajo. Él sacó el teléfono nuevo y lo dejó junto a la taza. No tenía ningún mensaje.
+David salió detrás de él. Caminó hasta una cafetería y pidió una infusión. En la mesa de al lado, dos mujeres hablaban de una compañera de trabajo. Él sacó el teléfono nuevo y lo dejó junto a la taza. No tenía ningún mensaje.
 
 ***
 
@@ -210,29 +210,9 @@ Luis se limpió las manos en los pantalones.
 
 —Es una afición.
 
-—Ah. ¿Y a qué te dedicas?
+—Pues si algún día sales con él, llévate algo de comer. Se pasa el camino preguntando cuánto falta para parar.
 
-—Ahora mismo a nada.
-
-—Ya.
-
-Luis guardó el destornillador en el bolsillo.
-
-—Una amiga mía busca a alguien para su empresa. No sé si te podría interesar.
-
-—¿Qué empresa?
-
-—Suministros de oficina. Lleva pedidos, almacén, esas cosas. Me comentó que necesitaba ayuda con los pedidos y las facturas.
-
-—No tengo experiencia en suministros de oficina.
-
-—Yo tampoco. Pero sé escribirle un mensaje. Puedo preguntarle.
-
-—No hace falta.
-
-—Como quieras.
-
-Subieron en silencio. En el segundo, Luis sacó las llaves.
+Subieron juntos. En el segundo, Luis sacó las llaves.
 
 —Por cierto, no te he preguntado cómo te llamas.
 
@@ -242,90 +222,202 @@ Subieron en silencio. En el segundo, Luis sacó las llaves.
 
 Entró en su casa. David subió al tercer piso y abrió la puerta. Se quedó mirando la bicicleta.
 
-Al día siguiente llamó al segundo.
+***
+
+A la mañana siguiente sacó la bicicleta por primera vez desde la mudanza. Le costó encontrar una salida de la ciudad que le gustara. En un semáforo se detuvo junto a un grupo de ciclistas.
+
+Uno de ellos miró su bicicleta.
+
+—Buena máquina.
+
+—No está mal —dijo David.
+
+—Y no parece que la uses para ir a comprar el pan.
+
+David miró su ropa. Llevaba el maillot y el culote que usaba siempre.
+
+—Depende de dónde esté la panadería —dijo otro.
+
+El semáforo seguía en rojo. El primero, un hombre de pelo canoso y piernas delgadas, señaló hacia delante.
+
+—Vamos hacia la carretera del embalse. Si vas por ahí, puedes venir con nosotros.
+
+—Todavía no sé por dónde voy a ir.
+
+—Estupendo. Nosotros tampoco nos ponemos de acuerdo nunca.
+
+El semáforo cambió y arrancaron juntos. Al llegar a la rotonda, David tomó la misma salida que ellos. Rodaron un rato por una vía tranquila, hasta que el hombre canoso se puso a su lado.
+
+—Soy Enrique.
+
+—David.
+
+—¿Sueles salir entre semana?
+
+—Últimamente tengo tiempo.
+
+—Es lo mejor para esto. ¿A qué te dedicas?
+
+—Ahora estoy en paro. Antes trabajaba en una oficina, con ordenadores.
+
+—Pues yo soy ciclista profesional.
+
+David lo miró. El hombre debía de tener más de sesenta años y llevaba un maillot con una mancha junto a la cremallera.
+
+—¿Qué?
+
+—Me pagan para que monte en bici.
+
+Los demás se echaron a reír.
+
+—Está jubilado —dijo uno—. Y lo único que hace es montar en bici porque su mujer no lo aguanta en casa.
+
+—Eso dice ella —replicó Enrique—. Pero cuando vuelvo siempre me tiene preparada alguna cosa que hacer.
+
+David apartó la vista. Notó que se le escapaba una sonrisa y se concentró en la carretera.
+
+Le contaron que salían varias mañanas a la semana. Los martes hacían una ruta corta y paraban a desayunar; los jueves salían más temprano y volvían cuando podían.
+
+—Puedes venir el martes —dijo Enrique—. A las nueve, en el semáforo donde nos has encontrado.
+
+—De acuerdo. Ya nos veremos.
+
+Poco después llegaron a un cruce. David dijo que seguiría por su cuenta. Enrique frenó junto a él mientras los demás esperaban unos metros más adelante.
+
+—Antes has dicho que buscabas trabajo.
+
+—He dicho que estaba en paro.
+
+—Tienes razón. Mi sobrina dirige una sección de una empresa de logística y necesita a alguien. Está cerca de aquí. Si te interesa, puedes pasarte a hablar con ella.
+
+David dudó.
+
+—No tengo experiencia en logística.
+
+—Pregúntaselo a ella. Se llama Gema.
+
+Enrique le dio el nombre de la empresa y la dirección. David los anotó en el teléfono. Después vio alejarse al grupo y emprendió el camino en dirección contraria.
 
 ***
 
-La empresa estaba en un local situado entre una tienda de pinturas y una clínica dental. David llegó diez minutos antes de la hora y esperó en la acera.
-
-En el escaparate había varias cajas de papel, archivadores y una impresora. Un cartel anunciaba una oferta de bolígrafos azules.
-
-A las diez entró.
-
-Una mujer levantó la vista desde el mostrador.
-
-—¿David?
-
-—Sí.
-
-—Soy Elena. Pasa, por favor.
-
-Lo condujo hasta una mesa al fondo del local. A través de una puerta abierta se veían estanterías llenas de cajas. Un hombre con un chaleco azul pasó empujando una carretilla y saludó con la cabeza.
-
-—Luis me ha dicho que vives en su edificio —dijo Elena.
-
-—Sí.
-
-—Es buena gente. Aunque una vez me arregló un grifo y tuve que llamar a un fontanero.
-
-David no respondió.
-
-Elena abrió una carpeta.
-
-—Necesito a alguien que prepare pedidos, revise facturas y atienda el teléfono cuando estemos ocupados. También hay que introducir los albaranes en el ordenador. ¿Sabes manejar una hoja de cálculo?
-
-—Sí.
-
-—¿Y has trabajado con facturas?
-
-—Sí.
-
-—Bien. El horario es de nueve a cinco, con media hora para comer. Algunos días hay que mover cajas, aunque las más pesadas las lleva Rafa.
-
-El hombre del chaleco pasó de nuevo, esta vez sin la carretilla.
-
-—Cuando me dejan —dijo.
-
-—Cuando no estás desayunando —respondió Elena.
-
-Rafa desapareció por la puerta del almacén.
-
-Elena le mostró a David una hoja impresa con varios pedidos y una factura.
-
-—¿Puedes comprobar si coinciden las cantidades?
-
-David tomó un bolígrafo y repasó las líneas. Había un paquete de carpetas de más y faltaban dos cajas de sobres. Lo señaló en la hoja.
-
-—Bien —dijo Elena—. ¿Podrías empezar el lunes?
-
-David dejó el bolígrafo sobre la mesa.
-
-—Sí.
-
-Elena le explicó el sueldo y las condiciones. David hizo un par de preguntas y ella anotó sus datos en un formulario. No le pidió que hablara de sus trabajos anteriores.
-
-Al salir, pasó otra vez junto al cartel de los bolígrafos. Se detuvo un momento a leerlo. Luego siguió andando hacia casa.
+Dos días después llamó a la empresa y concertó una entrevista.
 
 ***
 
-El lunes, Elena le enseñó dónde guardaban los pedidos pendientes y cómo registraban las entregas. Rafa le explicó qué cajas no debían colocarse encima de otras. Después le señaló una silla junto al mostrador.
+La oficina estaba a quince minutos andando de su casa, junto a una nave con varios muelles de carga. En la fachada había un cartel con el nombre de la empresa de logística. Debajo, en letras más pequeñas, figuraba la dirección de su sede central.
 
-—Esa cojea —dijo—. Pero si le pones el pie ahí, no se mueve.
+David llegó diez minutos antes de la hora. Una furgoneta acababa de detenerse junto a la nave y dos personas descargaban cajas mientras otra hablaba por teléfono. Un hombre salió deprisa de la oficina con unos papeles en la mano y tuvo que apartarse para dejar pasar una carretilla.
 
-David se sentó y apoyó el pie donde le había indicado.
+Al entrar, David encontró a una mujer frente al mostrador, buscando algo en el ordenador. Sonaban varios teléfonos.
 
-Elena dejó una carpeta sobre la mesa.
+—Tengo una entrevista con Gema.
 
-—Estos son los albaranes de la semana pasada. Hay que comprobarlos con las facturas y apuntar los que falten.
+—Espera un momento, por favor.
 
-David abrió la carpeta.
+La mujer cogió el teléfono. En la oficina había gente de pie junto a las mesas, mirando pantallas o hablando a la vez. Un hombre cruzó con una carpeta bajo el brazo.
+
+—¡El de Getafe no contesta! —gritó hacia el fondo.
+
+—¡Pues prueba al almacén! —le respondió alguien.
+
+Otro teléfono empezó a sonar. Una mujer descolgó mientras llamaba con la mano a un compañero, que pasó de largo sin verla. Desde la nave llegó el ruido de algo que caía, seguido de un grito.
+
+—¿Se sabe algo del accidente? —preguntó alguien.
+
+—El conductor está bien. El problema es la mercancía.
+
+Una mujer cruzó la oficina con una carpeta abierta.
+
+—¡Como no salga ya, no llegamos a la feria de mañana!
+
+—¡Díselo a Gema! Está buscando otro vehículo.
+
+David esperó junto al mostrador. Al fondo había una puerta de cristal que daba a un despacho.
+
+La puerta se abrió. Una mujer salió hablando por teléfono, con una carpeta bajo el brazo. Escuchó unos segundos, miró el reloj y cruzó la oficina.
+
+—Es Gema —le dijo la mujer de recepción.
+
+—¡Gema! El de la entrevista.
+
+Gema se volvió, miró a David un instante y le hizo una señal para que la siguiera. Él caminó detrás de ella hasta la puerta de la nave.
+
+—¿El conductor está bien? ... Menos mal. Dile a Carlos que me llame en cuanto llegue.
+
+Colgó y sacó una hoja de la carpeta sin dejar de andar.
+
+—Perdona el lío. ¿Sabes usar Excel?
+
+—Sí.
+
+Una mujer se acercó a ellos.
+
+—Gema, los de la feria necesitan la confirmación.
+
+—Está en mi bandeja. Si el peso coincide, envíasela. Y que preparen la otra furgoneta.
+
+La mujer se marchó hacia la oficina. Gema atravesó la nave y David la siguió, apartándose para dejar pasar una carretilla.
+
+—¿Has trabajado con albaranes? —preguntó ella.
+
+—Sí.
+
+—¿Y facturas?
+
+—También.
+
+—Bien. Necesitamos ayuda con los envíos y la documentación. El horario es de nueve a cinco y el sueldo es el que aparece aquí.
+
+Le tendió una hoja. David empezó a leerla mientras caminaba, pero tuvo que detenerse para que un hombre con un palé pasara entre ellos. Cuando volvió a alcanzar a Gema, ella estaba hablando por teléfono.
+
+—No, Carlos. Al almacén de Getafe. Te lo he puesto en el mensaje.
+
+Un compañero le mostró unos papeles. Gema los examinó, señaló una cifra y negó con la cabeza. El hombre se alejó con los documentos.
+
+—Sí, sigo aquí —dijo ella al teléfono—. Llámame cuando lo tengas.
+
+Colgó y miró a David.
+
+—¿Cuándo puedes empezar?
+
+—El lunes.
+
+—Estupendo. Pasa por Recursos Humanos para los papeles. El lunes pregunta por Elena, ella te enseñará todo.
+
+Una voz la llamó desde el otro extremo de la nave. Gema levantó una mano.
+
+—Perdona. Nos vemos el lunes.
+
+Se alejó con la carpeta y David regresó a recepción con la hoja en la mano. Allí le indicaron dónde estaba Recursos Humanos.
+
+***
+
+El lunes, Elena lo recibió en la oficina.
+
+—Tú eres David, ¿no? Soy Elena. Ven, te enseño esto antes de que empiecen a llegar los transportistas.
+
+Elena le enseñó las mesas de la oficina, la zona de recepción de mercancías y el programa donde registraban las entregas. Le presentó a Rafa, que estaba preparando unos envíos, y le indicó una mesa libre junto a la suya.
+
+—Aquí trabajamos los de esta sección. Si necesitas algo, me preguntas.
+
+Al otro lado de la oficina, Gema estaba en su despacho hablando con dos personas delante de la pizarra. David la vio señalar una fecha y entregarles una carpeta. Después cerró la puerta.
+
+Elena dejó unos papeles sobre la mesa de David.
+
+—Estos son los albaranes de la semana pasada. Hay que comprobarlos con las facturas y apuntar los que falten. El primero lo hacemos juntos.
+
+Se sentó a su lado y le mostró dónde encontrar cada envío en el ordenador. David abrió la carpeta.
 
 En la primera página había una mancha de café que tapaba parte de una fecha.
 
-—Esa fui yo —dijo Rafa desde el almacén.
+—Esa fui yo —dijo Rafa, que acababa de pasar junto a ellos.
 
 —No te estaba preguntando —dijo Elena.
 
 —Ya, pero luego siempre me preguntáis.
 
-David cogió un bolígrafo y empezó por el primer albarán. La silla se movió. Volvió a colocar el pie contra la pata y siguió leyendo.
+Elena buscó la fecha en el ordenador y la anotó en el margen. Después le pasó el bolígrafo a David.
+
+—Prueba tú con el siguiente.
+
+David cogió el albarán y empezó a leer.
