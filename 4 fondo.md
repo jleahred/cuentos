@@ -40,9 +40,9 @@ Luis abrió la puerta y salió a la calle. David recogió el último libro y lo 
 
 ***
 
-El piso estaba en una calle tranquila, a diez minutos andando de una estación de metro. Era pequeño, luminoso y estaba recién reformado. El salón tenía el suelo de madera clara y una cocina abierta, con armarios blancos y una mesa junto a la ventana. Desde el dormitorio se veían los árboles de la calle.
+El piso era pequeño, luminoso y estaba recién reformado. La mesa de la cocina daba a la ventana. Desde el dormitorio se veían los árboles de la calle.
 
-No se parecía en nada a la casa que acababa de dejar. Aun así, cuando fue a verlo, le había gustado.
+No se parecía en nada a la casa que acababa de dejar. Aun así, le había gustado.
 
 Los de la mudanza subieron los muebles y las cajas. Cuando se marcharon, David se quedó de pie en medio del salón.
 
@@ -50,7 +50,7 @@ Sacó el ordenador de una caja y lo puso sobre la mesa. Borró las fotografías,
 
 El último mensaje de Marta seguía sin respuesta. Lo leyó una vez más antes de borrarlo y apagar el teléfono antiguo. Ya tenía un número nuevo. No se lo daría a nadie de su vida anterior; tampoco les diría dónde vivía.
 
-Para David, David había muerto.
+Se llamaba David. No pensaba decir nada más.
 
 La bicicleta estaba apoyada contra la pared, junto a la mesa. Había pensado guardarla en el trastero, pero la puerta se atascaba y no había conseguido cerrarla.
 
@@ -284,6 +284,28 @@ Le contaron que salían varias mañanas a la semana. Los martes hacían una ruta
 
 Poco después llegaron a un cruce. David dijo que seguiría por su cuenta. Enrique frenó junto a él mientras los demás esperaban unos metros más adelante.
 
+—Estás muy callado —dijo Enrique.
+
+—Estoy cansado.
+
+—¿Duermes?
+
+—Regular.
+
+—¿Por qué?
+
+—Un soplo en el oído. Como un latido.
+
+—Los acúfenos no laten.
+
+—¿Qué?
+
+—Nada. ¿Y qué te han dicho?
+
+—Que es estrés.
+
+Enrique no contestó. Miró la carretera un momento.
+
 —Antes has dicho que buscabas trabajo.
 
 —He dicho que estaba en paro.
@@ -328,7 +350,7 @@ Otro teléfono empezó a sonar. Una mujer descolgó mientras llamaba con la mano
 
 Una mujer cruzó la oficina con una carpeta abierta.
 
-—¡Como no salga ya, no llegamos a la feria de mañana!
+—¡Como no salga ya, no llegamos a la entrega de mañana!
 
 —¡Díselo a Gema! Está buscando otro vehículo.
 
@@ -352,7 +374,7 @@ Colgó y sacó una hoja de la carpeta sin dejar de andar.
 
 Una mujer se acercó a ellos.
 
-—Gema, los de la feria necesitan la confirmación.
+—Gema, los de la entrega necesitan la confirmación.
 
 —Está en mi bandeja. Si el peso coincide, envíasela. Y que preparen la otra furgoneta.
 
@@ -378,11 +400,33 @@ Un compañero le mostró unos papeles. Gema los examinó, señaló una cifra y n
 
 Colgó y miró a David.
 
+—¿Tienes currículum?
+
+—No.
+
+—Mejor.
+
 —¿Cuándo puedes empezar?
 
 —El lunes.
 
-—Estupendo. Pasa por Recursos Humanos para los papeles. El lunes pregunta por Elena, ella te enseñará todo.
+—Estupendo.
+
+—¿Ya está?
+
+—¿Qué esperabas?
+
+—No sé. Más preguntas.
+
+—¿Sabes usar Excel?
+
+—Sí.
+
+—Pues ya está.
+
+Gema lo miró un segundo.
+
+—Pasa por Recursos Humanos para los papeles. El lunes pregunta por Elena, ella te enseñará todo.
 
 Una voz la llamó desde el otro extremo de la nave. Gema levantó una mano.
 

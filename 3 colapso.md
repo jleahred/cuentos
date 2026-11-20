@@ -16,6 +16,14 @@ David examinó el informe.
 
 —Tampoco podemos asegurarlo.
 
+—¿Y el ruido del oído?
+
+—Un acúfeno. Muy frecuente. Estrés.
+
+—No es un pitido. Es como un soplo. Como si me latiera algo dentro.
+
+—También puede ser vascular. Pero no es preocupante.
+
 David dejó el informe sobre la mesa.
 
 —Llevo meses perdiendo facultades. Antes resolvía problemas matemáticos complejos mentalmente. Ahora necesito papel, calculadora y mucho más tiempo. Mi memoria ha empeorado y me cuesta seguir razonamientos que antes me parecían elementales.
@@ -52,7 +60,7 @@ El presidente había reorganizado temporalmente la división y Andrés se ocupab
 
 —Entonces no veo la necesidad de mantener esta situación.
 
-—David, has sufrido un desvanecimiento delante de todo tu equipo. Los médicos te han recomendado descansar.
+—David, has sufrido un desvanecimiento delante de todo tu equipo.
 
 —Los médicos no saben qué me ocurre.
 
@@ -98,7 +106,7 @@ El presidente suspiró.
 
 ***
 
-Recursos Humanos le confirmó que tendría que dejar la casa. Podía quedarse unos meses más pagando el alquiler. David aceptó sin buscar otra; ya se ocuparía de eso.
+Recursos Humanos le confirmó que la empresa dejaba de pagar el alquiler. Podía quedarse unos meses más, pagándolo él. David aceptó sin buscar otra; ya se ocuparía de eso.
 
 ***
 
@@ -116,7 +124,7 @@ Seguía siendo capaz.
 
 Pero al día siguiente fue incapaz de recordar parte del razonamiento.
 
-Empezó a dormir mal.
+Empezó a dormir mal. El soplo del oído se hizo más presente por la noche, cuando no había nada más que escuchar.
 
 Dejó de salir con la bicicleta. Después abandonó el gimnasio. Pasaba las mañanas en la cama y las tardes frente al ordenador, buscando información sobre enfermedades neurológicas.
 
@@ -124,7 +132,21 @@ Su alimentación también empeoró. Dejó de preocuparse por las calorías y los
 
 El jardín comenzó a parecerle un lugar extraño. Durante semanas no salió de casa salvo para acudir a alguna consulta médica.
 
-Clara lo llamó varias veces. No contestó.
+***
+
+Clara llamó al timbre un martes por la mañana.
+
+David la vio por la mirilla. Llevaba una carpeta bajo el brazo y el abrigo puesto.
+
+Llamó otra vez.
+
+David se quedó quieto.
+
+Al cabo de un rato oyó sus pasos alejándose por el rellano. Después volvió el silencio de la casa.
+
+Cuando abrió la puerta, encontró la carpeta en el felpudo. La dejó sobre la mesa del recibidor sin abrirla.
+
+***
 
 Una tarde apareció el nombre de Marta en la pantalla. David dejó que sonara. Al poco recibió un mensaje.
 
@@ -186,6 +208,8 @@ David las examinó.
 
 El médico guardó silencio.
 
+—Además —dijo David—, para mi trabajo necesito estar en el uno por mil. No en la media. No un poco por encima.
+
 —Podemos ampliar el estudio —propuso finalmente.
 
 —Hágalo.
@@ -200,9 +224,7 @@ Ninguno encontró una explicación que lo convenciera. Siguió buscando: viajó 
 
 Pagó consultas privadas, vuelos y hoteles. Se sometió a resonancias, análisis y nuevas evaluaciones. Cada viaje terminaba con otra carpeta de informes.
 
-Los resultados eran similares.
-
-No aparecía ninguna lesión evidente ni una causa concluyente que explicara sus síntomas.
+Los resultados eran similares. No aparecía ninguna lesión evidente ni una causa concluyente que explicara sus síntomas.
 
 Algunos especialistas reconocían pequeñas alteraciones en determinadas pruebas. Otros consideraban que sus resultados estaban dentro de los límites normales.
 
@@ -236,7 +258,7 @@ El asesor cerró la carpeta.
 
 ***
 
-Al principio, las inversiones fueron bien. Durante unas semanas David recuperó parte de su antigua energía, pero cada vez le costaba más seguir las cifras y revisar sus cálculos.
+Al principio, las inversiones fueron bien. Durante unas semanas las cifras subieron y David recuperó parte de su antigua energía, pero cada vez le costaba más seguir los números y revisar sus cálculos.
 
 Una de las empresas en las que más había invertido publicó unos resultados decepcionantes. Sus acciones cayeron con fuerza.
 
@@ -266,57 +288,13 @@ Cuando su asesor volvió a llamarlo, no contestó.
 
 ***
 
-Mientras tanto, su búsqueda médica continuaba.
-
-Había visitado hospitales en cinco países. Acumulaba decenas de informes y resultados de pruebas.
-
-En Nueva York, un especialista le explicó que las evaluaciones confirmaban ciertas dificultades en memoria de trabajo y velocidad de procesamiento, pero que no era posible establecer un diagnóstico definitivo.
-
-—¿Y qué propone? —preguntó David.
-
-—Continuar el seguimiento. Repetir algunas pruebas dentro de seis meses.
-
-—¿Seis meses?
-
-—Necesitamos observar la evolución.
-
-—Llevo más de un año empeorando.
-
-—Lo comprendo.
-
-—No, no lo comprende. Usted puede seguir haciendo su trabajo. Yo he perdido el mío.
-
-El médico lo miró con atención.
-
-—¿Ha considerado recibir apoyo psicológico?
-
-David se levantó.
-
-—He venido a consultar a un neurólogo, no a un loquero, no estoy loco.
-
-—No hace falta estar loco para necesitar ayuda.
-
-—Gracias por su tiempo.
-
-***
-
-Al aterrizar, encendió el teléfono. Tenía varios mensajes de su asesor financiero.
-
-En la pantalla del aeropuerto, un presentador hablaba del estallido de una guerra. Las imágenes mostraban humo sobre una ciudad que David no reconoció. Un rótulo anunciaba caídas en las bolsas.
-
-Abrió su cartera. Dos de sus principales inversiones habían perdido más de la mitad de su valor desde que las compró.
-
-El teléfono volvió a vibrar. Era su asesor. David lo dejó sonar mientras miraba las cifras.
-
-David pasó toda la noche revisando las cifras. Intentó calcular cuánto tendrían que subir las acciones para recuperar lo perdido.
+Una noche intentó calcular cuánto tendrían que subir las acciones para recuperar lo perdido.
 
 Se equivocó varias veces.
 
-Volvió a empezar.
+Volvió a empezar. A las cinco de la mañana seguía sentado frente al ordenador, con una hoja llena de tachones y una cifra que no conseguía cuadrar.
 
-A las cinco de la mañana seguía sentado frente al ordenador.
-
-Finalmente llamó a su asesor.
+Llamó a su asesor.
 
 —Quiero vender.
 
@@ -353,3 +331,13 @@ El asesor esperó a que levantara la vista.
 —Puedo volver a trabajar.
 
 —Claro.
+
+***
+
+Había pasado un año y medio desde el desmayo.
+
+David buscó un piso en un barrio donde no conociera a nadie. Encontró uno pequeño, luminoso y recién reformado, a diez minutos andando de una estación de metro. Le pareció caro y lo pagó.
+
+La empresa le dio un mes para dejar la casa.
+
+Hizo la mudanza un martes por la mañana. Llovía.

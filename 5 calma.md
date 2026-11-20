@@ -1,6 +1,6 @@
 ### 5. Calma
 
-El sábado, David llegó al semáforo a las nueve menos cinco.
+El martes, David llegó al semáforo a las nueve menos cinco.
 
 Se dijo que había elegido aquella ruta porque le gustaba. El semáforo estaba en su camino y no había razón para dar un rodeo.
 
@@ -39,6 +39,12 @@ Pararon en la de las tostadas pequeñas. David pidió una infusión y una tostad
 —¡Pues enhorabuena!
 
 —Gracias.
+
+—¿Y el soplo?
+
+—Igual.
+
+—Ya.
 
 —¿Qué tal la entrevista?
 
@@ -222,10 +228,32 @@ David se quedó inmóvil un instante. Cuando ella lo soltó, él dejó el cómic
 
 —No eran solo unos números. Ahora vuelvo.
 
-Elena dejó el portátil en su mesa y se fue al baño. Rafa esperó a que la puerta se cerrara.
+Elena dejó el portátil en su mesa y se fue al baño.
+
+La puerta del despacho se abrió otra vez. Gema salió con una taza en la mano, se acercó a la mesa de David y miró la pantalla.
+
+—Elena dice que te debo la mañana.
+
+—Solo he ordenado unas diapositivas.
+
+—Genio.
+
+Gema se fue hacia la máquina de café. David la vio alejarse.
+
+Rafa esperó a que estuviera lejos.
 
 —Uf. De buena la has salvado.
 
 —¿Sí? ¿Y eso?
 
-—No conoces a Gema. Por menos ha decapitado a unos cuantos. Uf.
+—No conoces a Gema. Por menos ha decapitado a unos cuantos.
+
+David miró hacia la máquina de café.
+
+—¿A ti también?
+
+—A mí no. Yo le caigo bien.
+
+—¿Y eso?
+
+—Porque no le discuto.

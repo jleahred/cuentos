@@ -1,3 +1,7 @@
+# Entre tontos
+
+### 1. Triunfador
+
 —Éxito rotundo —dijo Marta.
 
 David sonrió mientras esperaban el coche.
@@ -35,6 +39,32 @@ David sonrió mientras esperaban el coche.
 —Cada vez más. Por tu culpa.
 
 —De nada.
+
+—¿Y lo de Schneider?
+
+—Firmado esta tarde. Tres millones y medio de dólares.
+
+—¿En euros?
+
+—Tres millones doscientos, al cambio de hoy.
+
+—Ayer habrían sido menos.
+
+—Cincuenta mil menos.
+
+—Lo has hecho de cabeza.
+
+—Es una multiplicación.
+
+—Genio.
+
+—Gracias.
+
+—No era un cumplido.
+
+—Lo sé. Pero lo acepto.
+
+Marta se rio.
 
 —Oye, ¿y tu brasileña? ¿Qué le ha pasado?
 
@@ -226,6 +256,32 @@ Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asi
 
 —Por supuesto. Imperdonable olvido.
 
+—¿Quieres comprobarla?
+
+—No.
+
+—Es rápida.
+
+—David.
+
+—Pregúntame algo. Lo que sea.
+
+Marta suspiró.
+
+—¿Cómo se llamaba el profesor de estadística que te suspendió?
+
+—No me suspendió.
+
+—No has respondido.
+
+—Gutiérrez. Primer curso. Me puso un siete porque no le gustó cómo lo demostré.
+
+—Eso es rencor.
+
+—Es memoria.
+
+—Ya.
+
 —Siempre me ha sorprendido que otras personas necesiten tanto tiempo para comprender cosas que a mí me parecen evidentes.
 
 —No todo el mundo tiene tu inteligencia.
@@ -235,6 +291,20 @@ Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asi
 —Y eso no significa que sean tontos.
 
 —Depende de cómo definas tonto.
+
+—¿Y cómo lo defines tú?
+
+—Alguien que no piensa.
+
+—Todo el mundo piensa.
+
+—Poco.
+
+—¿Y eso te hace sentir mejor?
+
+—Me hace sentir solo.
+
+Marta lo miró.
 
 —Eres un arrogante.
 
@@ -252,7 +322,19 @@ Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asi
 
 —Las cadenas hacen estudios de mercado y ponen lo que la gente quiere ver. Ahí tienes un dato objetivo sobre lo tonta que es la gente.
 
-—David, a veces la gente solo quiere entretenerse.
+—Genio.
+
+—¿Por qué?
+
+—Porque has resuelto el problema de la televisión en una frase.
+
+—No era difícil.
+
+—Eso es lo preocupante.
+
+—Ya me gustaría a mí no verla.
+
+—A veces la gente solo quiere entretenerse, David.
 
 —Eso es lo que me preocupa.
 
@@ -270,7 +352,13 @@ Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asi
 
 —Ah. No me interesa.
 
-—David, por favor. Acabamos de cenar estupendamente. No me estropees la noche con otro filósofo.
+—Escribió cosas muy lúcidas sobre la gente.
+
+—David.
+
+—¿Qué?
+
+—Acabamos de cenar estupendamente. No me estropees la noche con otro filósofo.
 
 —Era un gran pensador.
 
@@ -302,21 +390,15 @@ Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asi
 
 —De nada.
 
-—Oye, David...
+—Oye, David.
 
 —¿Sí?
 
-—¿Nunca has pensado que quizá los demás también tengan que hacer un esfuerzo para aguantarte?
+—Nada. Luego.
 
-—No.
+—¿Luego cuándo?
 
-—Pues deberías.
-
-—Lo tendré en cuenta.
-
-—Mentiroso.
-
-—Un poco.
+—Luego.
 
 Marta miró por la ventanilla.
 

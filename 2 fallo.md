@@ -30,13 +30,15 @@ David volvió a mirar las cifras.
 
 Era evidente. Sintió que le ardían las mejillas.
 
+La misma operación que había hecho en el coche la noche de Schneider, en dos segundos, sin darse cuenta de que la estaba haciendo.
+
 —Sí, sí, evidente. Pero hay algo que no me convence.
 
 Clara regresó a su mesa.
 
 David cerró el documento. Llevaba veinte minutos intentando resolver un problema que Clara había identificado en unos segundos.
 
-No había dormido bien. Llevaba varios días con dolor de cabeza y una sensación de cansancio que no conseguía quitarse de encima. Probablemente estaba incubando una gripe.
+No había dormido bien. Llevaba varios días con dolor de cabeza y una sensación de cansancio que no conseguía quitarse de encima. Por la noche oía un ruido en el oído izquierdo, como un latido. Probablemente estaba incubando una gripe.
 
 Aquella tarde se marchó temprano.
 
