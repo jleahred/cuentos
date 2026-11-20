@@ -2,7 +2,7 @@
 
 El martes, David llegó al semáforo a las nueve menos cinco.
 
-Se dijo que había elegido aquella ruta porque le gustaba. El semáforo estaba en su camino y no había razón para dar un rodeo.
+Se dijo que había elegido aquella ruta porque le gustaba. El semáforo estaba en su camino y no había razón para dar un rodeo. Se lo dijo dos veces.
 
 A las nueve y diez no había aparecido nadie. Estaba a punto de marcharse cuando vio llegar a Enrique con otros cuatro ciclistas.
 

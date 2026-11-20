@@ -24,7 +24,7 @@ David sonrió mientras esperaban el coche.
 
 —No tengo ni idea.
 
-—Me lo imaginaba. Uno de los restaurantes más caros de Madrid y tú sin mirar los precios.
+—Me lo imaginaba. Uno de los restaurantes más caros de Madrid y tú no miras los precios.
 
 —La comida era excelente.
 

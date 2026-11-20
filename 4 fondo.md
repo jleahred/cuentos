@@ -404,7 +404,9 @@ Colgó y miró a David.
 
 —No.
 
-—Mejor.
+-¿Sabes usar excel?
+
+-Sí.
 
 —¿Cuándo puedes empezar?
 
@@ -416,13 +418,7 @@ Colgó y miró a David.
 
 —¿Qué esperabas?
 
-—No sé. Más preguntas.
-
-—¿Sabes usar Excel?
-
-—Sí.
-
-—Pues ya está.
+—No sé.
 
 Gema lo miró un segundo.
 

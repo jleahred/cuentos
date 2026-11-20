@@ -1,6 +1,6 @@
 # Entre tontos — notas de trabajo
 
-> **Estado.** La secuencia de trabajo son los capítulos 1–5. Los 6–9 están en `propuesta/` y **no son canon**: son un andamio. Aquí, lo que está sin marca lo has confirmado tú; lo marcado con *(propuesta)* es una inferencia mía que puedes cambiar o borrar.
+> **Estado.** La secuencia de trabajo son los capítulos 1–5.Aquí, lo que está sin marca lo has confirmado tú; lo marcado con *(propuesta)* es una inferencia mía que puedes cambiar o borrar.
 
 ## Idea central
 
@@ -12,7 +12,6 @@ Todo lo demás —la enfermedad, el diagnóstico, el misterio de Enrique, el fin
 
 1. **Desprecia a los tontos.** Es el más listo de la habitación y lo sabe.
 2. **Se vuelve tonto.** La enfermedad le baja a «un poco por encima de la media».
-3. **Descubre que tonto es normal.** Lo que él llamaba tontería es la vida de la mayoría.
 4. **Ama a los tontos.** Los entiende, comparte sus aficiones, lee cómics, sale en bici, se ríe de sus chistes.
 5. **Se enamora de una tonta.** Gema.
 6. **Conoce a un sabio que creía un tonto más.** Enrique: más que inteligente, sabio.
@@ -28,7 +27,7 @@ Este es el esqueleto del libro y la razón del título: la palabra «tonto» emp
 - **Enrique** es el médico que escucha y da con el diagnóstico: un genio jubilado. **No se descubre**: nunca le dice a David que es médico. Le envía a un cirujano, que es quien opera. Se hace pasar por un jubilado cualquiera; su bici vieja invita a David a juzgarlo por las apariencias. Es el padrino de Gema y la llama «ahijada»; Gema lo llama «tío». El lector puede sospechar; David no.
 - **Gema** es la jefa de la sección de logística y el interés romántico. No es la jefa cruel que Rafa le hace imaginar: es exigente, rápida y justa. Es la ahijada de Enrique. David (y el lector, al principio) creen que la ahijada es Elena.
 - **Elena** es la compañera que lo enseña, no el interés romántico *(propuesta: energía de hermana mayor)*. **Rafa** es el compañero de los cómics y las bromas.
-- **La operación sale bien.** Recupera por completo su inteligencia. Pero elige quedarse: el trabajo sencillo, los amigos, los cómics. Antes de la operación se aparta de Gema por miedo, disfrazado de protección. La recaída de desprecio después de la operación queda por decidir.
+- **La operación sale bien.** Recupera por completo su inteligencia. Pero elige quedarse: el trabajo sencillo, los amigos, los cómics. Antes de la operación se aparta de Gema por miedo, disfrazado de protección.
 - **No hay guerra.** La ruina es suya: una mala decisión de inversión multiplicada por su orgullo y por su cabeza, que ya no le responde.
 - **Tema**: además de la inteligencia racional, cuentan las emociones, la intuición y el conocimiento tácito. El libro lo demuestra con dos tramas paralelas: la oficina (Rafa sabe cosas que no están en el Excel) y el diagnóstico (Enrique pregunta lo que ningún especialista preguntó).
 
@@ -37,17 +36,15 @@ Este es el esqueleto del libro y la razón del título: la palabra «tonto» emp
 **Secuencia de trabajo (1–5):**
 
 1. **Triunfador** — cena con Marta. Se siembran el soplo, la conversión de divisas, Schneider y la memoria. Marta se va.
-2. **Fallo** — el declive. El comité, la pizarra, el desmayo.
+2. **Fallo** — Ejemplo de trabajo excelente, breve, y luego el declive. El comité, la pizarra, el desmayo.
 3. **Colapso** — médicos, inversiones, depresión, mudanza.
-4. **Fondo** — el piso, Luis, la bisagra, la bici, Enrique, la entrevista con Gema.
+4. **Fondo** — el piso, vecinos, la bici, Enrique, la entrevista con Gema.
 5. **Calma** — la oficina, el cómic, el rescate de Elena, la primera broma de Gema.
+.. **Cena**
+.. **Sabio** El tío/padrino de gema reflexiona con ella sobre lo ocurrido
+.. **Operación** todo sale bien, gema está con él
+..**recuperación** recupera su cerebro al 100%, pero ha aprendido mucho de los tontos, y quiere seguir con ellos
 
-**Andamio (6–9, en `propuesta/`): ideas no maduras, no dedicar tiempo.** Es una versión anterior: allí Enrique se descubría en el hospital y el libro terminaba en la bici. El desenlace vigente está en «Desenlace», más abajo.
-
-6. **Territorio neutral** — el conocimiento tácito. David se equivoca con el Excel y acierta Rafa. Primera noche a solas con Gema.
-7. **El soplo** — la feria, el desmayo, el hospital: Enrique es el tío de Gema y el médico.
-8. **Riesgo** — el diagnóstico, el miedo, la conversación con Gema, la operación.
-9. **Genio** — vuelve la inteligencia, vuelve el desprecio, y luego la elección. Final en la bici.
 
 ## Desenlace (nuevo)
 
@@ -111,7 +108,6 @@ No hacen falta todas. Tres o cuatro bien puestas bastan.
 ## Estado
 
 - 1–5: revisados, pendientes de tu lectura.
-- 6–9: en `propuesta/`, ideas no maduras. No dedicar tiempo.
 - `manuscrito.md`: no existe por defecto. Se genera con `./build.sh` (1–5) o `./build.sh --propuesta` (1–9).
 
 ## Pendiente
