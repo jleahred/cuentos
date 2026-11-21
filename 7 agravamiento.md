@@ -212,11 +212,11 @@ Enrique se recostó.
 
 Enrique sacó un bolígrafo del bolsillo y pidió una servilleta al camarero. Escribió un nombre y una dirección.
 
-—Tienes dos cosas. La primera es la que te está volviendo lento. No soy neurólogo, pero esto no es estrés. Es una fístula. Probablemente dural. Te está robando sangre al cerebro.
+—Tienes dos cosas. La primera es la que te está volviendo lento. No te puedo decir con certeza, pero diría que algo te está alterando la circulación de la sangre en tu cabeza. Pueden ser varias cosas.
 
-—¿Una fístula?
+—¿Qué cosas?
 
-—Una conexión anómala entre una arteria y una vena. Se puede cerrar. Esta es la que puede hacerlo. Dile que vas de parte del ciclista profesional.
+—No lo sé. Pero conozco a alguien que puede averiguarlo. Dile que vas de parte del ciclista profesional.
 
 David miró la servilleta.
 
@@ -306,19 +306,23 @@ Enrique terminó el café.
 
 —Eso es lo que dice.
 
-—Eso es lo que dice la gente que no la ha entendido. La teoría no dice eso. Dice que hay sistemas que no se pueden predecir, no porque no los conozcas, sino porque predecirlos requiere un ordenador más grande que el universo entero.
+—No, no dice eso. Es una demostración por reducción al absurdo. ¿Qué pasaba cuando cambiabas un poco las condiciones de tu programa?
 
-—Eso no es lo mismo.
+—Al principio, casi nada. Las trayectorias iban juntas. Pero después se separaban.
 
-—Exacto. No es lo mismo. Y tú, que has programado atractores de Lorenz en tres dimensiones, repites la tontería de la mariposa.
+—Aunque las dos obedecieran las mismas reglas.
 
-David lo miró.
+David asintió. Cogió el bolígrafo de Enrique y dibujó dos líneas sobre la servilleta. Al principio iban juntas; después se alejaban.
 
-—¿Cómo sabes que he programado...?
+—Si no conoces las condiciones iniciales con suficiente precisión, el error crece. Puedes conocer las reglas y aun así no saber dónde estarás después de un tiempo.
 
-—Porque me lo acabas de decir tú.
+—Exacto.
 
-David se calló.
+David dejó el bolígrafo. Miró las líneas que había dibujado.
+
+—Y con las personas no conozco ni las condiciones iniciales.
+
+—A veces ni siquiera las preguntas.
 
 —La lógica es una herramienta —dijo Enrique—. Muy buena. La mejor que tenemos. Pero no es la cabeza entera. Y tú llevas toda la vida confundiendo la herramienta con la cabeza.
 

@@ -1,6 +1,10 @@
 ### 8. Hospital
 
-David llamó al hospital a primera hora, preguntó por la doctora Ferrer. Le dijo que iba de parte de Enrique, la doctora dijo... ah, el ciclista profesional. Le preguntó si podía ir esa misma mañana.
+David llamó al hospital a primera hora y preguntó por la doctora Ferrer. Dijo que iba de parte de Enrique.
+
+—Ah, el ciclista profesional —dijo ella.
+
+Le preguntó si podía ir esa misma mañana.
 
 Avisó a Gema de que tenía unas pruebas médicas y no iría hasta después de comer. Ella le contestó enseguida: «No te preocupes por aquí. Que vaya bien».
 
@@ -8,7 +12,13 @@ El hospital olía a desinfectante. David esperó en una sala con sillas de plás
 
 La doctora Ferrer era pequeña, rápida y no sonreía. Le preguntó por el soplo, por los despistes, por el desmayo. Escuchó sin interrumpirlo y examinó las pruebas que él había llevado. Después pidió otras.
 
-Cuando volvió a la consulta, ella tenía unas imágenes abiertas en la pantalla.
+En las imágenes vio algo que quería estudiar con más detalle. Le explicó que necesitaba una angiografía: introducirían un catéter en una arteria y usarían contraste para ver los vasos de la cabeza. David quiso saber cuándo podrían hacerla.
+
+—Vamos a pedirla cuanto antes —dijo la doctora.
+
+***
+
+Unos días después, David avisó otra vez en la oficina y volvió a la consulta. La doctora tenía las imágenes de la angiografía abiertas en la pantalla.
 
 —Esto es una fístula arteriovenosa dural —dijo—. Una conexión anómala entre una arteria y una vena. Está alterando la circulación de la sangre en el cerebro.
 
@@ -40,7 +50,7 @@ David volvió a mirar la pantalla. La mancha era pequeña. Parecía imposible qu
 
 —¿Qué probabilidades tengo de volver a ser el mismo?
 
-—En su caso, calculo que alrededor de un cincuenta por ciento de recuperarse por completo. No puedo prometérselo. Y tampoco puedo decirle exactamente cómo estará si no es así.
+—No puedo darle una cifra fiable. Algunas personas mejoran mucho al cerrar la fístula; otras conservan dificultades. No sabemos cuánto podrá recuperar usted.
 
 —¿Podría quedarme peor?
 
@@ -106,7 +116,7 @@ Gema lo miró un momento.
 
 —Si necesitas faltar más días, me dices.
 
-—No hará falta. // ¿cómo que no? la semana que viene le operan, seguramente!!!
+—De momento no lo sé.
 
 —Vale. Pero no tienes que venir por los albaranes. Elena puede quedarse con ellos.
 
@@ -114,7 +124,7 @@ Gema lo miró un momento.
 
 —David.
 
-Ella le puso una mano en el brazo. Él bajó la vista. Quiso contarle lo del hospital. La fístula, la pantalla, el cincuenta por ciento. Abrió la boca.
+Ella le puso una mano en el brazo. Él bajó la vista. Quiso contarle lo del hospital. La fístula, la pantalla, la operación. Abrió la boca.
 
 —Tengo trabajo —dijo.
 
@@ -126,33 +136,27 @@ David volvió a su mesa. Elena hablaba por teléfono, con un lápiz sujeto entre
 
 ***
 
-Al terminar la jornada, David seguía delante del ordenador. Había leído tres veces el mismo correo. Gema apareció con el abrigo puesto y una bolsa de papel en la mano.
+Al terminar la jornada, David seguía delante del ordenador. Había leído tres veces el mismo correo. Gema apareció con el abrigo puesto.
 
 —¿Vienes?
 
 —¿Adónde?
 
-—A devolver esto. Elena se ha dejado el táper de la cena en mi casa y no quiero volver a cargar con él mañana.
+—A dar una vuelta. Necesito aire después de todo el día aquí dentro.
 
-David miró la bolsa. Dentro había un recipiente de plástico con la tapa verde.
+David miró alrededor. En la oficina ya no quedaba nadie más.
 
-—Podrías dejárselo en la mesa.
+—¿Y si no necesito aire?
 
-—Podría. Pero la oficina está cerrada y tú estás dentro.
-
-David miró alrededor. Las luces de la nave seguían encendidas; en la oficina ya no quedaba nadie más.
-
-—Creo que eso no tiene mucho sentido.
-
-—Entonces acompáñame un rato. Me llevo el táper a casa y mañana se lo doy.
+—Me acompañas por si me pierdo.
 
 David apagó el ordenador.
 
-En la calle hacía frío. Caminaron hacia la parada de Gema. Ella llevaba la bolsa agarrada por el asa, balanceándola junto a la pierna.
+En la calle hacía frío. Caminaron hacia la parada de Gema. Ella llevaba una bolsa de papel agarrada por el asa, balanceándola junto a la pierna. Dentro había un recipiente de plástico con la tapa verde.
 
-—¿Qué había dentro? —preguntó David.
+—¿Qué llevas ahí? —preguntó David.
 
-—Croquetas. Trajo tres táperes a mi casa y se llevó cuatro.
+—Un táper de Elena. El otro día trajo croquetas a mi casa en tres y se llevó cuatro.
 
 —Eso es un buen negocio.
 
@@ -218,13 +222,13 @@ Gema sonrió sin mirarlo y se apartó un mechón de la cara. Los dos se agacharo
 
 —Perdón —dijo él, retirando la mano.
 
-Quiso decirle algo más, pero Gema ya había dado un paso atrás.
+Quiso decirle algo más, pero no encontró las palabras.
 
 —Bueno —dijo—. Nos vemos mañana.
 
 —Hasta mañana.
 
-Ella sonrió, pero ya estaba dando un paso atrás. Se volvió y cruzó la calle sin mirar otra vez.
+Ella sonrió, se volvió y cruzó la calle sin mirar otra vez.
 
 David se quedó en la esquina. Quería ir detrás de ella. Todavía podía alcanzarla antes de que llegara al semáforo.
 
