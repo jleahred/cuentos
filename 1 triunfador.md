@@ -24,7 +24,7 @@ David sonrió mientras esperaban el coche.
 
 —No tengo ni idea.
 
-—Me lo imaginaba. Uno de los restaurantes más caros de Madrid y tú no miras los precios.
+—Me lo imaginaba. Uno de los restaurantes más caros de Madrid y tú ni te enteras del precio.
 
 —La comida era excelente.
 
@@ -130,7 +130,7 @@ Marta se rio.
 
 —Estoy todos los días.
 
-—Para dormir. Tienes un jardín precioso que cuida un jardinero y una piscina climatizada en la que no se baña nadie.
+—Para dormir. Tienes un jardín precioso que disfruta tu jardinero y una piscina climatizada en la que no se baña nadie.
 
 —Me bañé el mes pasado.
 
@@ -320,19 +320,11 @@ Marta lo miró.
 
 —Pues no la veas.
 
-—Las cadenas hacen estudios de mercado y ponen lo que la gente quiere ver. Ahí tienes un dato objetivo sobre lo tonta que es la gente.
+—Se basa en estudios de mercado, ahí tienes un dato objetivo de que los tontos abundan.
 
 —Genio.
 
 —¿Por qué?
-
-—Porque has resuelto el problema de la televisión en una frase.
-
-—No era difícil.
-
-—Eso es lo preocupante.
-
-—Ya me gustaría a mí no verla.
 
 —A veces la gente solo quiere entretenerse, David.
 
