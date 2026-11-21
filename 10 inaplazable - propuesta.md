@@ -94,13 +94,9 @@ Gema asintió despacio. Él siguió mirando sus manos.
 
 —Cuando llegué, pensaba que estaba rodeado de gente que no daba para más.
 
-Ella retiró la mano. No mucho. Lo justo.
-
 —¿Yo también?
 
 —Tú también.
-
-Gema se levantó y fue hasta la ventana. Afuera había un aparcamiento y, más allá, una fila de árboles. David esperó a que se volviera. Ella siguió mirando fuera.
 
 —No os conocía —dijo él.
 
@@ -108,11 +104,9 @@ Gema se levantó y fue hasta la ventana. Afuera había un aparcamiento y, más a
 
 —No. No quería.
 
-Gema se cruzó de brazos. David quiso decirle que ahora era distinto, que ella sabía cómo la miraba, cómo se sentía. No encontró una forma de decirlo que arreglara lo que acababa de contar.
+Gema le acarició los dedos con el pulgar. David quiso decirle que ahora era distinto, pero no estaba seguro de qué parte de él había cambiado y cuál había dejado de funcionar.
 
 —Tengo miedo de morirme —dijo—. Y de quedarme peor. Pero también tengo miedo de que todo salga bien y vuelva a ser ese hombre.
-
-Gema se volvió.
 
 —¿Y que vuelvas a pensar lo mismo de mí?
 
@@ -120,25 +114,19 @@ David asintió.
 
 —Sí.
 
-Ella tardó en responder.
+Ella le apretó la mano.
 
-—Yo quiero que salgas de esta. Quiero que vuelvas a estar bien.
+—El hombre que yo conozco fue a Getafe a ayudar a Carlos. Se quedó por las noches y se dejó la espalda cargando cajas. Eso también eres tú.
 
-Se acercó a la cama, pero no se sentó.
+—No sé si lo habría hecho antes.
 
-—Y una parte de mí tiene miedo de que, cuando estés bien, ya no me mires igual. Me da vergüenza decirlo ahora.
-
-—No tienes por qué.
-
-—He pensado incluso que ojalá no cambiaras. —Se frotó la mancha de tinta con el pulgar—. Y luego me he odiado por pensarlo.
-
-David extendió la mano. Ella la cogió.
+—Yo no estaba antes. Estoy ahora.
 
 —No sé cómo voy a salir de aquí —dijo él—. Pero no quiero volver a tratarte así.
 
 Gema miró las manos de los dos.
 
-—Yo tampoco quiero que lo hagas.
+—Pues tendremos que esperar para averiguarlo.
 
 Alguien llamó a la puerta. Era una enfermera. David soltó la mano de Gema para coger el bolígrafo. Leyó los papeles despacio y preguntó a la enfermera por algo que no entendía. Ella llamó a Ferrer, que volvió y se lo explicó. Después firmó.
 
@@ -160,7 +148,7 @@ Gema se inclinó y le besó la frente. David cerró los ojos. Quiso pedirle que 
 
 ***
 
-Gema encontró una silla en la sala de espera. Mandó un mensaje a Elena y otro a Rafa. Los dos contestaron enseguida. Elena preguntó si quería que fuera. Gema escribió que no hacía falta; al cabo de un minuto le pidió que le guardara el cargador del teléfono, que debía de haberse quedado en el despacho.
+Gema encontró una silla en la sala de espera. Mandó un mensaje a Elena y otro a Rafa. Los dos contestaron enseguida. Elena preguntó si quería que fuera. Gema escribió que no hacía falta, que avisaría cuando supiera algo.
 
 Abrió el navegador y escribió el nombre completo que había visto en los papeles del hospital. Aparecieron noticias de empresas, una entrevista y fotografías de una gala. En una de ellas David llevaba esmoquin y sonreía junto a una mujer a la que Gema reconoció de la televisión.
 
@@ -168,7 +156,7 @@ Amplió la foto. Él parecía más joven, aunque no mucho. Tenía una mano en la
 
 Gema cerró la página. A los pocos segundos volvió a abrirla.
 
-El teléfono vibró. Era Elena: había encontrado el cargador debajo de una carpeta y se lo llevaría esa tarde. Gema le dio las gracias y guardó el móvil en el bolso.
+El teléfono vibró. Era Rafa, que preguntaba si había noticias. Gema le contestó que todavía no y guardó el móvil en el bolso.
 
 Un hombre de la sala se levantó a hablar con una doctora. Gema también se puso de pie, antes de darse cuenta de que no era Ferrer. Volvió a sentarse.
 
@@ -178,7 +166,7 @@ Al cabo de un rato miró la hora. Había pasado el tiempo que les habían dicho 
 
 Gema volvió a su silla. Sacó el teléfono y escribió a Elena: «Aún no ha salido». Lo dejó boca abajo sobre el asiento de al lado. Cuando vibró, no lo cogió enseguida.
 
-Elena le preguntaba si quería que fuera. Esta vez Gema escribió que sí.
+Elena le preguntaba si quería que fuera. Esta vez Gema escribió que sí. Después llamó a su tío. Él le dijo que iba para allá.
 
 Empezó a repasar la última conversación. David había dicho que tenía miedo de volver a ser el de antes. Ella había pensado en las fotos, en las mujeres, en la forma en que él había mirado a la cámara. Ahora le parecía una estupidez. Podía no volver a verlo despierto y ella había estado preocupada por si dejaba de gustarle.
 
@@ -192,7 +180,7 @@ En la sala encontró a Elena junto a las sillas, con el abrigo puesto y el bolso
 
 —Ya lo sé.
 
-Se sentaron juntas. Elena había traído el cargador y lo dejó en el bolso de Gema. Después se quedó a su lado, mirando la puerta con ella.
+Se sentaron juntas. Elena se quedó a su lado, mirando la puerta con ella.
 
 —Le he dicho que tenía miedo de que volviera a ser como antes —dijo Gema.
 
@@ -211,6 +199,78 @@ Gema desenroscó el tapón de la botella y lo volvió a cerrar sin beber.
 —Y hace un rato he pensado que, si no recuperaba todo, a lo mejor... —Gema dejó la botella en el suelo—. No quiero que le pase nada. No quiero que pierda nada más.
 
 Elena le cogió la mano. Gema miró la puerta otra vez. Había dejado de contar los minutos; ahora miraba la hora cada vez que se abría.
+
+Su tío llegó poco después. Llevaba el abrigo abierto y las gafas torcidas. Gema se levantó y él la abrazó sin preguntar. Después saludó a Elena, que dijo que iría a buscar café.
+
+—No sé nada más —dijo Gema cuando se quedaron solos—. Me han dicho que sigue dentro.
+
+Su tío se sentó junto a ella. Tenía las manos frías. Gema se las cogió entre las suyas y las frotó, como hacía de pequeña. Él la dejó hacer.
+
+—Me ha contado cómo era antes —dijo ella—. Se creía mejor que los demás. Mucho mejor. Dice que cuando llegó a la oficina nos miraba por encima del hombro.
+
+—¿Y tú qué piensas?
+
+—Que a veces sigue siendo un pesado. Que pregunta demasiado cuando algo le interesa y no escucha nada cuando no. —Gema sonrió un instante—. Y que se quedó conmigo hasta tarde el día que no sabía cómo sacar adelante una presentación. No tenía por qué hacerlo.
+
+—¿Se lo has dicho?
+
+—Le he dicho que yo conozco al de ahora. Pero luego he visto unas fotos suyas. Sale en galas, con mujeres guapísimas. Una era actriz; a las otras no las conozco. —Se alisó el pantalón sobre las rodillas—. No sé si eran parejas suyas o no. Me he puesto a mirarlas como una idiota, intentando averiguarlo.
+
+—¿Y qué has averiguado?
+
+—Nada. Que son guapísimas y que yo no me parezco a ellas. Y no paro de pensar que, si vuelve a ser como antes, quizá se pregunte qué hace conmigo.
+
+Su tío miró la puerta. Al otro lado se oyeron unas ruedas y los dos levantaron la cabeza. Pasó una camilla con una mujer mayor. Gema esperó a que se alejara.
+
+—Hace un rato he pensado que ojalá no cambiara —dijo—. Que se quedara como está, conmigo. Y está ahí dentro intentando salir adelante. ¿Qué clase de persona piensa eso?
+
+—Una que tiene miedo.
+
+—También es egoísta.
+
+—Puede ser.
+
+Gema lo miró. Había esperado que le dijera que no.
+
+—Gracias, tío.
+
+—No he dicho que seas solo eso. ¿Qué quieres que pase?
+
+—Que salga. Que esté bien. Todo lo bien que pueda estar.
+
+—¿Aunque no se quede contigo?
+
+Gema miró sus manos. Una uña tenía un borde de tinta azul que no había conseguido quitarse.
+
+—Sí. Aunque no se quede conmigo. —Tragó saliva—. Pero me dolería mucho.
+
+—Claro.
+
+—No sé si él podría quererme como era antes. Dice que ni siquiera se fijaba en personas como yo. Las mujeres de las fotos parecían pertenecer a su mundo. Yo no sabría ni qué ponerme para ir a una de esas galas.
+
+—Antes no te conocía.
+
+—¿Y si conocerme no basta?
+
+Su tío se tomó un momento.
+
+—No lo sabes. Ni él tampoco. Pero tampoco sabe ahora todo lo que va a aprender después, ni tú lo que vas a aprender de él. La cabeza que tenía antes no puede borrar lo que ha vivido estos meses.
+
+—A veces parece que cree que lo que ha vivido no es suyo. Como si solo hubiera pasado porque estaba enfermo.
+
+—A lo mejor tiene que descubrirlo. Tú has conocido a un hombre que necesita ayuda. Si sale de ahí, conocerás también al que ya no la necesita tanto. Y él tendrá que aprender a conocerte sin esconderte cosas.
+
+Gema se quedó callada. Pensó en David apartándose de ella aquella noche y en la mano que había buscado la suya en el suelo de la oficina. Había querido preguntarle por qué no le había contado nada. Todavía quería hacerlo.
+
+—Me enfadé con él por callárselo —dijo—. Y después me dijo que estaba enamorado de mí y ya no sabía si tenía derecho a estar enfadada.
+
+—Puedes estarlo. Y cuando despierte puedes decírselo.
+
+—Si despierta.
+
+Su tío le rodeó los hombros con el brazo. Esta vez no intentó responder.
+
+Elena volvió con tres cafés. Se los repartió y se sentó al otro lado de Gema. El de ella se enfrió sin que llegara a probarlo.
 
 Cuando por fin salió Ferrer, las dos se levantaron. La doctora tenía marcas en la cara donde había llevado la mascarilla.
 
@@ -251,6 +311,8 @@ Giró la cabeza sobre la almohada y esperó. Seguía sin oírlo.
 ***
 
 Gema entró más tarde, cuando le permitieron verlo. Se acercó a la cama y lo miró durante unos segundos.
+
+Su tío había esperado con Elena hasta que les dieron noticias. Después se marchó; le dijo a Gema que lo llamara cuando pudiera y que no se preocupara por la hora.
 
 —Tienes mala cara.
 
@@ -296,13 +358,7 @@ David se rio. Tuvo que parar porque le dolía.
 
 Al darle el alta, la doctora le explicó qué cuidados necesitaba y cuándo volvería a verlo. Gema lo acompañó a casa. Subió la bolsa, dejó las medicinas sobre la mesa y leyó con él las indicaciones. Se quedó aquella noche en el sofá y al día siguiente trabajó desde el piso. Después volvió a su casa, pero pasó a verlo cada día.
 
-Una tarde David encontró en la bolsa de Gema el cargador que Elena le había llevado al hospital.
-
-—¿No tienes otro en casa?
-
-—Sí. Este viaja mucho.
-
-Él lo dejó sobre la mesa. Gema estaba preparando una infusión y tardó en encontrar las tazas. David estuvo a punto de levantarse para enseñarle dónde estaban, pero ella abrió el armario correcto.
+Una tarde Gema estaba preparando una infusión y tardó en encontrar las tazas. David estuvo a punto de levantarse para enseñarle dónde estaban, pero ella abrió el armario correcto.
 
 —Ya lo tengo —dijo.
 
