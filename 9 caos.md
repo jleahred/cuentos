@@ -42,7 +42,7 @@ David acercó una silla. Gema giró el portátil hacia él y abrió una hoja de 
 
 —Getafe concentra la mayoría —dijo—. Una de las líneas estuvo parada dos días y ahora tienen las salidas atrasadas. Aquí también vamos justos. No puedo mandarles gente sin dejar esto descubierto.
 
-David comprobó los totales. Pidió los datos del mes anterior y Gema abrió otro archivo. Él pasó de una hoja a otra, apuntando cifras en un papel. Tuvo que detenerse un par de veces y volver a empezar una cuenta.
+David comprobó los totales. Pidió los datos del mes anterior y Gema abrió otro archivo. Él pasó de una hoja a otra y apuntó unas cifras en un papel. Volvió a la primera tabla y señaló una columna.
 
 —Aquí están contando las entregas que se aplazaron por falta de vehículo —dijo.
 
@@ -60,7 +60,7 @@ David miró de nuevo la lista de nombres.
 
 —La línea se paró. No es culpa tuya.
 
-—Díselo a ellos. —Gema se frotó los ojos—. Ayer les dije que no podíamos hacerlo. Me contestaron que lo intentara más fuerte.
+—Díselo a ellos. —Gema se frotó los ojos—. Ayer les dije que no podíamos hacerlo. No les importa, son los números.
 
 David siguió mirando las cifras.
 
@@ -120,7 +120,7 @@ David miró la hoja. Las entregas estaban agrupadas por orden de entrada, no por
 
 Pilar cogió el bolígrafo y tachó dos calles. Carlos llamó a los conductores. Uno propuso otro cambio; el otro dijo que podía llevar parte de la carga si le ayudaban a subirla.
 
-Entre los cuatro reorganizaron las salidas. David se equivocó al copiar un número de pedido y Pilar lo vio antes de que cerraran la furgoneta.
+Entre los cuatro reorganizaron las salidas. Pilar vio un número de pedido mal copiado antes de que cerraran la furgoneta.
 
 —Te debo una —dijo él.
 
@@ -140,7 +140,49 @@ David guardó el teléfono y se levantó.
 
 ***
 
-Durante los días siguientes salió de casa temprano y volvió de noche. En Getafe aprendió a envolver palés, a buscar paquetes que figuraban en un sitio y estaban en otro, y a no mover nada que Pilar hubiera dejado junto a su mesa.
+Al terminar las cargas, David se quedó con Carlos en la oficina de la nave. Había tres hojas de cálculo abiertas y una libreta llena de nombres y números de teléfono.
+
+—¿Todo esto son las entregas pendientes? —preguntó David.
+
+—Y las de la carpeta verde. Las que no están en ningún sitio son las que más guerra dan.
+
+David reunió los archivos en una sola pantalla. Había direcciones repetidas en rutas distintas, vehículos que volvían casi vacíos y entregas previstas para horas en las que el cliente estaba cerrado.
+
+—¿Puedo probar una cosa?
+
+Carlos miró el reloj.
+
+—Mientras no me borres nada.
+
+David hizo una copia y empezó a escribir. Preparó un programa que reunía pedidos, direcciones, horarios y capacidad de los vehículos. Después lo hizo buscar combinaciones de entregas que pudieran compartir ruta.
+
+La primera propuesta parecía buena hasta que Carlos la vio.
+
+—Ese cliente solo recibe por la puerta de atrás. Una furgoneta grande no pasa. Y este no descarga después de las dos, aunque aquí ponga las cuatro.
+
+—¿Dónde está apuntado?
+
+Carlos levantó la libreta.
+
+—Aquí. Y algunas cosas las sabe Pilar. O los conductores.
+
+David abrió una hoja nueva. Le pidió a Carlos que se sentara con él y fue anotando cada excepción. Llamaron a Pilar, que ya estaba en casa; ella corrigió dos horarios y les recordó una calle cortada. David incorporó los cambios y volvió a ejecutar el programa.
+
+Esta vez aparecieron cuatro rutas nuevas. Carlos las revisó una por una, con el dedo sobre la pantalla.
+
+—Estas dos pueden funcionar. La otra tengo que preguntarla. Y aquí nos falta un conductor.
+
+—Se lo diré a Gema.
+
+Cuando Carlos se fue, David siguió trabajando. Fuera, la nave quedó en silencio y las luces de los muelles se apagaron. Él pasó los datos del día siguiente al programa, encontró dos pedidos duplicados y corrigió un error en los horarios. Luego probó de nuevo, con menos vehículos, y después con uno más.
+
+Hacía mucho tiempo que no conseguía mantener tantas piezas en la cabeza. Aquella noche las veía: los pedidos, los tiempos, las furgonetas que podían cruzarse sin detenerse. Cambiaba una condición y encontraba otra posibilidad. Revisó los resultados con los archivos originales, línea por línea.
+
+Cuando levantó la vista, era de madrugada. En la pantalla había seis rutas; en su cuaderno, una lista de preguntas para Carlos y los conductores. Se acordó de lo que había dicho la doctora. Cerró los ojos un momento. Después dejó el programa preparado y llamó a un taxi.
+
+***
+
+Durante los días siguientes llegó temprano a Getafe y se quedó por las noches en la oficina. De día ayudaba donde hacía falta, preguntaba y tomaba notas. Aprendió a envolver palés, a buscar paquetes que figuraban en un sitio y estaban en otro, y a no mover nada que Pilar hubiera dejado junto a su mesa.
 
 —Aunque parezca que estorba —le dijo ella.
 
@@ -150,19 +192,19 @@ Durante los días siguientes salió de casa temprano y volvió de noche. En Geta
 
 En la oficina, Gema consiguió retrasar dos recogidas que no eran urgentes y habló con clientes para cambiar ventanas de entrega. Elena revisó los pedidos que podían salir juntos. Rafa llamó a cada conductor que conocía y encontró uno dispuesto a hacer una ruta extra. Un transportista les dijo que no; otro pidió unas condiciones que Gema no podía aceptar.
 
-Por las noches, David y ella hablaban por teléfono. Comparaban las entregas realizadas con las pendientes. Algunas llamadas duraban dos minutos; otras terminaban cuando uno de los dos se quedaba en silencio delante de una cifra.
+Cada noche David actualizaba el programa con lo que había ocurrido durante el día. Si una entrega no se había hecho o aparecía un vehículo nuevo, recalculaba. Después enviaba las propuestas a Gema y a Carlos. A la mañana siguiente, ellos las revisaban con los conductores y cambiaban lo que hiciera falta.
 
-—Me faltan doce —dijo Gema el jueves.
+El jueves, Gema lo llamó cuando casi todos se habían marchado.
 
-—A mí me sobran doce.
+—Carlos dice que has encontrado sitio para las entregas del polígono.
 
-—¿Los has contado dos veces?
+—Si el vehículo de Rafa puede salir una hora antes. Y si el cliente acepta recibir las dos últimas juntas.
 
-—No lo sé.
+—Lo del cliente lo arreglo yo. Pero Carlos dice que llevas dos noches sin dormir en condiciones.
 
-Revisaron las hojas. David había copiado una columna entera en la página equivocada.
+David miró el vaso de agua que tenía junto al teclado. No recordaba cuándo lo había llenado.
 
-—Ya está —dijo él.
+—Un poco sí he dormido.
 
 —Vete a dormir.
 
@@ -170,7 +212,9 @@ Revisaron las hojas. David había copiado una columna entera en la página equiv
 
 —Mañana también quedarán.
 
-David miró el reloj. Se había quedado dormido en la mesa el día anterior, con el teléfono junto a la mano. Se despidió de Gema, cerró el ordenador y se tumbó vestido sobre la cama.
+Se despidieron. David revisó una vez más las entregas del polígono. Encontró una restricción que había anotado Pilar y cambió el orden de dos paradas. Cuando terminó, apoyó la cabeza sobre los brazos. El soplo seguía ahí. No sabía si se había dormido cuando el teléfono volvió a vibrar: Gema había conseguido que el cliente aceptara.
+
+David le dio las gracias, guardó los cambios y siguió con la siguiente ruta.
 
 El viernes por la tarde salió la última furgoneta. Carlos comprobó la carga dos veces. Pilar cerró las puertas y dio dos golpes en la chapa.
 
