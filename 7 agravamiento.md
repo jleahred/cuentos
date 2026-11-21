@@ -10,6 +10,14 @@ Por la mañana se quedó delante de la nevera abierta. No sabía cuánto tiempo.
 
 En la oficina, los albaranes se acumulaban en la bandeja azul. David los miraba. Las cifras se movían.
 
+Gema salió del despacho para preguntar algo a Rafa. Él le contestó sin levantar la vista y ella se rio. David no había oído lo que decía, pero también sonrió. Gema volvió a entrar y cerró la puerta.
+
+David volvió a mirar la pantalla, pero siguió pensando en Gema. Recordó su risa en la calle y el abrazo antes de subir al taxi. Se quedó un rato así, sin hacer nada. Estaba tranquilo. No tenía prisa por pensar en otra cosa.
+
+Al cabo de un rato, el salvapantallas se encendió. Movió el ratón y apareció el mismo albarán que había abierto antes. No recordaba haber leído una sola línea.
+
+Otra vez, pensó. Aquello iba a peor.
+
 —Estás tonto —dijo Elena.
 
 David levantó la cabeza.
@@ -146,6 +154,44 @@ El camarero trajo un café y un agua. Enrique bebió un poco de vino.
 
 —Fui un niño prodigio —dijo David—. Acabé la carrera antes que los demás. Gané mucho dinero. Tuve novias guapísimas. Y ahora no sé lo que hago delante de una nevera.
 
+—Esta mañana me he quedado mirando una pantalla hasta que se ha apagado. No sé cuánto tiempo. No había hecho nada.
+
+—¿En qué pensabas?
+
+—No sé. En la cena del otro día. Fui con mi jefa.
+
+—¿Gema?
+
+—Sí. Estaban los de dirección. Ella defendió a su equipo delante de todos. Sin levantar la voz ni intentar quedar bien.
+
+—¿Y tú?
+
+—Yo hablé demasiado, como siempre. Pero después salimos a la calle y nos fuimos andando. Es divertida. Me gusta verla reír.
+
+Enrique dejó la copa sobre la mesa.
+
+—¿De qué hablasteis?
+
+—De Elena, de la entrevista... De cualquier cosa. Con ella no tengo que pensar qué decir. Llegó su taxi y yo quería seguir paseando.
+
+David se quedó mirando el vaso de agua.
+
+—El caso es que esta mañana no podía dejar de pensar en ella. Y en la oficina tengo cosas que hacer.
+
+—¿Y qué hacías mientras pensabas en ella?
+
+—Nada. Miraba la pantalla.
+
+—¿Te molestaba?
+
+David tardó un momento en responder.
+
+—No. Es raro. Llevaba mucho tiempo sin sentirme así de tranquilo. Me acordaba de cómo se reía y... estaba bien. No quería dejar de pensar en ella.
+
+—¿Aunque tenías cosas que hacer?
+
+—Aunque tenía cosas que hacer. Hasta que me di cuenta de que había pasado un buen rato y no sabía cuánto. Antes no me ocurría.
+
 —Eso no es el principio —dijo Enrique.
 
 —¿No?
@@ -220,7 +266,11 @@ Enrique sacó un bolígrafo del bolsillo y pidió una servilleta al camarero. Es
 
 —He visto a muchos médicos.
 
-—Lo sé. Lleva todos los informes y las pruebas que tengas. Todos.
+—Lo sé. Y has ido muy lejos a buscarlos. Esta la tienes aquí, y yo iría a verla antes que a ninguno de ellos.
+
+—¿Es tan buena?
+
+—Es la mejor para esto. Lleva todos los informes y las pruebas que tengas. Todos.
 
 David miró la servilleta.
 
@@ -238,13 +288,17 @@ David guardó la servilleta.
 
 Enrique bebió un poco de vino.
 
-—La segunda tiene peor solución.
+—La segunda patología tiene peor solución.
 
 —¿Qué es?
 
 —Estás enamorado.
 
 David se rio. Luego dejó de reírse.
+
+—¿Eso es una patología?
+
+—Por lo de la pantalla, diría que está bastante avanzada.
 
 —No.
 

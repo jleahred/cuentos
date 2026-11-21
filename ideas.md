@@ -77,6 +77,8 @@ Este es el esqueleto del libro y la razón del título: la palabra «tonto» emp
 
 ## Pistas sobre Enrique *(propuesta)*
 
+Enrique pudo ser neurocirujano. Eso explicaría que reconozca una posible causa de los síntomas y sepa que la doctora Ferrer es la mejor opción para David, aunque ella no esté en uno de los centros lejanos a los que él acudió. Es una posibilidad para desarrollar a partir de los capítulos; no hace falta que Enrique se lo diga a David.
+
 Para que la segunda lectura funcione, las pistas tienen que ser invisibles en la primera. Algunas posibles:
 
 - **La pregunta del soplo.** «¿Un pitido o un soplo?» Nadie se lo había preguntado así. Un médico sabe que la diferencia importa.
