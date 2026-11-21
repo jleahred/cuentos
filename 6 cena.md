@@ -1,95 +1,281 @@
-### 6 Cena
+### 6. Cena
 
+En la oficina habían puesto un árbol de Navidad pequeño, de plástico, en la esquina de la recepción. Rafa le colgó un albarán como estrella.
 
-a desarollar...
+David se había acostumbrado a la bandeja azul. Los albaranes llegaban por la mañana, él los comprobaba con las facturas, apuntaba los que faltaban y los dejaba en la bandeja roja de Elena. A las cinco cerraba el ordenador y se iba a casa. Algunos días se quedaba un rato más. No por trabajo.
 
-quizá contar un poco de rutina en la oficina
+—¿Has visto lo de Getafe? —preguntó Gema.
 
-david habla de vez en cuando con gema de cosas de trabajo, se traba, balbucea, inseguro, tímido, no muy exagerado (es porque le gusta, efecto quinceañero, david creció y triunfó rápido, ha perdido su infancia y adolescencia con ese cerebro tan brillante, ahora lo está recuperando, y no lo entiende)
+Estaba de pie junto a su mesa, con una carpeta bajo el brazo. David tardó un segundo en levantar la vista.
 
+—Sí. Esta mañana. Ya está entregado.
 
-David mira a gema en muchas ocaiones en la distancia. se asegura de que nadie le ve y la mira, la sigue con la mirada.
-Un día, mientras la sigue con la mirada, se topa con elena que está petrificada con cara de asombro. él la mira durante un instante, y luego disimula
+—Bien.
 
+Se fue. David la siguió con la mirada hasta la puerta del despacho. Luego volvió a la pantalla.
 
-se acerca navidad, hay una cena importante para gema de la empresa, con jefes y gente "importante", quizá algún político local
+La miraba a menudo. No todo el tiempo; lo justo para que pareciera que miraba el ordenador. Gema hablaba por teléfono, discutía con un transportista, se reía con Elena. A David le parecía que se reía de otra manera cuando estaba con Elena. No sabía qué hacer con eso.
 
-elena sale del despacho y se dirige a rafa
+Un día estaba siguiendo a Gema con la mirada cuando, al girar la cabeza, se topó con Elena. Estaba a su lado, con una carpeta en la mano, y lo miraba como si acabara de ver un unicornio.
 
-¿sabes qué? Gema va a ir a la cena sin pareja, qué mala idea, bla,bla...
+—¿Qué? —dijo David.
 
-luego le dice a David, ¿tú cómo lo ves? ¿a que es un error? a esas cenas hay que ir con pareja
+—Nada.
 
-David, titubea, duda, da la razón más por escapar que por convicción
+—¿Qué?
 
-Y Elena le dice, me encanta que estemos deacuerdo y que quieras ayudar, el traje llega a las 16:00, tu taya es la ... correcto? espero que te quede bien
+—Nada, nada.
 
-¿cómo? yo no quiero ir...
+Elena siguió andando. David miró la pantalla. No había nada en la pantalla.
 
-desarollamos un poco
+***
 
-seguimos con justo después de la cena
+Elena se apoyó en la mesa de Rafa.
 
-David titubea menos, se siénte cómodo, le dice a gema que ha estado maravillosa.
+—¿Sabes qué? Que Gema va a ir a la cena de la dirección sin pareja.
 
-Gema aprovecha para agradecerle la ayuda el otro día.
+—Qué horror —dijo Rafa.
 
-David se sorprende, ¿qué ayuda? 
-vamos genio, elena es fantástica, pero no hace esas presentaciones.
-¿lo sabías?
-sí, además ella me lo dijo
-¿por qué? ¿qué gana ella diciéndotelo? ella triunfó con la jefa, por qué???
+—Un error —dijo Elena—. Solo van los jefes y algún político. A esas cenas hay que ir con pareja.
 
-porque trabaja conmigo, todavía no te has dado cuenta?
-conmigo no trabajan egoístas trepas
+David levantó la vista.
 
-pero si tú no eliges, coges a cualquier
-sí, claro como a ti
+—¿Tú cómo lo ves? —le preguntó Elena—. ¿A que es un error?
 
-precisamente, la entrevista... si puede llamarse así...
-Estás un poco loca, ni siquiera en RRHH dudaron cuando les dije yo que estaba contratado
+—Sí, supongo.
 
-¿tú crees que un trepa me habría planteado tu duda?
-de todas formas sabía que valías. ¿cómo? No sé, lo sabía, y si no, mis chicos simplemente tratarían de sacar lo mejor de ti
+—Me encanta que estemos de acuerdo —dijo Elena—. El traje llega a las cuatro. Tu talla es la cincuenta, ¿no?
 
-Parece que les valoras, no tiene pinta de que seas un ogro.
-¿Cómo?
-cosas mías.
-Ya, supongo, y quizá de rafa, sigue con la misma broma
-¿Y tú lo toleras?
-Oh, es divertido veros asustados, titubear
-Un poco cruel sí eres
-Lo justito
+—¿Cómo?
 
-bueno, ahora que sé que lo sabes. ¿No debería pedirte un aumento?
-¿Qué? quizá debería dárselo a elena
-Pero si fui yo el que organizó...
-Sí, pero fue ella la que hizo que lo hicieras
-Bueno, es circunstancial, estaba llorando, desesperada
+—Espero que te quede bien.
 
-Ya, claro. Cuando llegaste estaba sola en la oficina?
-No estaba tal, y tal, y...
-Pero consiguió que lo hicieras tú, genio
+—Yo no quiero ir.
 
-vaya, me manejó, y no me di cuenta
-¿siempre es tan manipuladora?
-O, incluso más, pero siempre con buena fe
+—A las cuatro —dijo Elena, y se fue hacia su mesa.
 
-Supongo que se te ocurrió venir a esta cena súbitamente.
-Otra vez!!!
+Rafa se giró hacia la pantalla. Le temblaban los hombros.
 
-nunca me había pasado esto.
-eso crees, genio
+—¿Tú sabías esto? —preguntó David.
 
-(quizá demasiados genio?)
+—Yo no sé nada.
 
-Por cierto, también te agradezco que hayas venido, y me has ayudado mucho
-no me encuentro cómoda en estos eventos con los jefazos, tu ayuda ha sido fantástica
+***
 
-Y deberías hacerlo más
+A las cuatro, un mensajero dejó un traje en recepción. David se lo probó en el baño. Le quedaba bien. Se miró en el espejo: azul oscuro, como los de antes. Se ajustó los puños. Se dijo que iba por compromiso. Se lo repitió dos veces.
 
-¿Salir a cenar contigo?
-Eso quizá también, me refería a sonreir, te sienta muy bien
+La cena era en un hotel del centro. Un salón con lámparas de araña, un árbol de Navidad demasiado grande y una mesa larga con tarjetas. David llegó diez minutos tarde. Había dado dos vueltas a la manzana. Gema estaba al otro lado del salón, con un vestido negro y una copa en la mano. No parecía la misma persona.
 
+Gema lo vio y sonrió.
 
-se despiden con un abrazo
+—Llegas tarde.
+
+—Diez minutos.
+
+—Para mí son veinte.
+
+Le miró el traje.
+
+—Te queda bien.
+
+—Es de Elena.
+
+—Lo sé.
+
+David se sentó a su lado. Había tres copas delante de cada plato. Cogió la de la izquierda. Gema le movió la mano hacia la derecha.
+
+—El agua está a la derecha —dijo, sin mirarlo.
+
+***
+
+Al otro lado de la mesa estaban Salas, el director general, y Vidal, el de finanzas. Había también un concejal llamado Romero, que sonreía demasiado. Salas tenía un reloj grande y una piel muy bronceada para ser diciembre.
+
+—Gema —dijo Salas—. Lo de este trimestre está bien, pero los costes por envío siguen altos. Tendrás que apretar a los tuyos.
+
+—Los míos están al límite —dijo Gema.
+
+—Todos estamos al límite.
+
+El concejal se rio. Gema sonrió un segundo tarde.
+
+David miró el mantel. Tenía una mancha pequeña de vino.
+
+—Y el contrato de Getafe, ¿cómo va? —preguntó Salas.
+
+Gema abrió la boca.
+
+—El coste por envío bajó un ocho por ciento este trimestre —dijo David—. Lo que sube es la asignación de rutas.
+
+Salas lo miró.
+
+—¿Y usted?
+
+—David. Trabajo con Gema.
+
+—¿Y qué sabe de rutas?
+
+—Que Getafe no es el problema. Estamos mandando dos furgonetas donde cabe una.
+
+—Eso es su trabajo, no una excusa.
+
+—No es una excusa. Es un número.
+
+Salas lo miró un momento. Luego sonrió.
+
+—Me gusta este chico. Gema, deberías traerlo más a menudo.
+
+—Trabaja conmigo —dijo Gema.
+
+—Ya. Eso he dicho.
+
+David notó que Gema dejaba la copa en la mesa. No la había bebido.
+
+El concejal se inclinó hacia ella.
+
+—Y usted, ¿cuántos empleos ha creado este año?
+
+—Trescientos veinte fijos —dijo Gema—. Y ochenta temporales.
+
+—Ochenta —dijo Salas—. Eso hace cuatrocientos.
+
+—No es lo mismo —dijo Gema.
+
+—Para la foto, sí.
+
+El concejal se rio otra vez. Gema sonrió. David vio que se agarraba la servilleta con la mano izquierda.
+
+—Los fijos son los que tienen hipoteca, concejal —dijo David.
+
+La mesa se quedó un segundo en silencio.
+
+—Bueno —dijo Salas—. Los fijos y los temporales. Todos dan de comer.
+
+Gema bebió agua. David sintió que le ardían las mejillas. Había dicho demasiado. O no lo suficiente. No sabía.
+
+Al final de la cena, Salas levantó la copa.
+
+—Por la empresa. Y por la gente que la hace posible.
+
+Todos levantaron la copa. Gema también. David la miró. Ella tenía la vista fija en Salas.
+
+***
+
+Salieron del hotel a las once. Hacía frío. Las luces de Navidad seguían encendidas en la calle.
+
+—Gracias por venir —dijo Gema—. Me has ayudado mucho.
+
+—No hice nada.
+
+—No me encuentro cómoda con los jefazos. Tú hablas su idioma.
+
+—Has estado maravillosa.
+
+Gema se rio.
+
+—No me lo parecía.
+
+—No lo parecía. Pero lo has estado.
+
+Caminaron un poco. Gema se subió el cuello del abrigo.
+
+—Y gracias por lo del otro día —dijo—. La presentación.
+
+—¿Qué presentación?
+
+—Vamos, genio. Elena es fantástica, pero no hace esas presentaciones.
+
+David se paró.
+
+—¿Lo sabías?
+
+—Claro. Me lo dijo ella.
+
+—¿Por qué? Podría haberse quedado el mérito.
+
+Gema lo miró.
+
+—Porque trabaja conmigo. ¿Todavía no te has dado cuenta? Conmigo no trabaja ningún trepa.
+
+—Pero si no haces entrevistas. Coges al primero que pasa.
+
+—Sí, claro. Como a ti.
+
+David se rio. Luego dejó de reírse.
+
+—Precisamente. La entrevista... si puede llamarse así. Estás un poco loca. En RRHH no dudaron cuando les dije que estaba contratado.
+
+—Claro, ¿por qué tenían que dudar?
+
+—¿Y si hubiera sido un mentiroso?
+
+—¿Tú? ¿Me habrías preguntado por qué iban a creerte?
+
+David la miró.
+
+—Además, sabía que valías —dijo Gema—. No sé cómo. Lo sabía. Y si no, mi gente habría sacado lo mejor de ti.
+
+—No pareces tan ogro.
+
+—¿Qué ogro te han contado?
+
+—Cosas de Rafa.
+
+—Ah. Sigue con la misma broma.
+
+—¿Y lo toleras?
+
+—Es divertido veros titubear a los nuevos.
+
+—Un poco cruel sí eres.
+
+—Lo justito.
+
+Siguieron andando. David se metió las manos en los bolsillos. El traje era bueno; no le apretaba.
+
+—¿No debería pedirte un aumento? —dijo.
+
+—Debería dárselo a Elena.
+
+—Pero si la presentación la hice yo.
+
+—Sí, pero ella consiguió que la hicieras.
+
+—Fue circunstancial. Estaba llorando, desesperada.
+
+—¿Cuándo llegaste, estaba sola?
+
+—No, estaban Rafa y dos de la nave. Estaba fatal. La presentación abierta, las manos temblando... —David se calló—.
+
+—Y consiguió que la hicieras tú, no ellos. Tiene su mérito.
+
+—¿Me manipuló?
+
+—Te leyó —dijo Gema—. Es distinto.
+
+—Me leyó y me manejó.
+
+—Con buena fe.
+
+David miró las luces de la calle. Luego miró a Gema.
+
+—Supongo que se te ocurrió venir a esta cena de repente —dijo Gema.
+
+—Otra vez. Elena.
+
+—¿Otra vez?
+
+—Nunca me había pasado que alguien me manejara así.
+
+—Eso crees, genio.
+
+Gema se detuvo en la esquina. Había un taxi parado.
+
+—Y deberías hacerlo más —dijo.
+
+—¿Salir a cenar contigo?
+
+—Eso quizá también. Me refería a sonreír. Te sienta bien.
+
+Gema se acercó y lo abrazó. Fue un abrazo corto. David se quedó con los brazos un segundo más de lo necesario. Luego ella se metió en el taxi y el coche se fue.
+
+David se quedó en la acera, con el abrigo puesto, mirando las luces.

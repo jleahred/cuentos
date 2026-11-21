@@ -162,7 +162,7 @@ Rafa sonrió y sacó otro.
 
 ***
 
-Una mañana, David llegó a la oficina y encontró a Elena sentada ante el ordenador. Tenía la cara entre las manos.
+Una mañana, David llegó a la oficina y encontró a Elena sentada ante el ordenador. Tenía la cara entre las manos. Al fondo, Rafa estaba en su mesa, con los cascos puestos. Dos de la nave entraban y salían con cajas.
 
 —¿Elena?
 
