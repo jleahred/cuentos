@@ -24,6 +24,22 @@ David levantó la cabeza.
 
 Elena le quitó los papeles de las manos, contestó una llamada y la despachó en dos frases.
 
+—El otro día —dijo David—, cuando te equivocaste con la presentación, pensé que Gema podía despedirte.
+
+Elena lo miró.
+
+—Mira que eres tonto. Gema nunca haría eso. Si es un cielo.
+
+—Pues estabas muy agobiada.
+
+—Porque era importante para ella y le había fallado. Tenía que llevar esos números a una reunión y yo los había hecho mal. No quería que quedara en evidencia por mi culpa.
+
+—Pero se lo contaste.
+
+—Claro. Tenía que saberlo. Y también le conté que me ayudaste tú.
+
+Elena dejó los albaranes sobre la mesa.
+
 —¿Te sentó mal la cena?
 
 —No.
@@ -368,6 +384,22 @@ David se quedó mirando la servilleta.
 
 —No. Justifica no fingir que lo demás no existe.
 
+—Tú trabajabas con ordenadores, ¿no? —preguntó Enrique—. Conocerás las redes neuronales, los modelos de lenguaje. AlphaZero.
+
+—Algo conozco.
+
+—Aprenden a responder, o a jugar, sin que nadie les escriba una regla para cada situación. A veces encuentran una jugada que nadie esperaba. Podríamos llamarlo intuición, aunque sea una manera de hablar.
+
+—Siguen haciendo cálculos.
+
+—Por supuesto. No estoy diciendo que piensen como nosotros. Pero tú mismo has visto que se puede llegar a una respuesta sin seguir una lista de instrucciones que alguien haya escrito de antemano. Y luego, cuando una persona sabe hacer algo y no sabe explicarte todos los pasos, ¿decides que no está pensando?
+
+David giró la servilleta entre los dedos.
+
+—Depende de lo que haga.
+
+—Eso está mejor.
+
 —¿Y las empresas?
 
 —En los grandes despachos hay gente muy inteligente. Ingenieros, matemáticos, gente capaz de llenar una pared de números. Les pides que decidan si hay que cerrar un almacén y te hacen un modelo precioso. Costes, rutas, tiempos. Todo calculado.
@@ -375,6 +407,22 @@ David se quedó mirando la servilleta.
 —Eso está bien, ¿no?
 
 —Claro. Pero alguien ha decidido qué números meter y cuáles dejar fuera. Y cuánto vale cada cosa. A lo mejor cuentan lo que cuesta un trabajador, pero no lo que sabe ese trabajador. Luego miran el resultado y dicen que no es su opinión: lo dicen los números.
+
+—Eso no hace inútiles los números.
+
+—No. Pero en esos despachos, entre ingenieros, gráficas y presentaciones, a veces hacen lo del cartel de la carretera.
+
+—¿Qué cartel?
+
+—El de las obras. «Presupuesto: doce millones, cuatrocientos mil y pico euros con treinta y siete céntimos». ¿No te parece ridículo?
+
+—El presupuesto tendrá una cifra exacta.
+
+—Y la obra acabará costando otra. Pero ahí tienes los céntimos, para que parezca que saben hasta lo que va a costar el último tornillo. Eso solo se me ocurre hacerlo por dos razones: o sabes que los céntimos dan una credibilidad que la cifra no merece, o eres tan tonto que te los crees.
+
+—O te obligan a ponerlos.
+
+—Entonces ya somos tres tontos.
 
 —Si falta algo, se añade al modelo.
 
