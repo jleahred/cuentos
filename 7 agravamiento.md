@@ -272,15 +272,15 @@ Enrique se recostó.
 
 Enrique sacó un bolígrafo del bolsillo y pidió una servilleta al camarero. Escribió un nombre y una dirección.
 
-—Tienes dos cosas. La primera es la que te está volviendo lento. Por lo del cuello y por lo que cuentas, probablemente sea una fístula: una conexión anómala entre una arteria y una vena. Si es eso, te está robando sangre al cerebro.
+—Tienes dos cosas. La primera es la que te está volviendo lento. Por lo del cuello y por lo que cuentas, podría ser una fístula: una conexión anómala entre una arteria y una vena. Podría estar alterando la circulación de la sangre en tu cabeza, pero hay que comprobarlo.
 
 —¿Una fístula?
 
-—Probablemente.
+—Es una posibilidad.
 
 —¿Por qué no la ha visto ninguno de los cinco?
 
-—Porque a ninguno se le ocurrió ponerle los dedos en el cuello.
+—No sé qué buscaron. La doctora podrá mirar si voy bien encaminado.
 
 David se tocó el cuello, donde el viejo había apretado.
 
