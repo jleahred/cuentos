@@ -244,21 +244,23 @@ David miró a Carlos. Tenía la cabeza apoyada en el respaldo y los ojos cerrado
 
 ***
 
-Cuando llegó, las luces de la oficina seguían encendidas. Antes de entrar, Salas lo llamó al móvil y le pidió que subiera al despacho de dirección. Vidal estaba con él.
+Cuando llegó, las luces de la oficina seguían encendidas. Antes de entrar, le sonó el móvil. Era Salas, desde la matriz. David se apartó de la puerta para contestar.
 
 —Buen trabajo —dijo Salas—. Nos han contado lo de Getafe.
 
-David se quedó de pie junto a la puerta. Tenía ganas de sentarse, pero también de terminar cuanto antes.
+Tenía ganas de sentarse, pero también de terminar cuanto antes.
 
 —Lo ha hecho todo el equipo.
 
 —Por supuesto. Pero necesitamos a alguien que vea los números como tú. Hemos pensado ofrecerte la dirección del área.
 
-David miró a Vidal.
-
 —¿Y Gema?
 
 —Seguiría al frente de su sección —dijo Salas—. Dependería de ti.
+
+—¿Por qué yo?
+
+—Gema conoce bien la oficina, pero necesitamos a alguien más ambicioso. Alguien que apriete a la gente cuando haga falta. Ya has visto lo que pueden conseguir.
 
 —¿Y los puestos que queríais recortar?
 
@@ -276,7 +278,7 @@ David pensó en Carlos dormido en la silla. En Pilar revisando etiquetas con las
 
 —Iros al infierno.
 
-Salas dejó de sonreír. David abrió la puerta y salió antes de que contestara.
+Al otro lado se hizo un silencio. David colgó y entró en la oficina.
 
 ***
 
