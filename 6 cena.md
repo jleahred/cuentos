@@ -246,15 +246,15 @@ Siguieron andando. David se metió las manos en los bolsillos. El traje era buen
 
 —No, estaban Rafa y dos de la nave. Estaba fatal. La presentación abierta, las manos temblando... —David se calló—.
 
-—Y consiguió que la hicieras tú, no ellos. Tiene su mérito.
+—Y te pidió ayuda a ti.
 
-—¿Me manipuló?
+—¿Porque sabía que podía hacerlo?
 
-—Te leyó —dijo Gema—. Es distinto.
+—No creo que se parase a pensarlo. Te vio y te pidió ayuda. Elena sabe esas cosas.
 
-—Me leyó y me manejó.
+—Pero ¿cómo las sabe?
 
-—Con buena fe.
+—Pregúntaselo. A lo mejor no sabe explicártelo.
 
 David miró las luces de la calle. Luego miró a Gema.
 
@@ -264,7 +264,7 @@ David miró las luces de la calle. Luego miró a Gema.
 
 —¿Otra vez?
 
-—Nunca me había pasado que alguien me manejara así.
+—Nunca me había pasado que alguien contara conmigo así.
 
 —Eso crees, genio.
 

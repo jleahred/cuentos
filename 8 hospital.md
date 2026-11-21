@@ -254,6 +254,8 @@ Y podía salir bien. Podía volver a tener la cabeza de antes.
 
 Recordó a Gema en la entrevista, entre las carretillas. Lo poco que había tardado en decidir lo que ella era. A Rafa con sus cómics. A Enrique y su bicicleta. Entonces estaba seguro de tener razón.
 
+Sacó el teléfono y abrió la conversación con Gema. Escribió: «Tenemos que hablar». Se quedó mirando las palabras. Se imaginó de nuevo con la cabeza de antes, explicándole por qué había hecho bien en apartarla, sin dejarla contestar. Borró el mensaje y guardó el teléfono.
+
 Gema había doblado ya la esquina. David sacó los papeles, comprobó que seguían allí y los guardó otra vez.
 
 Había hecho bien. Al menos podrían seguir siendo amigos.

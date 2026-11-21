@@ -38,7 +38,7 @@ Clara regresó a su mesa.
 
 David cerró el documento. Llevaba veinte minutos intentando resolver un problema que Clara había identificado en unos segundos.
 
-No había dormido bien. Llevaba varios días con dolor de cabeza y una sensación de cansancio que no conseguía quitarse de encima. Por la noche oía un ruido en el oído izquierdo, como un latido. Probablemente estaba incubando una gripe.
+No había dormido bien. Llevaba varios días con dolor de cabeza y una sensación de cansancio que no conseguía quitarse de encima. Por la noche oía un ruido en el oído derecho, como un latido. Probablemente estaba incubando una gripe.
 
 Aquella tarde se marchó temprano.
 
