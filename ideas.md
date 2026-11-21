@@ -41,8 +41,9 @@ Este es el esqueleto del libro y la razón del título: la palabra «tonto» emp
 4. **Fondo** — el piso, vecinos, la bici, Enrique, la entrevista con Gema.
 5. **Calma** — la oficina, el cómic, el rescate de Elena, la primera broma de Gema.
 6. **Cena**
-7. **Perdido** David habla con Enrique, que es superinteligente y ademaś sabio sobre su situación con Gema. Diagnóstico, está enamorado, le recomienda que se alege de ella, pero no lo dice en serio. Le da varias lecciones básicas de la vida. Le muestra que toda su vida ha sido un enorme tonto.
-8. **Huída** 
+7. **Agravamiento** David habla con Enrique (dos patologías: la fístula y el amor). Elena le anima; él no sabe. Enrique le dice que se aleje de ella, pero es una prueba. David se va frustrado: todo lo que ha dicho tiene sentido.
+8. **Hospital / Intervención** (provisional) — el neurocirujano, el diagnóstico, los riesgos; Gema se acerca y él se aparta. El tercer miedo. Habrá más cosas.
+9. **Huída** 
 ..**Sabio** El tío/padrino de gema reflexiona con ella sobre lo ocurrido
 .. **Operación** todo sale bien, gema está con él
 ..**recuperación** recupera su cerebro al 100%, pero ha aprendido mucho de los tontos, y quiere seguir con ellos
@@ -109,7 +110,7 @@ No hacen falta todas. Tres o cuatro bien puestas bastan.
 
 ## Estado
 
-- 1–5: revisados, pendientes de tu lectura.
+- 1–6: revisados; 7: propuesta (termina con Enrique); 8: primera propuesta (hospital). Pendientes de tu lectura.
 - `manuscrito.md`: no existe por defecto. Se genera con `./build.sh` (1–5) o `./build.sh --propuesta` (1–9).
 
 ## Pendiente
@@ -122,4 +123,5 @@ No hacen falta todas. Tres o cuatro bien puestas bastan.
 - Punto de vista de Gema: capítulo propio o diálogo con su tío.
 - El puente: cómo Enrique los empuja a volver.
 - Las reflexiones: repartirlas en distintos momentos, no juntarlas.
+- **El tercer miedo de David.** No es solo morir o quedarse tonto: es que la operación le devuelva al de antes y vuelva a despreciar a Gema y a los «tontos». Es el miedo que disfraza de protección. El 8 lo desarrolla.
 - Pulir los capítulos 1–5.

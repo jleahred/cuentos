@@ -4,7 +4,7 @@ David se marchó andando. No supo cuánto tardó en llegar a casa. No supo cómo
 
 Tardó un rato en meter la llave en la cerradura. Dentro no encendió la luz. Se sentó en el sofá con el abrigo puesto. El soplo seguía en el oído, como un reloj. No le hizo caso.
 
-Por la mañana se quedó delante de la nevera abierta. No sabía cuánto tiempo. Cuando volvió en sí, tenía un yogur en la mano y no sabía por qué. Lo dejó en la encimera. Se hizo un café. No lo bebió.
+Por la mañana se quedó delante de la nevera abierta. No sabía cuánto tiempo. Cuando volvió en sí, tenía un yogur en la mano y no sabía por qué. Lo dejó en la encimera. Puso agua a calentar. No supo para qué.
 
 ***
 
@@ -22,7 +22,7 @@ David levantó la cabeza.
 
 —Claro que no.
 
-Elena le quitó los papeles de las manos y contestó una llamada que llevaba un rato sonando.
+Elena le quitó los papeles de las manos, contestó una llamada y la despachó en dos frases.
 
 —¿Te sentó mal la cena?
 
@@ -60,9 +60,9 @@ Ella se levantó.
 
 —Eres el tío más listo que conozco y no sabes pedirle un café a una mujer.
 
-—No es un café.
+—Es que no tomo café.
 
-—Es un café.
+—Vaya, genio. Pues te tomas un refresco, tonto.
 
 Elena se fue con los albaranes. David se quedó mirando la bandeja vacía.
 
@@ -98,7 +98,7 @@ Siguió. Elena, desde su mesa, levantó una ceja. David miró la pantalla. Escri
 
 ***
 
-El restaurante de Enrique era una taberna de barrio, con manteles de cuadros y un televisor pequeño sin sonido. El dueño lo saludó por su nombre. El camarero le llamó doctor. David no se dio cuenta.
+Enrique le había dicho una vez que comía allí dos veces por semana, los martes y los jueves. El resto de los días comía en casa, con su mujer. El restaurante era una taberna de barrio, con manteles de cuadros y un televisor pequeño sin sonido. El dueño lo saludó por su nombre. El camarero le llamó doctor. David no le dio importancia.
 
 Enrique estaba en su mesa, con el periódico y una copa de vino.
 
@@ -114,17 +114,21 @@ David se sentó. El camarero se acercó.
 
 —Lo de siempre.
 
+—¿Un café para el joven?
+
+—Un agua —dijo David.
+
 David miró a Enrique.
 
 —¿Doctor?
 
 —Cosas del barrio.
 
-El camarero trajo un café y una copa. Enrique bebió.
+El camarero trajo un café y un agua. Enrique bebió un poco de vino.
 
 —Bueno. Cuéntamelo.
 
-David empezó por el principio. Fui un niño prodigio. Acabé la carrera antes que los demás. Gané mucho dinero. Tuve novias guapísimas. Y ahora no sé lo que hago delante de una nevera.
+—Fui un niño prodigio —dijo David—. Acabé la carrera antes que los demás. Gané mucho dinero. Tuve novias guapísimas. Y ahora no sé lo que hago delante de una nevera.
 
 —Eso no es el principio —dijo Enrique.
 
@@ -196,7 +200,7 @@ Enrique sacó un bolígrafo del bolsillo y pidió una servilleta al camarero. Es
 
 —¿Una fístula?
 
-—Una conexión anómala entre una arteria y una vena. Se puede cerrar. Este es el hombre que puede hacerlo. Dile que vas de parte del ciclista profesional.
+—Una conexión anómala entre una arteria y una vena. Se puede cerrar. Esta es la que puede hacerlo. Dile que vas de parte del ciclista profesional.
 
 David miró la servilleta.
 
@@ -280,13 +284,13 @@ Enrique terminó el café.
 
 —Te voy a explicar por qué no entiendes nada —dijo—. ¿Conoces la teoría del caos?
 
-—Sí. El batir de las alas de una mariposa en el Amazonas puede provocar un huracán en Nueva York.
+—Sí. El batir de las alas de una mariposa en el Amazonas puede provocar un huracán en Nueva York. Hice un programa que pintaba los atractores de Lorenz en tres dimensiones. Podía navegar por ellos.
 
 —No.
 
 —Eso es lo que dice.
 
-—Eso es lo que dice la gente que no la ha entendido. La teoría no dice eso. Dice que hay sistemas que no se pueden predecir, no porque no los conozcas, sino porque predecirlos cuesta más que el universo entero.
+—Eso es lo que dice la gente que no la ha entendido. La teoría no dice eso. Dice que hay sistemas que no se pueden predecir, no porque no los conozcas, sino porque predecirlos requiere un ordenador más grande que el universo entero.
 
 —Eso no es lo mismo.
 
@@ -316,6 +320,18 @@ David se calló.
 
 David miró el mantel.
 
+—¿Por qué te gusta una canción? —preguntó Enrique.
+
+—Porque me gusta.
+
+—Eso no es una razón.
+
+—Ya.
+
+—Y no por eso deja de ser verdad.
+
+David no contestó.
+
 —¿Y Messi? —dijo Enrique—. ¿Por qué es el mejor?
 
 —Porque tiene un don.
@@ -324,7 +340,7 @@ David miró el mantel.
 
 —No.
 
-—Ahí está. Puedes escribir una enciclopedia sobre Messi y no conseguirás jugar como él. Eso es conocimiento tácito. Lo tienen los futbolistas, los buenos médicos, los buenos jefes. Y las personas que saben querer.
+—Ahí está. Llámalo magia si quieres. Pero es real. Puedes escribir una enciclopedia sobre Messi y no conseguirás jugar como él. Eso es conocimiento tácito. Lo tienen los futbolistas, los buenos médicos, los buenos jefes. Y las personas que saben querer.
 
 —¿Las personas que saben querer?
 
@@ -342,7 +358,29 @@ David levantó la cabeza.
 
 David se quedó mirando la servilleta.
 
-—La segunda cosa —dijo Enrique— tiene peor solución. Tienes que dejar el trabajo. Y alejarte de Gema.
+—Gema sabe dirigir —dijo Enrique—. Eso no se estudia.
+
+—Hay libros.
+
+—Los escriben los que no saben. Se tiene o no se tiene. Como el oído musical. En el colegio te enseñan a sumar. En la universidad, a optimizar. En ningún sitio te enseñan a leer a un hombre.
+
+—Eso es muy cómodo. Justifica no estudiar.
+
+—No. Justifica no fingir que lo demás no existe.
+
+—¿Y las empresas?
+
+—Las grandes están llenas de tiburones. Gente que sabe sumar y sonreír en las reuniones. No ven a las personas. Ven costes. Y a los que saben dirigir los ponen a hacer números hasta que se les olvida. De vez en cuando, uno de los que saben dirigir llega arriba. Y entonces pasa algo que no sale en el balance: la gente se queda, se esfuerza, inventa. Eso no se paga.
+
+—¿Como Gema?
+
+—Como Gema. Si la dejan.
+
+David se quedó mirando la servilleta.
+
+—¿qué hago?
+
+—Tienes que dejar el trabajo. Y alejarte de Gema.
 
 —¿Por qué?
 
@@ -356,20 +394,6 @@ David abrió la boca. La cerró.
 
 —Eso no es un consejo —dijo.
 
-—Es una prueba.
-
-—¿De qué?
-
-—De si eres tan listo como crees.
-
-—No pienso alejarme.
-
-—Me alegro.
-
-—¿Entonces por qué me lo dices?
-
-—Porque quería oírte decirlo.
-
 David lo miró. Enrique sonrió.
 
 —Eres un manipulador —dijo David.
@@ -380,22 +404,6 @@ David lo miró. Enrique sonrió.
 
 —Bueno. Un viejo aburrido que sabe leer.
 
-David se rio. Luego se puso serio.
-
-—¿Y si me quedo tonto?
-
-—Entonces tendrás que aprender a ser tonto.
-
-—No es gracioso.
-
-—No. Pero es posible. Y no es lo peor que te puede pasar.
-
-—¿Qué es lo peor?
-
-—Volver a ser el de antes.
-
-David no contestó.
-
 Enrique se levantó y pagó.
 
 —Bueno. Gracias por amargarme la sobremesa. Ve a ver al neurocirujano. Haz lo que te diga. Ponte en sus manos y no le discutas.
@@ -404,110 +412,14 @@ Enrique se levantó y pagó.
 
 —Ya. Eso has dicho otras veces.
 
+Se puso el abrigo.
+
+—Y me voy, que mi mujer me espera.
+
 David se guardó la servilleta en el bolsillo. Salió a la calle. Hacía frío. Se quedó un momento en la puerta, con la mano en el bolsillo, tocando el papel.
 
-***
+Luego echó a andar. No sabía adónde. Lo que más le molestaba no era que Enrique tuviera razón. Era que todo lo que había dicho tenía sentido, y él no lo había pensado nunca. Toda su vida había creído que el mundo era un problema con solución. El viejo le acababa de decir que no. Y lo peor era que no podía discutírselo.
 
-La cita era a las diez. El hospital olía a desinfectante. David esperó cuarenta minutos en una sala con sillas de plástico y una televisión sin sonido.
+Siguió andando. No supo cuánto tiempo.
 
-La doctora Ferrer era pequeña, rápida y no sonreía. Le enseñó las pruebas en la pantalla.
-
-—Esto es una fístula arteriovenosa dural —dijo—. Una conexión anómala entre una arteria y una vena. Le está robando sangre al cerebro.
-
-—¿Es grave?
-
-—Sí.
-
-—¿Puedo morir?
-
-—Sí. Pero no hoy. Si no se opera, puede complicarse. Puede sangrar. Un diez por ciento al año.
-
-—¿Y si me opero?
-
-—Hay un cinco por ciento de complicaciones graves. Un diez por ciento de secuelas cognitivas. Y un ochenta y cinco por ciento de posibilidades de que todo salga bien.
-
-—¿Quedarme tonto?
-
-—Quedarse con secuelas. Memoria, atención, lenguaje. No se lo voy a pintar bonito.
-
-David miró la pantalla. La mancha era pequeña. Parecía imposible que cupiera tanta desgracia en tan poco.
-
-—¿Volveré a ser el mismo?
-
-—Eso esperamos.
-
-David asintió. El mismo de antes. No sabía si quería eso.
-
-—¿Cuándo?
-
-—Cuanto antes. La semana que viene.
-
-—¿Tengo que decidirlo hoy?
-
-—No. Pero no tarde.
-
-David asintió.
-
-—¿Necesita a alguien? —preguntó la doctora—. Para el postoperatorio. Para volver a casa.
-
-—No.
-
-—Alguien tendrá.
-
-David pensó en Gema. No dijo nada.
-
-—Enrique me pidió que le viera —dijo la doctora.
-
-—¿Enrique?
-
-—El ciclista.
-
-David no preguntó.
-
-La doctora le dio unos papeles.
-
-—Léalos. Piense. Y llámeme.
-
-David salió del hospital. En la calle, se miró las manos. Le temblaban.
-
-***
-
-Al día siguiente, Gema lo llamó desde la puerta del despacho.
-
-—David.
-
-Él levantó la cabeza.
-
-—¿Puedes venir un momento?
-
-David fue. Gema estaba de pie junto a la mesa, con una carpeta abierta.
-
-—¿Estás bien? Ayer no viniste.
-
-—Sí.
-
-—Te noto raro.
-
-—Estoy bien.
-
-Ella lo miró. Le puso una mano en el brazo.
-
-—Si necesitas algo...
-
-David se apartó.
-
-—Tengo que hacer unas cosas.
-
-Gema se quedó con la mano en el aire.
-
-—David.
-
-—¿Qué?
-
-—Nada.
-
-David salió del despacho. Cerró la puerta. Se quedó un momento en el pasillo, con la espalda contra la pared.
-
-Pensó en decírselo. Que podía morirse. Que podía quedarse tonto. Que podía volver a ser el de antes. No dijo nada.
-
-Al final del pasillo, Elena lo miró desde su mesa. No dijo nada. David volvió a su sitio y abrió un albarán. Las cifras seguían moviéndose. No llamó a Gema.
+Estaba enamorado, por primera vez, y no sabía que hacer.
