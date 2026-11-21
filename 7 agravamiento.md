@@ -370,13 +370,49 @@ David se quedó mirando la servilleta.
 
 —¿Y las empresas?
 
-—Las grandes están llenas de tiburones. Gente que sabe sumar y sonreír en las reuniones. No ven a las personas. Ven costes. Y a los que saben dirigir los ponen a hacer números hasta que se les olvida. De vez en cuando, uno de los que saben dirigir llega arriba. Y entonces pasa algo que no sale en el balance: la gente se queda, se esfuerza, inventa. Eso no se paga.
+—En los grandes despachos hay gente muy inteligente. Ingenieros, matemáticos, gente capaz de llenar una pared de números. Les pides que decidan si hay que cerrar un almacén y te hacen un modelo precioso. Costes, rutas, tiempos. Todo calculado.
+
+—Eso está bien, ¿no?
+
+—Claro. Pero alguien ha decidido qué números meter y cuáles dejar fuera. Y cuánto vale cada cosa. A lo mejor cuentan lo que cuesta un trabajador, pero no lo que sabe ese trabajador. Luego miran el resultado y dicen que no es su opinión: lo dicen los números.
+
+—Si falta algo, se añade al modelo.
+
+—Si sabes que falta. ¿Cuánto vale que uno de la nave sepa a qué transportista llamar cuando se estropea una furgoneta? ¿O que Elena sepa a quién pedirle ayuda sin que nadie se enfade? A veces ni ellos saben explicar cómo lo hacen. Y como no está en la tabla, el del despacho decide que no existe.
+
+—No todos somos así.
+
+—No he dicho todos.
+
+David se quedó mirando la servilleta.
+
+—Lo que llamas intuición también puede equivocarse —dijo.
+
+—Por supuesto. Los números ayudan a comprobarla. Pero hay que escuchar primero al que lleva veinte años haciendo el trabajo. Aunque no tenga una carrera. Aunque tarde en explicarse. Aunque su respuesta no quepa en una casilla.
+
+—Y luego decidir.
+
+—Y luego decidir. A veces el almacén habrá que cerrarlo de todas formas. Pero por lo menos sabrás lo que pierdes.
+
+Enrique apartó la taza vacía.
+
+—¿Sabes quién fue Aníbal?
+
+—El de los elefantes.
+
+—Ese mismo. Todavía se estudian sus batallas en las academias militares. Los movimientos, el terreno, cómo rodeó al enemigo. Un general brillante.
+
+—¿Y eso no era estrategia?
+
+—Claro que sí. Pero mira a sus hombres. Los llevó por las montañas, lejos de casa, con frío y hambre. Y siguieron con él durante años. Podía trazar el mejor plan del mundo, pero necesitaba que aquellos hombres estuvieran dispuestos a seguirlo.
+
+—También serían buenos soldados.
+
+—Seguro. Y tendrían sus propios motivos. Pero algo tendría Aníbal para que confiaran en él. Eso también forma parte de la batalla, aunque sea más difícil dibujarlo con flechas en un mapa.
 
 —¿Como Gema?
 
 —Como Gema. Si la dejan.
-
-David se quedó mirando la servilleta.
 
 —¿qué hago?
 
