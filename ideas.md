@@ -40,8 +40,10 @@ Este es el esqueleto del libro y la razón del título: la palabra «tonto» emp
 3. **Colapso** — médicos, inversiones, depresión, mudanza.
 4. **Fondo** — el piso, vecinos, la bici, Enrique, la entrevista con Gema.
 5. **Calma** — la oficina, el cómic, el rescate de Elena, la primera broma de Gema.
-.. **Cena**
-.. **Sabio** El tío/padrino de gema reflexiona con ella sobre lo ocurrido
+6. **Cena**
+7. **Perdido** David habla con Enrique, que es superinteligente y ademaś sabio sobre su situación con Gema. Diagnóstico, está enamorado, le recomienda que se alege de ella, pero no lo dice en serio. Le da varias lecciones básicas de la vida. Le muestra que toda su vida ha sido un enorme tonto.
+8. **Huída** 
+..**Sabio** El tío/padrino de gema reflexiona con ella sobre lo ocurrido
 .. **Operación** todo sale bien, gema está con él
 ..**recuperación** recupera su cerebro al 100%, pero ha aprendido mucho de los tontos, y quiere seguir con ellos
 

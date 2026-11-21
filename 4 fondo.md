@@ -1,6 +1,6 @@
 ### 4. Fondo
 
-La caja se rompió en el portal.
+La caja se rompió en el portal. El cartón estaba blando.
 
 David había bajado del coche las cosas que no quería dejar en manos de los de la mudanza. En aquella caja llevaba libros. El fondo cedió cuando intentaba abrir la puerta y los libros quedaron desparramados por el suelo.
 
@@ -42,7 +42,7 @@ Luis abrió la puerta y salió a la calle. David recogió el último libro y lo 
 
 El piso era pequeño, luminoso y estaba recién reformado. La mesa de la cocina daba a la ventana. Desde el dormitorio se veían los árboles de la calle.
 
-No se parecía en nada a la casa que acababa de dejar. Aun así, le había gustado  /* qué aporta que le guste? está perdiendo su maravillosa casa, no veo sentido que le guste esta, no cambia por gusto */.
+No se parecía en nada a la casa que acababa de dejar. Eso era lo bueno.
 
 Los de la mudanza subieron los muebles y las cajas. Cuando se marcharon, David se quedó de pie en medio del salón.
 
@@ -110,7 +110,7 @@ Desde abajo se oyó una voz.
 
 —No estamos haciendo nada —gritó Dani.
 
-—Precisamente por eso —respondió Luis—. Hay que subir la compra.
+—Precisamente por eso —respondió Luis—. Hay que meter la compra.
 
 Los niños bajaron corriendo. David cerró la puerta.
 
@@ -136,8 +136,6 @@ Recordó la conversación con su asesor. Necesitaba encontrar algo, pero no quer
 
 ***
 
-/* no sé que aporta esto, quizá se puede quitar para abreviar */
-
 Unos días después se encontró a Luis en el portal. Estaba sujetando la puerta mientras una mujer intentaba pasar un carrito de la compra.
 
 —Un poco más a la izquierda —dijo Luis.
@@ -160,18 +158,6 @@ David esperó detrás de ellos. La mujer consiguió pasar y Luis soltó la puert
 
 —Bien.
 
-—¿Has arreglado lo del trastero?
-
-—¿Qué pasa con el trastero?
-
-—La puerta. El propietario me dijo que no cerraba.
-
-—Sigue sin cerrar.
-
-—Se atasca abajo. Si quieres, luego subo y lo miramos.
-
-—No hace falta.
-
 Luis asintió. La mujer ya había llegado a la esquina.
 
 —Tendría que alcanzar a mi madre antes de que se enfade. Hasta luego.
@@ -179,8 +165,6 @@ Luis asintió. La mujer ya había llegado a la esquina.
 David salió detrás de él. Caminó hasta una cafetería y pidió una infusión. En la mesa de al lado, dos mujeres hablaban de una compañera de trabajo. Él sacó el teléfono nuevo y lo dejó junto a la taza. No tenía ningún mensaje.
 
 ***
-
-/* algo de interacción con los vecinos está bien, pero quizá se puede abreviar */
 
 El sábado por la mañana alguien llamó a su puerta. Era Luis, con un destornillador en la mano.
 
@@ -238,7 +222,7 @@ Uno de ellos miró su bicicleta.
 
 —Y no parece que la uses para ir a comprar el pan.
 
-David miró su ropa. Llevaba el maillot y el culote que usaba siempre.  /* ¿qué usaba siempre? quién miró la ropa de quién? si david miró la ropa del otro ciclista, no sabía lo que usaba siempre */
+David se miró. Llevaba el maillot y el culote de siempre.
 
 —Depende de dónde esté la panadería —dijo otro.
 
@@ -280,7 +264,7 @@ Los demás se echaron a reír.
 
 David apartó la vista. Notó que se le escapaba una sonrisa y se concentró en la carretera.
 
-Le contaron que salían varias mañanas a la semana. Los martes hacían una ruta corta y paraban a desayunar; los jueves salían más temprano y volvían cuando podían.
+Le contaron que salían varias mañanas a la semana. Los martes hacían una ruta corta y paraban a desayunar; los jueves salían más temprano y volvían cuando podían. Los sábados también salían.
 
 —Puedes venir el martes —dijo Enrique—. A las nueve, en el semáforo donde nos has encontrado.
 
@@ -408,9 +392,9 @@ Colgó y miró a David.
 
 —No.
 
--¿Sabes usar excel?
+—¿Sabes usar Excel?
 
--Sí.
+—Sí.
 
 —¿Cuándo puedes empezar?
 
@@ -430,7 +414,7 @@ Gema lo miró un segundo.
 
 —¿Así? ¿Sin más? ¿Y por qué en RRHH van a creerme?
 
-—Vaya, veo que piensas en todo, eso está bien. Sólo haz lo que te he dicho, genio.
+—¿Quién va a inventarse esto? —dijo Gema—. No te van a creer a ti. Me van a creer a mí. Vaya, piensas en todo. Solo haz lo que te he dicho, genio.
 
 Una voz la llamó desde el otro extremo de la nave. Gema levantó una mano.
 
@@ -452,11 +436,15 @@ El lunes, Elena lo recibió en la oficina.
 
 Elena se rio.
 
-—¿Todavía va contando ese chiste?
+—Si yo te contara. ¿Todavía va contando ese chiste?
 
 —Me temo que sí.
 
 Elena le enseñó las mesas de la oficina, la zona de recepción de mercancías y el programa donde registraban las entregas. Le presentó a Rafa, que estaba preparando unos envíos, y le indicó una mesa libre junto a la suya.
+
+—Rafa, no le asustes el primer día —dijo Elena.
+
+—Yo no asusto a nadie —dijo Rafa, muy serio.
 
 —Aquí trabajamos los de esta sección. Si necesitas algo, me preguntas.
 

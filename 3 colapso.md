@@ -130,13 +130,12 @@ Dejó de salir con la bicicleta. Después abandonó el gimnasio. Pasaba las mañ
 
 Su alimentación también empeoró. Dejó de preocuparse por las calorías y los nutrientes. Pedía comida a domicilio y comía cuando tenía hambre, a veces una sola vez al día.
 
-Sólo el mal sabor del café y del alcohol le mantuvo alejeado.
+Estuvo tentado de recurrir al café y al alcohol. Los probó y le supieron mal —nunca los había tomado—, así que no insistió.
 
 El jardín comenzó a parecerle un lugar extraño. Durante semanas no salió de casa salvo para acudir a alguna consulta médica.
 
 ***
 
-// esto quizá se puede quitar  ----------
 Clara llamó al timbre un martes por la mañana.
 
 David la vio por la mirilla. Llevaba una carpeta bajo el brazo y el abrigo puesto.
@@ -148,7 +147,6 @@ David se quedó quieto.
 Al cabo de un rato oyó sus pasos alejándose por el rellano. Después volvió el silencio de la casa.
 
 Cuando abrió la puerta, encontró la carpeta en el felpudo. La dejó sobre la mesa del recibidor sin abrirla.
-// esto quizá se puede quitar  ----------
 
 ***
 
@@ -340,6 +338,6 @@ El asesor esperó a que levantara la vista.
 
 Había pasado un año y medio desde el desmayo.
 
-David buscó un piso en un barrio donde no conociera a nadie /* esto... no cuadra, lo normal en un barrio nuevo es que no te conozca nadie, es madrid, no es un pueblo */. Encontró uno pequeño, luminoso y recién reformado, a diez minutos andando de una estación de metro. Lo pagó.
+David buscó un piso en un barrio donde no hubiera nadie de su vida anterior. Encontró uno pequeño, luminoso y recién reformado, a diez minutos andando de una estación de metro. Firmó sin preguntar el precio.
 
-Hizo la mudanza un martes por la mañana. Llovía /* ¿qué aporta llovía?, quizá lo mejor, al día siguiente estaba haciendo la mudanza */.
+Hizo la mudanza un martes por la mañana. Llovía.
