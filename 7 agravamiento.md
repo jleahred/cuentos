@@ -218,6 +218,10 @@ Enrique sacó un bolígrafo del bolsillo y pidió una servilleta al camarero. Es
 
 —No lo sé. Pero conozco a alguien que puede averiguarlo. Dile que vas de parte del ciclista profesional.
 
+—He visto a muchos médicos.
+
+—Lo sé. Lleva todos los informes y las pruebas que tengas. Todos.
+
 David miró la servilleta.
 
 —¿Y si no me cree?

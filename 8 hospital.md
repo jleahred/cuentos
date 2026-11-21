@@ -6,13 +6,17 @@ David llamó al hospital a primera hora y preguntó por la doctora Ferrer. Dijo 
 
 Le preguntó si podía ir esa misma mañana.
 
-Avisó a Gema de que tenía unas pruebas médicas y no iría hasta después de comer. Ella le contestó enseguida: «No te preocupes por aquí. Que vaya bien».
+Avisó a Gema de que tenía una consulta médica y no iría hasta después de comer. Ella le contestó enseguida: «No te preocupes por aquí. Que vaya bien». Sacó las carpetas de informes que había guardado y las metió en una bolsa, junto con los discos de las pruebas.
 
 El hospital olía a desinfectante. David esperó en una sala con sillas de plástico y una televisión sin sonido. En la pantalla, un hombre sonreía con un yogur en la mano. David miró hacia otro lado.
 
-La doctora Ferrer era pequeña, rápida y no sonreía. Le preguntó por el soplo, por los despistes, por el desmayo. Escuchó sin interrumpirlo y examinó las pruebas que él había llevado. Después pidió otras.
+La doctora Ferrer era pequeña, rápida y no sonreía. Le preguntó por el soplo, por los despistes, por el desmayo. Escuchó sin interrumpirlo. David sacó las carpetas de la bolsa y las fue colocando sobre la mesa.
 
-En las imágenes vio algo que quería estudiar con más detalle. Le explicó que necesitaba una angiografía: introducirían un catéter en una arteria y usarían contraste para ver los vasos de la cabeza. David quiso saber cuándo podrían hacerla.
+La doctora examinó los informes y abrió las imágenes de una de las pruebas. Volvió a preguntarle por el soplo. Después amplió una zona de la pantalla y se quedó mirándola.
+
+—Creo que ya sé lo que le pasa —dijo.
+
+Le señaló unos vasos en la imagen. Sospechaba que había una conexión anómala, pero necesitaba una angiografía para verla con claridad y planear el tratamiento: introducirían un catéter en una arteria y usarían contraste para estudiar los vasos de la cabeza. David quiso saber cuándo podrían hacerla.
 
 —Vamos a pedirla cuanto antes —dijo la doctora.
 
