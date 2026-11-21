@@ -204,11 +204,21 @@ David le devolvió la bolsa. Ella no la cogió enseguida.
 
 —A mí también.
 
-Gema se acercó. David vio cómo levantaba la cara y, durante un instante, no se movió.
+Gema dejó la bolsa en el suelo y se acercó. Le puso una mano en la mejilla. David vio que miraba sus labios y se inclinaba hacia él. Durante un instante, no se movió.
 
-Luego la abrazó. Le dio un beso en la mejilla y la sujetó un poco más de lo necesario.
+Quería besarla. En lugar de eso, giró la cara y la abrazó. Le dio un beso en la mejilla y la sujetó un poco más de lo necesario.
 
-Cuando se separaron, Gema cogió la bolsa. Miró hacia la calle por la que acababan de venir.
+Cuando se separaron, Gema tenía la mano todavía levantada. La bajó y dio un paso atrás.
+
+—Perdona —dijo.
+
+—No tienes que pedir perdón.
+
+Gema sonrió sin mirarlo y se apartó un mechón de la cara. Los dos se agacharon a recoger la bolsa y se golpearon las manos.
+
+—Perdón —dijo él, retirando la mano.
+
+Quiso decirle algo más, pero Gema ya había dado un paso atrás.
 
 —Bueno —dijo—. Nos vemos mañana.
 
@@ -220,7 +230,7 @@ David se quedó en la esquina. Quería ir detrás de ella. Todavía podía alcan
 
 Metió la mano en el bolsillo y encontró la servilleta con chocolate. En el otro llevaba los papeles del hospital.
 
-Podía morirse. Podía necesitar que alguien lo ayudara a vestirse, a comer, a salir de casa. ¿Cómo iba a pedirle a Gema que empezara algo en un momento así?
+Podía morirse. Podía necesitar que alguien lo ayudara a vestirse, a comer, a salir de casa. ¿Cómo iba a pedirle a Gema que empezara algo en un momento así? Tenía buenas razones para haberla apartado.
 
 Y podía salir bien. Podía volver a tener la cabeza de antes.
 
