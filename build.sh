@@ -2,8 +2,8 @@
 # Genera un manuscrito concatenado a partir de los capítulos.
 #
 # Uso:
-#   ./build.sh                     -> manuscrito.md con los capítulos 1-5
-#   ./build.sh --propuesta         -> manuscrito.md con 1-5 + propuesta/6-9
+#   ./build.sh                     -> manuscrito.md con los capítulos escritos (1-9)
+#   ./build.sh --esbozos           -> añade los capítulos posteriores que existan
 #   ./build.sh /tmp/lectura.md     -> escribe en /tmp/lectura.md
 #
 set -euo pipefail
@@ -11,11 +11,11 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 salida="manuscrito.md"
-incluir_propuesta=0
+incluir_esbozos=0
 
 for arg in "$@"; do
   case "$arg" in
-    --propuesta) incluir_propuesta=1 ;;
+    --esbozos|--propuesta) incluir_esbozos=1 ;;
     -*) echo "Opción desconocida: $arg" >&2; exit 1 ;;
     *) salida="$arg" ;;
   esac
@@ -27,15 +27,16 @@ capitulos=(
   "3 colapso.md"
   "4 fondo.md"
   "5 calma.md"
+  "6 cena.md"
+  "7 agravamiento.md"
+  "8 hospital.md"
+  "9 caos.md"
 )
 
-if [[ $incluir_propuesta -eq 1 ]]; then
-  capitulos+=(
-    "propuesta/6 territorio neutral.md"
-    "propuesta/7 el soplo.md"
-    "propuesta/8 riesgo.md"
-    "propuesta/9 genio.md"
-  )
+if [[ $incluir_esbozos -eq 1 ]]; then
+  for cap in "10 "*.md "11 "*.md "12 "*.md "13 "*.md "14 "*.md "15 "*.md; do
+    [[ -e "$cap" ]] && capitulos+=("$cap")
+  done
 fi
 
 : > "$salida"
@@ -45,4 +46,4 @@ for cap in "${capitulos[@]}"; do
   printf '\n\n' >> "$salida"
 done
 
-echo "Escrito: $salida"
+echo "Escrito: $salida ($(wc -w < "$salida") palabras)"

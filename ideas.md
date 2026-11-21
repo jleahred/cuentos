@@ -1,6 +1,6 @@
 # Entre tontos — notas de trabajo
 
-> **Estado.** La secuencia de trabajo son los capítulos 1–5.Aquí, lo que está sin marca lo has confirmado tú; lo marcado con *(propuesta)* es una inferencia mía que puedes cambiar o borrar.
+> **Estado.** La secuencia de trabajo son los capítulos 1–9. Aquí, lo que está sin marca lo has confirmado tú; lo marcado con *(propuesta)* es una inferencia mía que puedes cambiar o borrar. La lectura crítica más reciente está en [revision-3.md](revision-3.md).
 
 ## Idea central
 
@@ -33,7 +33,7 @@ Este es el esqueleto del libro y la razón del título: la palabra «tonto» emp
 
 ## Estructura
 
-**Secuencia de trabajo (1–5):**
+**Secuencia de trabajo (1–9):**
 
 1. **Triunfador** — cena con Marta. Se siembran el soplo, la conversión de divisas, Schneider y la memoria. Marta se va.
 2. **Fallo** — Ejemplo de trabajo excelente, breve, y luego el declive. El comité, la pizarra, el desmayo.
@@ -42,8 +42,8 @@ Este es el esqueleto del libro y la razón del título: la palabra «tonto» emp
 5. **Calma** — la oficina, el cómic, el rescate de Elena, la primera broma de Gema.
 6. **Cena**
 7. **Agravamiento** David habla con Enrique (dos patologías: la fístula y el amor). Elena le anima; él no sabe. Enrique le dice que se aleje de ella, pero es una prueba. David se va frustrado: todo lo que ha dicho tiene sentido.
-8. **Hospital / Intervención** (provisional) — el neurocirujano, el diagnóstico, los riesgos; Gema se acerca y él se aparta. El tercer miedo. Habrá más cosas.
-9. **Huída** 
+8. **Pánico** — la doctora Ferrer, la angiografía, el diagnóstico, los riesgos. El paseo, el beso que no es y David apartándose. El tercer miedo.
+9. **Caos** — el ultimátum de dirección y los despidos, Getafe, Pilar y la libreta de Carlos, la oferta de Salas y el desmayo con la confesión.
 ..**Sabio** El tío/padrino de gema reflexiona con ella sobre lo ocurrido
 .. **Operación** todo sale bien, gema está con él
 ..**recuperación** recupera su cerebro al 100%, pero ha aprendido mucho de los tontos, y quiere seguir con ellos
@@ -120,8 +120,8 @@ No hacen falta todas. Tres o cuatro bien puestas bastan.
 
 ## Estado
 
-- 1–6: revisados; 7: propuesta (termina con Enrique); 8: primera propuesta (hospital). Pendientes de tu lectura.
-- `manuscrito.md`: no existe por defecto. Se genera con `./build.sh` (1–5) o `./build.sh --propuesta` (1–9).
+- 1–9: escritos. 1–6 estables; 7, 8 y 9 son versiones nuevas pendientes de lectura (ver [revision-3.md](revision-3.md)).
+- `manuscrito.md`: no existe por defecto. Se genera con `./build.sh` (1–9) o `./build.sh --esbozos` (añade los capítulos posteriores que existan).
 
 ## Pendiente
 
