@@ -42,7 +42,7 @@ Luis abrió la puerta y salió a la calle. David recogió el último libro y lo 
 
 El piso era pequeño, luminoso y estaba recién reformado. La mesa de la cocina daba a la ventana. Desde el dormitorio se veían los árboles de la calle.
 
-No se parecía en nada a la casa que acababa de dejar. Aun así, le había gustado.
+No se parecía en nada a la casa que acababa de dejar. Aun así, le había gustado  /* qué aporta que le guste? está perdiendo su maravillosa casa, no veo sentido que le guste esta, no cambia por gusto */.
 
 Los de la mudanza subieron los muebles y las cajas. Cuando se marcharon, David se quedó de pie en medio del salón.
 
@@ -110,7 +110,7 @@ Desde abajo se oyó una voz.
 
 —No estamos haciendo nada —gritó Dani.
 
-—Precisamente por eso —respondió Luis—. Hay que bajar la compra.
+—Precisamente por eso —respondió Luis—. Hay que subir la compra.
 
 Los niños bajaron corriendo. David cerró la puerta.
 
@@ -135,6 +135,8 @@ No respondió a ninguna.
 Recordó la conversación con su asesor. Necesitaba encontrar algo, pero no quería volver a ver a ninguno de sus antiguos conocidos. Cerró la página de ofertas y apagó el ordenador.
 
 ***
+
+/* no sé que aporta esto, quizá se puede quitar para abreviar */
 
 Unos días después se encontró a Luis en el portal. Estaba sujetando la puerta mientras una mujer intentaba pasar un carrito de la compra.
 
@@ -177,6 +179,8 @@ Luis asintió. La mujer ya había llegado a la esquina.
 David salió detrás de él. Caminó hasta una cafetería y pidió una infusión. En la mesa de al lado, dos mujeres hablaban de una compañera de trabajo. Él sacó el teléfono nuevo y lo dejó junto a la taza. No tenía ningún mensaje.
 
 ***
+
+/* algo de interacción con los vecinos está bien, pero quizá se puede abreviar */
 
 El sábado por la mañana alguien llamó a su puerta. Era Luis, con un destornillador en la mano.
 
@@ -234,7 +238,7 @@ Uno de ellos miró su bicicleta.
 
 —Y no parece que la uses para ir a comprar el pan.
 
-David miró su ropa. Llevaba el maillot y el culote que usaba siempre.
+David miró su ropa. Llevaba el maillot y el culote que usaba siempre.  /* ¿qué usaba siempre? quién miró la ropa de quién? si david miró la ropa del otro ciclista, no sabía lo que usaba siempre */
 
 —Depende de dónde esté la panadería —dijo otro.
 
@@ -380,7 +384,7 @@ Una mujer se acercó a ellos.
 
 La mujer se marchó hacia la oficina. Gema atravesó la nave y David la siguió, apartándose para dejar pasar una carretilla.
 
-—¿Has trabajado con albaranes? —preguntó ella.
+—¿Sabes qué es un albarán? —preguntó ella.
 
 —Sí.
 
@@ -422,7 +426,11 @@ Colgó y miró a David.
 
 Gema lo miró un segundo.
 
-—Pasa por Recursos Humanos para los papeles. El lunes pregunta por Elena, ella te enseñará todo.
+—Pasa por Recursos Humanos para los papeles y diles que empiezas el lunes. El lunes pregunta por Elena, ella te enseñará todo.
+
+—¿Así? ¿Sin más? ¿Y por qué en RRHH van a creerme?
+
+—Vaya, veo que piensas en todo, eso está bien. Sólo haz lo que te he dicho, genio.
 
 Una voz la llamó desde el otro extremo de la nave. Gema levantó una mano.
 
@@ -444,11 +452,9 @@ El lunes, Elena lo recibió en la oficina.
 
 Elena se rio.
 
-—Desde hace años. ¿Todavía va contando ese chiste?
+—¿Todavía va contando ese chiste?
 
 —Me temo que sí.
-
-—Pues habrá que aguantarlo otros cuantos.
 
 Elena le enseñó las mesas de la oficina, la zona de recepción de mercancías y el programa donde registraban las entregas. Le presentó a Rafa, que estaba preparando unos envíos, y le indicó una mesa libre junto a la suya.
 

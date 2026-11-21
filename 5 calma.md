@@ -1,5 +1,7 @@
 ### 5. Calma
 
+/* no hay una incosistenica? no ha empezado a trabajar? que empiece a trabajar al día siguiente, da sensación de prisa, esta ruta tendrá que ser en fin de semana, quizá un te hemos hechado en falta entre semana */
+
 El martes, David llegó al semáforo a las nueve menos cinco.
 
 Se dijo que había elegido aquella ruta porque le gustaba. El semáforo estaba en su camino y no había razón para dar un rodeo. Se lo dijo dos veces.
@@ -218,19 +220,23 @@ En ese momento se abrió la puerta de la oficina. Gema entró hablando por telé
 
 David las vio entrar en el despacho y cerrar la puerta. Volvió a su mesa y sacó el cómic que Rafa le había prestado, pero antes de abrirlo oyó que la puerta se abría de nuevo.
 
-Elena salió con el portátil bajo el brazo. Se acercó deprisa y abrazó a David.
+Elena salió con el portátil bajo el brazo, /*hizo un gesto de triunfo con el puño y la cara (ese de apretar el brazo)*/. Se acercó deprisa apoyó el portátil en la mesa y di un fuerte abrazo a David.
 
-—¡Me has salvado la vida! Muchas gracias.
+—¡Eres fantástico, me has salvado la vida! Muchas gracias.
 
 David se quedó inmóvil un instante. Cuando ella lo soltó, él dejó el cómic sobre la mesa.
 
 —Solo eran unos números.
 
-—No eran solo unos números. Ahora vuelvo.
+—No eran solo unos números, genio. Ahora vuelvo.
 
 Elena dejó el portátil en su mesa y se fue al baño.
 
+/* esto creo que sobra, lo de que gema lo sabía es para más adelante, demostrando que elena no es una trepa, y gema tiene mucho intuición
+
 La puerta del despacho se abrió otra vez. Gema salió con una taza en la mano, se acercó a la mesa de David y miró la pantalla.
+
+
 
 —Elena dice que te debo la mañana.
 
@@ -240,6 +246,9 @@ La puerta del despacho se abrió otra vez. Gema salió con una taza en la mano, 
 
 Gema se fue hacia la máquina de café. David la vio alejarse.
 
+*/
+
+
 Rafa esperó a que estuviera lejos.
 
 —Uf. De buena la has salvado.
@@ -247,13 +256,3 @@ Rafa esperó a que estuviera lejos.
 —¿Sí? ¿Y eso?
 
 —No conoces a Gema. Por menos ha decapitado a unos cuantos.
-
-David miró hacia la máquina de café.
-
-—¿A ti también?
-
-—A mí no. Yo le caigo bien.
-
-—¿Y eso?
-
-—Porque no le discuto.

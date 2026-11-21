@@ -130,10 +130,13 @@ Dejó de salir con la bicicleta. Después abandonó el gimnasio. Pasaba las mañ
 
 Su alimentación también empeoró. Dejó de preocuparse por las calorías y los nutrientes. Pedía comida a domicilio y comía cuando tenía hambre, a veces una sola vez al día.
 
+Sólo el mal sabor del café y del alcohol le mantuvo alejeado.
+
 El jardín comenzó a parecerle un lugar extraño. Durante semanas no salió de casa salvo para acudir a alguna consulta médica.
 
 ***
 
+// esto quizá se puede quitar  ----------
 Clara llamó al timbre un martes por la mañana.
 
 David la vio por la mirilla. Llevaba una carpeta bajo el brazo y el abrigo puesto.
@@ -145,6 +148,7 @@ David se quedó quieto.
 Al cabo de un rato oyó sus pasos alejándose por el rellano. Después volvió el silencio de la casa.
 
 Cuando abrió la puerta, encontró la carpeta en el felpudo. La dejó sobre la mesa del recibidor sin abrirla.
+// esto quizá se puede quitar  ----------
 
 ***
 
@@ -172,7 +176,7 @@ Al terminar, estaba agotado.
 
 Una semana después recibió los resultados.
 
-—Su rendimiento cognitivo es bueno —explicó el especialista—. En varias pruebas está por encima de la media.
+—Su rendimiento cognitivo es bueno —explicó el especialista—. Está claramente por encima de la media.
 
 —¿Por encima de los tontos? ¿Cuánto por encima?
 
@@ -336,8 +340,6 @@ El asesor esperó a que levantara la vista.
 
 Había pasado un año y medio desde el desmayo.
 
-David buscó un piso en un barrio donde no conociera a nadie. Encontró uno pequeño, luminoso y recién reformado, a diez minutos andando de una estación de metro. Le pareció caro y lo pagó.
+David buscó un piso en un barrio donde no conociera a nadie /* esto... no cuadra, lo normal en un barrio nuevo es que no te conozca nadie, es madrid, no es un pueblo */. Encontró uno pequeño, luminoso y recién reformado, a diez minutos andando de una estación de metro. Lo pagó.
 
-La empresa le dio un mes para dejar la casa.
-
-Hizo la mudanza un martes por la mañana. Llovía.
+Hizo la mudanza un martes por la mañana. Llovía /* ¿qué aporta llovía?, quizá lo mejor, al día siguiente estaba haciendo la mudanza */.
