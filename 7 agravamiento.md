@@ -332,15 +332,15 @@ David miró el mantel.
 
 David no contestó.
 
-—¿Y Messi? —dijo Enrique—. ¿Por qué es el mejor?
+—Podrías estudiar música veinte años —dijo Enrique—. Treinta. Con esa cabeza tuya, a lo mejor hasta serías un virtuoso.
 
-—Porque tiene un don.
+—Gracias por la confianza.
 
-—¿Dónde está el don? ¿Se mide?
+—Y después de treinta años de trabajo, ¿compondrías la Novena de Beethoven?
 
-—No.
+—No lo creo.
 
-—Ahí está. Llámalo magia si quieres. Pero es real. Puedes escribir una enciclopedia sobre Messi y no conseguirás jugar como él. Eso es conocimiento tácito. Lo tienen los futbolistas, los buenos médicos, los buenos jefes. Y las personas que saben querer.
+—Por supuesto que no. Hay cosas que se pueden enseñar y otras que no caben en un libro. Llámalo magia si quieres. Los buenos médicos saben cosas que no siempre saben explicar. Los buenos jefes también. Y las personas que saben querer.
 
 —¿Las personas que saben querer?
 

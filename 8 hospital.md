@@ -1,10 +1,22 @@
 ### 8. Hospital
 
-David llamó al día siguiente. La cita era a las diez. El hospital olía a desinfectante. David esperó cuarenta minutos en una sala con sillas de plástico y una televisión sin sonido.
+David llamó al hospital a primera hora, preguntó por la doctora Ferrer. Le dijo que iba de parte de Enrique, la doctora dijo... ah, el ciclista profesional. Le preguntó si podía ir esa misma mañana.
 
-La doctora Ferrer era pequeña, rápida y no sonreía. Le enseñó las pruebas en la pantalla.
+Avisó a Gema de que tenía unas pruebas médicas y no iría hasta después de comer. Ella le contestó enseguida: «No te preocupes por aquí. Que vaya bien».
 
-—Esto es una fístula arteriovenosa dural —dijo—. Una conexión anómala entre una arteria y una vena. Le está robando sangre al cerebro.
+El hospital olía a desinfectante. David esperó en una sala con sillas de plástico y una televisión sin sonido. En la pantalla, un hombre sonreía con un yogur en la mano. David miró hacia otro lado.
+
+La doctora Ferrer era pequeña, rápida y no sonreía. Le preguntó por el soplo, por los despistes, por el desmayo. Escuchó sin interrumpirlo y examinó las pruebas que él había llevado. Después pidió otras.
+
+Cuando volvió a la consulta, ella tenía unas imágenes abiertas en la pantalla.
+
+—Esto es una fístula arteriovenosa dural —dijo—. Una conexión anómala entre una arteria y una vena. Está alterando la circulación de la sangre en el cerebro.
+
+David se inclinó hacia la pantalla.
+
+—¿Por eso no puedo pensar?
+
+—Es muy posible. También explicaría el soplo y los demás síntomas.
 
 —¿Es grave?
 
@@ -12,94 +24,208 @@ La doctora Ferrer era pequeña, rápida y no sonreía. Le enseñó las pruebas e
 
 —¿Puedo morir?
 
-—Sí. Pero no hoy. Si no se opera, puede complicarse. Puede sangrar. Un diez por ciento al año.
+La doctora apartó la mano del ratón.
 
-—¿Y si me opero?
+—Puede haber una hemorragia. Por eso le recomiendo tratarla cuanto antes.
 
-—Hay un cinco por ciento de complicaciones graves. Un diez por ciento de secuelas cognitivas. Y un ochenta y cinco por ciento de posibilidades de que todo salga bien.
+—¿Operarme?
 
-—¿Quedarme tonto?
+—Sí. Tenemos que cerrar la fístula.
 
-—Quedarse con secuelas. Memoria, atención, lenguaje. No se lo voy a pintar bonito.
+—¿Y entonces volveré a estar bien?
 
-David miró la pantalla. La mancha era pequeña. Parecía imposible que cupiera tanta desgracia en tan poco.
+—Podría recuperarse por completo. También podría mejorar solo en parte. Y la intervención tiene riesgos: una hemorragia, secuelas neurológicas, incluso la muerte.
 
-—¿Volveré a ser el mismo?
+David volvió a mirar la pantalla. La mancha era pequeña. Parecía imposible que cupiera tanta desgracia en tan poco.
 
-—Quizá, es una posibilidad.
+—¿Qué probabilidades tengo de volver a ser el mismo?
 
-David asintió. El mismo de antes. También le daba miedo.
+—En su caso, calculo que alrededor de un cincuenta por ciento de recuperarse por completo. No puedo prometérselo. Y tampoco puedo decirle exactamente cómo estará si no es así.
+
+—¿Podría quedarme peor?
+
+—Sí. Podría tener dificultades con la memoria, el lenguaje, motrices... Necesitar ayuda para algunas cosas.
+
+David se miró las manos. Tenía una marca azul de bolígrafo en el dedo índice. Frotó con el pulgar, pero no salió.
 
 —¿Cuándo?
 
-—Cuanto antes. La semana que viene.
+—Podemos programarlo para la semana que viene.
 
 —¿Tengo que decidirlo hoy?
 
 —No. Pero no tarde.
 
-David asintió.
+La doctora le dio unos papeles. David los dobló y los guardó en el bolsillo interior de la chaqueta.
 
-—¿Necesita a alguien? —preguntó la doctora—. Para el postoperatorio. Para volver a casa.
+—¿Hay alguien que pueda acompañarlo? —preguntó ella—. También necesitará a alguien cuando vuelva a casa.
 
-—No.
+—Me apaño solo.
 
-—Alguien tendrá.
+—Después de una intervención así, quizá no.
 
-David pensó en Gema. No dijo nada.
+David pensó en Gema. En el taxi, en cómo se había vuelto para saludarlo desde la ventanilla. Luego pensó en la servilleta de Enrique, guardada en el bolsillo de otro abrigo.
 
-—Enrique me pidió que le viera —dijo la doctora.
+—Ya se lo diré a alguien.
 
-—¿Enrique?
+La doctora asintió.
 
-—El ciclista.
+—Léalo con calma. Si tiene preguntas, llame.
 
-David no preguntó.
+En la calle, David sacó los papeles. Se detuvo junto a una papelera y los desdobló. Leyó la primera página dos veces. No pasó a la segunda.
 
-La doctora le dio unos papeles.
-
-—Léalos. Piense. Y llámeme.
-
-David salió del hospital. En la calle, se miró las manos. Le temblaban.
+Guardó los papeles. Le temblaban las manos.
 
 ***
 
-Al día siguiente, Gema lo llamó desde la puerta del despacho.
+Llegó a la oficina después de comer. La bandeja azul estaba llena. Elena le dejó una botella de agua en la mesa.
+
+—Tienes mala cara.
+
+—Gracias.
+
+—De nada. Te he separado los de Getafe. Esos corren prisa.
+
+David abrió el primer albarán. La fecha estaba en la parte de arriba, donde siempre. Tardó un momento en encontrarla.
+
+Gema salió del despacho.
+
+—David, ¿puedes venir?
+
+Él dejó el papel y la siguió. Ella cerró la carpeta que tenía sobre la mesa.
+
+—¿Qué tal las pruebas?
+
+—Bien.
+
+—¿Te han dicho algo?
+
+—Tengo que esperar unos resultados.
+
+Gema lo miró un momento.
+
+—Si necesitas faltar más días, me dices.
+
+—No hará falta. // ¿cómo que no? la semana que viene le operan, seguramente!!!
+
+—Vale. Pero no tienes que venir por los albaranes. Elena puede quedarse con ellos.
+
+—Ya los hago yo.
 
 —David.
 
-Él levantó la cabeza.
+Ella le puso una mano en el brazo. Él bajó la vista. Quiso contarle lo del hospital. La fístula, la pantalla, el cincuenta por ciento. Abrió la boca.
 
-—¿Puedes venir un momento?
+—Tengo trabajo —dijo.
 
-David fue. Gema estaba de pie junto a la mesa, con una carpeta abierta.
+Gema retiró la mano.
 
-—¿Estás bien? Ayer no viniste.
+—Claro.
 
-—Sí.
+David volvió a su mesa. Elena hablaba por teléfono, con un lápiz sujeto entre la oreja y el pelo. Él cogió el albarán y lo colocó sobre el montón de Getafe. Era de Móstoles.
 
-—Te noto raro.
+***
 
-—Estoy bien.
+Al terminar la jornada, David seguía delante del ordenador. Había leído tres veces el mismo correo. Gema apareció con el abrigo puesto y una bolsa de papel en la mano.
 
-Ella lo miró. Le puso una mano en el brazo.
+—¿Vienes?
 
-—Si necesitas algo...
+—¿Adónde?
 
-David se apartó.
+—A devolver esto. Elena se ha dejado el táper de la cena en mi casa y no quiero volver a cargar con él mañana.
 
-—Tengo que hacer unas cosas.
+David miró la bolsa. Dentro había un recipiente de plástico con la tapa verde.
 
-Gema se quedó con la mano en el aire.
+—Podrías dejárselo en la mesa.
 
-—David.
+—Podría. Pero la oficina está cerrada y tú estás dentro.
 
-—¿Qué?
+David miró alrededor. Las luces de la nave seguían encendidas; en la oficina ya no quedaba nadie más.
 
-—Nada.
+—Creo que eso no tiene mucho sentido.
 
-David salió del despacho. Cerró la puerta. Se quedó un momento en el pasillo, con la espalda contra la pared.
+—Entonces acompáñame un rato. Me llevo el táper a casa y mañana se lo doy.
 
-Pensó en decírselo. Que podía morirse. Que podía quedarse tonto. Que podía volver a ser el de antes. No dijo nada.
+David apagó el ordenador.
 
-Al final del pasillo, Elena lo miró desde su mesa. No dijo nada. David volvió a su sitio y abrió un albarán. Las cifras seguían moviéndose. No llamó a Gema.
+En la calle hacía frío. Caminaron hacia la parada de Gema. Ella llevaba la bolsa agarrada por el asa, balanceándola junto a la pierna.
+
+—¿Qué había dentro? —preguntó David.
+
+—Croquetas. Trajo tres táperes a mi casa y se llevó cuatro.
+
+—Eso es un buen negocio.
+
+—Me dejó este para que creyera que había ganado yo.
+
+Al pasar por una panadería, Gema se detuvo ante el escaparate. Quedaba una bandeja de napolitanas.
+
+—¿Quieres una?
+
+—No tengo hambre.
+
+—Bien. Así no tendré que compartir.
+
+Entró y salió con una bolsa pequeña. Arrancó un trozo de napolitana y se lo ofreció. David lo cogió.
+
+—Pensé que no ibas a compartir.
+
+—Era una prueba. Has fallado.
+
+Siguieron caminando. David tenía chocolate en el pulgar. Intentó limpiárselo con una servilleta y acabó con una mancha en el puño del abrigo.
+
+—Genio —dijo Gema.
+
+Él se rio. Ella le dio otra servilleta y esta vez le sujetó la bolsa mientras se limpiaba.
+
+Pasaron la parada. Gema la miró al dejarla atrás, pero no dijo nada. David tampoco.
+
+Hablaron de Rafa y de una llamada que había atendido aquella mañana. Según Rafa, un cliente le había pedido que localizara un paquete sin darle el número de seguimiento, la dirección ni el nombre del destinatario. Gema decía que Rafa se había inventado la mitad. David dijo que seguramente solo había añadido lo del perro.
+
+—El perro estaba —dijo ella.
+
+—¿Cómo lo sabes?
+
+—Porque el cliente me llamó después. Quería saber por qué Rafa le había preguntado si tenía perro.
+
+David se echó a reír. Gema también. Tuvieron que apartarse para dejar pasar a una mujer con un carrito. La bolsa del táper golpeó la rodilla de David y él se la quitó a Gema.
+
+—Ya la llevo yo.
+
+—Ten cuidado. Como se rompa, Elena nos denuncia a los dos.
+
+En la esquina siguiente, Gema se detuvo.
+
+—Por aquí me voy yo.
+
+David le devolvió la bolsa. Ella no la cogió enseguida.
+
+—Me ha gustado pasear contigo —dijo.
+
+—A mí también.
+
+Gema se acercó. David vio cómo levantaba la cara y, durante un instante, no se movió.
+
+Luego la abrazó. Le dio un beso en la mejilla y la sujetó un poco más de lo necesario.
+
+Cuando se separaron, Gema cogió la bolsa. Miró hacia la calle por la que acababan de venir.
+
+—Bueno —dijo—. Nos vemos mañana.
+
+—Hasta mañana.
+
+Ella sonrió, pero ya estaba dando un paso atrás. Se volvió y cruzó la calle sin mirar otra vez.
+
+David se quedó en la esquina. Quería ir detrás de ella. Todavía podía alcanzarla antes de que llegara al semáforo.
+
+Metió la mano en el bolsillo y encontró la servilleta con chocolate. En el otro llevaba los papeles del hospital.
+
+Podía morirse. Podía necesitar que alguien lo ayudara a vestirse, a comer, a salir de casa. ¿Cómo iba a pedirle a Gema que empezara algo en un momento así?
+
+Y podía salir bien. Podía volver a tener la cabeza de antes.
+
+Recordó a Gema en la entrevista, entre las carretillas. Lo poco que había tardado en decidir lo que ella era. A Rafa con sus cómics. A Enrique y su bicicleta. Entonces estaba seguro de tener razón.
+
+Gema había doblado ya la esquina. David sacó los papeles, comprobó que seguían allí y los guardó otra vez.
+
+Había hecho bien. Al menos podrían seguir siendo amigos.
