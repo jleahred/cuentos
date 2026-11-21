@@ -102,6 +102,8 @@ A media mañana, Gema pasó por su mesa.
 
 —¿Y...?
 
+David se dio cuenta de que era la misma pregunta del día de la cena. Aquella noche había contestado con una cifra.
+
 —No sé.
 
 Gema lo miró un segundo.
@@ -122,7 +124,7 @@ Siguió. Elena, desde su mesa, levantó una ceja. David miró la pantalla. Escri
 
 ***
 
-Enrique le había dicho una vez que comía allí dos veces por semana, los martes y los jueves. El resto de los días comía en casa, con su mujer. El restaurante era una taberna de barrio, con manteles de cuadros y un televisor pequeño sin sonido. El dueño lo saludó por su nombre. El camarero le llamó doctor. David no le dio importancia.
+Enrique le había dicho una vez que los jueves comía en una taberna del barrio y que se quedaba hasta tarde. David salió de la oficina a las cinco y lo encontró todavía en la mesa, con la sobremesa alargándose. El resto de los días comía en casa, con su mujer. La taberna tenía manteles de cuadros y un televisor pequeño sin sonido. El dueño lo saludó por su nombre. El camarero le llamó doctor. David no le dio importancia.
 
 Enrique estaba en su mesa, con el periódico y una copa de vino.
 
@@ -206,9 +208,9 @@ David lo miró.
 
 Enrique dejó la copa.
 
-—¿El ruido del oído es un pitido o un soplo?
+—¿En los dos oídos o en uno?
 
-—Un soplo.
+—En el derecho.
 
 —¿Late con tu corazón?
 
@@ -238,7 +240,19 @@ Enrique dejó la copa.
 
 —Cada vez más.
 
-Enrique se inclinó y le miró los ojos. Le pidió que siguiera un dedo. Le apretó la mano.
+Enrique se inclinó y le puso dos dedos en el cuello, del lado derecho.
+
+—¿Cambia el ruido?
+
+—Ahora menos.
+
+Enrique movió los dedos.
+
+—¿Y ahora?
+
+—Casi no lo oigo.
+
+Enrique retiró la mano. Le miró los ojos. Le pidió que siguiera un dedo y le apretó la mano.
 
 —¿Qué haces? —preguntó David.
 
@@ -258,11 +272,33 @@ Enrique se recostó.
 
 Enrique sacó un bolígrafo del bolsillo y pidió una servilleta al camarero. Escribió un nombre y una dirección.
 
-—Tienes dos cosas. La primera es la que te está volviendo lento. No te puedo decir con certeza, pero diría que algo te está alterando la circulación de la sangre en tu cabeza. Pueden ser varias cosas.
+—Tienes dos cosas. La primera es la que te está volviendo lento. Por lo del cuello y por lo que cuentas, probablemente sea una fístula: una conexión anómala entre una arteria y una vena. Si es eso, te está robando sangre al cerebro.
 
-—¿Qué cosas?
+—¿Una fístula?
 
-—No lo sé. Pero conozco a alguien que puede averiguarlo. Dile que vas de parte del ciclista profesional.
+—Probablemente.
+
+—¿Por qué no la ha visto ninguno de los cinco?
+
+—Porque a ninguno se le ocurrió ponerle los dedos en el cuello.
+
+David se tocó el cuello, donde el viejo había apretado.
+
+—¿Se cura?
+
+—Eso se lo preguntas a ella.
+
+David miró el nombre en la servilleta.
+
+—¿Y qué tipo de fístula es?
+
+—Los detalles, a ella.
+
+—No sabes mucho.
+
+—Sé lo que hay que saber. Que estás mal y quién puede arreglarlo. Lo demás son detalles.
+
+—Dile que vas de parte del ciclista profesional.
 
 —He visto a muchos médicos.
 
@@ -270,9 +306,9 @@ Enrique sacó un bolígrafo del bolsillo y pidió una servilleta al camarero. Es
 
 —¿Es tan buena?
 
-—Es la mejor para esto. Lleva todos los informes y las pruebas que tengas. Todos.
+—Para lo que tú tienes, es la mejor. Lleva todos los informes y las pruebas que tengas. Todos.
 
-David miró la servilleta.
+David miró al viejo.
 
 —¿Y si no me cree?
 
@@ -282,7 +318,7 @@ David miró la servilleta.
 
 —Un viejo que monta en bici.
 
-David guardó la servilleta.
+David dejó la servilleta en la mesa.
 
 —¿Y la segunda cosa?
 
@@ -370,7 +406,7 @@ Enrique terminó el café.
 
 —Aunque las dos obedecieran las mismas reglas.
 
-David asintió. Cogió el bolígrafo de Enrique y dibujó dos líneas sobre la servilleta. Al principio iban juntas; después se alejaban.
+David asintió. Cogió el bolígrafo de Enrique y dibujó dos líneas en el dorso de la servilleta, detrás del nombre. Al principio iban juntas; después se alejaban.
 
 —Si no conoces las condiciones iniciales con suficiente precisión, el error crece. Puedes conocer las reglas y aun así no saber dónde estarás después de un tiempo.
 
@@ -434,7 +470,7 @@ David levantó la cabeza.
 
 —No. Pero sé que tú no lo sabes.
 
-David se quedó mirando la servilleta.
+David miró las dos líneas que había dibujado.
 
 —Gema sabe dirigir —dijo Enrique—. Eso no se estudia.
 
@@ -446,15 +482,21 @@ David se quedó mirando la servilleta.
 
 —No. Justifica no fingir que lo demás no existe.
 
-—Tú trabajabas con ordenadores, ¿no? —preguntó Enrique—. Conocerás las redes neuronales, los modelos de lenguaje. AlphaZero.
+—Hay algo que no me cuadra —dijo David.
 
-—Algo conozco.
+—Qué raro.
 
-—Aprenden a responder, o a jugar, sin que nadie les escriba una regla para cada situación. A veces encuentran una jugada que nadie esperaba. Podríamos llamarlo intuición, aunque sea una manera de hablar.
+—Lo de la intuición. Yo he programado redes de esas. AlphaZero. Aprenden jugando contra sí mismas, sin que nadie les escriba una regla para cada jugada.
 
-—Siguen haciendo cálculos.
+—Ya.
 
-—Por supuesto. No estoy diciendo que piensen como nosotros. Pero tú mismo has visto que se puede llegar a una respuesta sin seguir una lista de instrucciones que alguien haya escrito de antemano. Y luego, cuando una persona sabe hacer algo y no sabe explicarte todos los pasos, ¿decides que no está pensando?
+—Y encuentran jugadas que ningún humano había visto. Pero no son sabias: calculan muy rápido.
+
+—Eso lo has dicho tú.
+
+—Es un hecho.
+
+—Entonces ya está —dijo Enrique—. Que se puede llegar a una respuesta sin una lista de instrucciones. Si lo aceptas para una máquina, ¿por qué no para el que lleva veinte años en la nave y sabe cuándo una furgoneta no va a arrancar sin saber explicarlo?
 
 David giró la servilleta entre los dedos.
 
@@ -494,7 +536,7 @@ David giró la servilleta entre los dedos.
 
 —No he dicho todos.
 
-David se quedó mirando la servilleta.
+David se recostó en la silla.
 
 —Lo que llamas intuición también puede equivocarse —dijo.
 
@@ -506,25 +548,7 @@ David se quedó mirando la servilleta.
 
 Enrique apartó la taza vacía.
 
-—¿Sabes quién fue Aníbal?
-
-—El de los elefantes.
-
-—Ese mismo. Todavía se estudian sus batallas en las academias militares. Los movimientos, el terreno, cómo rodeó al enemigo. Un general brillante.
-
-—¿Y eso no era estrategia?
-
-—Claro que sí. Pero mira a sus hombres. Los llevó por las montañas, lejos de casa, con frío y hambre. Y siguieron con él durante años. Podía trazar el mejor plan del mundo, pero necesitaba que aquellos hombres estuvieran dispuestos a seguirlo.
-
-—También serían buenos soldados.
-
-—Seguro. Y tendrían sus propios motivos. Pero algo tendría Aníbal para que confiaran en él. Eso también forma parte de la batalla, aunque sea más difícil dibujarlo con flechas en un mapa.
-
-—¿Como Gema?
-
-—Como Gema. Si la dejan.
-
-—¿qué hago?
+—¿Qué hago?
 
 —Tienes que dejar el trabajo. Y alejarte de Gema.
 
@@ -568,4 +592,4 @@ Luego echó a andar. No sabía adónde. Lo que más le molestaba no era que Enri
 
 Siguió andando. No supo cuánto tiempo.
 
-Estaba enamorado, por primera vez, y no sabía que hacer.
+Estaba enamorado, por primera vez, y no sabía qué hacer.

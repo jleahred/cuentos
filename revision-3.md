@@ -2,11 +2,11 @@
 
 > Sustituye a [revision-2.md](revision-2.md) en todo lo que se refiere a los capítulos 7 y 8. La parte de 1–6 de esa revisión sigue valiendo tal cual. Lo que hay ahora:
 >
-> - **7 Agravamiento**: 1.762 → **2.815** palabras. Enrique ya no nombra la fístula; el caos se convierte en un dibujo sobre la servilleta; entra el bloque de la nevera, la pantalla y la tranquilidad.
+> - **7 Agravamiento**: 1.762 → **2.847** palabras. Enrique sospecha en voz alta («probablemente sea una fístula») y se escabulle de los detalles; el caos se convierte en un dibujo sobre la servilleta; entra el bloque de la nevera, la pantalla y la tranquilidad. *Aníbal aplazado, AlphaZero reestructurado y prueba del cuello añadida.*
 > - **8 Pánico**: 408 → **1.573**. Angiografía, diagnóstico, paseo, beso que no es.
 > - **9 Caos**: nuevo, **2.441**. Getafe, la oferta de Salas, el desmayo y la confesión.
 
-**16.373 palabras.** El libro ya no es un cuento largo: es una novela corta de tres actos y está casi entera.
+**16.405 palabras.** El libro ya no es un cuento largo: es una novela corta de tres actos y está casi entera.
 
 ---
 
@@ -23,7 +23,7 @@ El **8** ha resuelto su problema principal: el diagnóstico vuelve a ser del 8. 
 
 El **7** ha mejorado en lo que importa y ha empeorado en lo que sobra. Lo nuevo es lo mejor: David contando que se ha quedado delante de una pantalla y que **estaba bien**, que no quería dejar de pensar en ella. Eso convierte el síntoma en una ganancia, y es la idea más rica del libro entero. Y el dibujo de las dos líneas de Lorenz en la servilleta, con el bolígrafo de Enrique, es la mejor imagen del manuscrito.
 
-Lo que sigue igual de mal es el reparto: el 7 tiene ahora 2.815 palabras y sigue siendo una conferencia.
+Lo que sigue siendo un problema es el reparto: el 7 tiene 2.847 palabras y su segunda mitad sigue siendo, en el fondo, una conferencia.
 
 ---
 
@@ -76,54 +76,54 @@ Esto es el cambio más rentable del capítulo.
 Respuesta corta: **no, no son malas ideas.** Cinco de las siete son buenas y dos son excelentes. El problema no es la calidad, es la colocación, y se puede decir en tres frases:
 
 1. **Todas prueban lo mismo.** Convencido por el dibujo de las dos líneas, el lector no necesita AlphaZero; y al que no le ha convencido el dibujo no le van a convencer seis. A partir de la segunda prueba, cada prueba nueva *resta* en vez de sumar.
-2. **Solo una hace actuar a David.** En el caos, David coge el bolígrafo de Enrique y dibuja. Es el único momento de la conferencia en que el personaje hace algo, y por eso es el único que se recuerda.
-3. **Llegan tarde.** La escena ya ha dado su veredicto en la línea 343 («empieza por la cena»). Todo lo que viene después no responde a ninguna pregunta que el lector tenga abierta: es apéndice.
+2. **Solo en una hace algo David con las manos.** En el caos coge el bolígrafo de Enrique y dibuja, y llega él mismo a la conclusión. Es el único tramo de la conferencia en el que el personaje no se limita a escuchar, y por eso es el único que se recuerda.
+3. **Llegan tarde.** La escena ya ha dado su veredicto en la línea 379 («empieza por la cena»). Todo lo que viene después no responde a ninguna pregunta que el lector tenga abierta: es apéndice.
 
 Y una consecuencia de oficio: **Enrique pierde sabiduría al hablar tanto.** La sabiduría, en una novela, se nota en lo que un personaje *no* dice. Un viejo que lo explica todo es un profesor; un viejo que dice una cosa y se calla es un sabio.
 
 ### Idea por idea
 
-| # | Idea | Líneas | Veredicto | Dónde debe vivir |
+| # | Idea | Líneas | Veredicto | Estado |
 |---|---|---|---|---|
-| 1 | El caos y las dos líneas dibujadas | 359–397 | **La mejor.** Única en la que David actúa, y termina en la frase que es el libro: «Y con las personas no conozco ni las condiciones iniciales.» | **Se queda en el 7**, entera. |
-| 2 | «¿Por qué te gusta una canción?» | 401–411 | **Excelente.** Cuatro líneas, sin adornos, y no se puede discutir. | **Se queda.** |
-| 3 | La Novena de Beethoven | 413–421 | **La única mala idea.** Es la 2 con más palabras y con un ejemplo que el lector tiene que aceptar por autoridad. | Fuera. |
-| 4 | AlphaZero y las redes | 449–463 | **Buena idea, boca equivocada.** Es David quien ha programado esas cosas: si la saca él, con suficiencia, y Enrique le da la vuelta, la escena gana un intercambio en vez de perder un párrafo. | Se queda, **re-entonada**. |
-| 5 | Los despachos y el cartel de la obra | 467–505 | **La mejor idea original del capítulo.** «Doce millones cuatrocientos mil y pico euros con treinta y siete céntimos» es lo más gracioso que hay escrito aquí, y es una crítica de la falsa precisión en una sola imagen. | Se queda el cartel; lo de alrededor, a la mitad. |
-| 6 | Aníbal | 509–525 | **Buena, pero redundante** con «las personas que saben querer», que ya está tres párrafos antes. | Se mueve al último acto o se va. |
-| 7 | «En ningún sitio te enseñan a leer a un hombre» | 439–447 | **Excelente.** Es la mejor frase del capítulo después de la de las condiciones iniciales. | **Se queda.** |
+| 1 | El caos y las dos líneas dibujadas | 395 | **La mejor.** Única en la que David actúa, y termina en la frase que es el libro: «Y con las personas no conozco ni las condiciones iniciales.» | Se queda entera. |
+| 2 | «¿Por qué te gusta una canción?» | 437 | **Excelente.** Cuatro líneas, sin adornos, y no se puede discutir. | Se queda. |
+| 3 | La Novena de Beethoven | 449 | **La única mala idea.** Es la 2 con más palabras y con un ejemplo que el lector tiene que aceptar por autoridad. | Sigue ahí. Pendiente. |
+| 4 | «En ningún sitio te enseñan a leer a un hombre» | 479 | **Excelente.** La mejor frase del capítulo después de la de las condiciones iniciales. | Se queda. |
+| 5 | AlphaZero y las redes | 485 | **Buena idea, boca equivocada.** La sacaba Enrique; ahora la saca David. | **Reestructurada.** |
+| 6 | Los despachos y el cartel de la obra | 507 | **La mejor idea original del capítulo.** Los céntimos son lo más gracioso que hay escrito aquí, y son una crítica de la falsa precisión en una sola imagen. | Se queda; lo de alrededor sigue largo. |
+| 7 | Aníbal | — | **Buena, pero redundante** con «las personas que saben querer», tres párrafos antes. | **Aplazada** a [material aplazado.md](material aplazado.md). |
 
-### El arreglo: dos visitas a la taberna, no una
+### Aplicado en esta ronda
 
-No recortes las buenas: **aplázalas**. El 7 se queda con todo lo que es médico y emocional (el interrogatorio, «estás enamorado», la servilleta, «empieza por la cena») y con **una sola** demostración intelectual, la del caos, que además es la que tiene un objeto.
+1. **Aníbal, fuera del 7**, guardado con nota de dónde puede encajar. El capítulo salta ahora de la taza vacía a «¿Qué hago?».
+2. **AlphaZero reestructurado.** Ahora David lo saca con suficiencia («no son sabias: calculan muy rápido») y Enrique le da la vuelta con una pregunta. La diferencia no es de contenido, es de quién habla: en vez de escuchar y perder, David hace algo y pierde. Y de paso desaparece la imagen del transportista, que quedaba repetida dos párrafos después.
+3. **La servilleta.** Se queda en la mesa, el nombre y las dos líneas de Lorenz comparten papel (el dorso) y se guarda una sola vez, al final. El objeto ya no se desgasta.
+4. **La prueba del cuello, y la fístula por su nombre.** Enrique le pone dos dedos en el cuello, le pregunta si cambia el ruido y el ruido cambia. De ahí sale el diagnóstico: «probablemente sea una fístula: una conexión anómala entre una arteria y una vena». Y cuando David empieza con los detalles, se escabulle: «Eso se lo preguntas a ella», «Los detalles, a ella», «Sé lo que hay que saber. Que estás mal y quién puede arreglarlo». Sin aparatos, sin delantal, y con una frase que dice a la vez quién es y por qué no lo dice.
+5. **La taberna**: jueves y a las cinco, para que la sobremesa case con los días de bici del 4 y con el horario de nueve a cinco.
+6. **Getafe**: David reconoce la pregunta del día de la cena, y la escena se muere con eso.
+7. **«¿En los dos oídos o en uno?»** en lugar de volver a preguntar lo del 4.
+8. **Tres correcciones de frase**: «Para lo que tú tienes, es la mejor», «¿Qué hago?» y la última línea, sin «por primera vez» y con tilde.
 
-Lo demás —AlphaZero, el cartel de la obra, Aníbal, «los tiburones»— pasa a una **segunda comida con Enrique, después de la operación**, en el capítulo 12. Y allí funciona mucho mejor por tres razones:
+### Revertido, y qué ha quedado en su lugar
 
-- Llega **después** de Getafe. David ya ha usado la libreta de Carlos y lo que sabe Pilar: la teoría describe lo que acaba de hacer, y el lector la reconoce en vez de recibirla.
-- David puede **contestar**. Llega con pruebas, discute, gana un punto. Eso es lo que convierte a Enrique en sabio otra vez: alguien a quien se le puede replicar.
-- Le da **cuerpo al capítulo 12**, que ahora mismo es el más flojo del plan («vuelve la prisa, elige quedarse»). Un hombre que acaba de recuperar su cerebro sentado frente al viejo que se lo salvó, discutiendo de AlphaZero y del cartel de la obra: ahí está el libro entero, sin una sola moraleja.
+- **El oftalmoscopio, fuera.** Un jubilado comiendo solo en una taberna no lleva un instrumento de diagnóstico en el bolsillo, y el detalle se ve venir. En su lugar está la prueba del cuello, que no necesita nada y es mejor: es una maniobra de verdad, la hace sin decir qué hace, y es la primera vez en año y medio que alguien le toca el cuello para escuchar.
+- **«¿Y si la operación sale mal?» se queda**, y ahora además tiene antecedente: Enrique acaba de decir «fístula» y «quién puede arreglarlo». Ya no hace falta tocar la frase. Si alguna vez vuelve a quedar suelta, basta una réplica: Enrique pregunta «¿Qué operación?» y David se da cuenta de que se ha adelantado.
 
-Y el 7 se queda en **1.900–2.000 palabras**: las 1.400 de ahora más el caos dibujado, sin el resto.
+### Lo que sigue abierto
+
+- **La Novena** (449). Es lo único que yo quitaría sin dudar: dice lo mismo que la canción, con más palabras y con menos gracia.
+- **El bloque de los despachos** (507–547): el cartel es lo mejor del capítulo y lo que lo rodea, lo más largo. Se puede dejar así; si algún día sobra, recortar sin tocar los céntimos.
+- **Dos Gema seguidas** (465–483): la Novena termina en «Gema, por ejemplo» y el bloque siguiente vuelve a Gema. Si se quita la Novena, se arregla solo.
 
 ### Y la corrección que me llevo
 
-Tienes razón y es importante: **la tranquilidad no viene de estar tonto, viene de estar enamorado.** El texto lo dice en la línea 189 y yo lo leí al revés. Eso mejora el tercer miedo en vez de estropearlo: el miedo no es perder la calma (que no depende de la cabeza), es que **la cabeza que vuelve sea la que no sabe querer**. Y en el 12 la prueba no será «¿echa de menos ser lento?» sino «¿la sigue viendo igual?». Cuando recupere todo, que mire a Gema y no le pase nada: eso es lo que hay que demostrar.
-
-### Erratas del 7 que siguen abiertas
-
-1. **Línea 337: «¿Y si la operación sale mal?»** Nadie ha hablado de operar. Enrique ha dicho «algo te está alterando la circulación» y «conozco a alguien que puede averiguarlo». David no puede preguntar por una operación que no existe. Cambia a «¿Y si hay que operar?».
-2. **Línea 269: «Es la mejor para esto.»** «Esto» no tiene antecedente. «Es la mejor para lo que tú tienes» o «para estas cosas».
-3. **La servilleta tiene cuatro vidas.** Se guarda en la línea 285, se mira en la 335, se dibuja en la 373 y se vuelve a mirar en la 437 y la 497. Decide el orden: mejor que se quede en la mesa, que David dibuje en ella y que el nombre y las dos líneas de Lorenz **compartan el mismo papel, una cara y la otra**. Ese objeto vale por sí solo; no lo estropees con cuatro apariciones.
-4. **Línea 527: «¿qué hago?»** Minúscula.
-5. **Línea 571: «no sabía que hacer»** y «por primera vez», que choca con la mejor frase del 2 («Por primera vez sintió miedo»). Quita las dos.
-6. **Línea 209: «¿El ruido del oído es un pitido o un soplo?»** David ya se lo contó en el 4 y Enrique ya le corrigió («Los acúfenos no laten»). Cambia la pregunta por la que importa: «¿Sigue latiendo con tu corazón?».
-7. **Línea 241: «Le miró los ojos.»** Es la ocasión del oftalmoscopio y se queda en «le miró los ojos». Un viejo saca un oftalmoscopio del bolsillo, le mira el fondo de ojo y David piensa «cosas de viejos». Eso es una pista de médico, no de jubilado, y el edema de papila es un signo real de esta enfermedad.
-8. **Línea 99: «¿Has visto lo de Getafe?»** Es la misma pregunta del 6, línea 7, y el texto no lo nota. Conviértelo en un hallazgo: que David reconozca la frase y que la conversación se muera. La repetición entonces es un motivo, no un descuido.
-9. **Línea 125: la taberna.** «Los martes y los jueves» son los días de bici del 4, y David trabaja de nueve a cinco. «Un jueves, al salir de la oficina» lo arregla todo: explica la hora y la sobremesa que se alarga hasta las cinco y veinte.
+Tienes razón y es importante: **la tranquilidad no viene de estar tonto, viene de estar enamorado.** El texto lo dice en la línea 191 y yo lo leí al revés. Eso mejora el tercer miedo en vez de estropearlo: el miedo no es perder la calma (que no depende de la cabeza), es que **la cabeza que vuelve sea la que no sabe querer**. Y en el capítulo de la recuperación la prueba no será «¿echa de menos ser lento?» sino «¿la sigue viendo igual?». Cuando recupere todo, que mire a Gema y no le pase nada: eso es lo que hay que demostrar.
 
 ---
 
 ## El 8: cuatro arreglos y una frase
+
+> **Aviso de continuidad.** Ahora que Enrique dice «probablemente sea una fístula» en el 7, la frase de Ferrer —«Esto es una fístula arteriovenosa dural. Una conexión anómala entre una arteria y una vena»— ya no revela nada: confirma. Si se deja tal cual, se lee como si David no hubiera oído al viejo. Basta con quitarle la explicación: «—Fístula arteriovenosa dural. La sospecha era buena.» David pregunta «¿Por eso no puedo pensar?» y la escena sigue igual. De paso, esa línea hace que Ferrer atribuya el acierto a alguien, y David, que no sabe quién es ese alguien, tiene una razón más para no preguntar.
 
 1. **El título.** *Pánico* es el único título del libro que explica lo que el protagonista siente. *La prueba* es mejor por tres razones: Gema lo dice en la línea 183 («Era una prueba. Has fallado»), el capítulo está lleno de pruebas médicas, y el lector lo lee dos veces.
 2. **El fonendoscopio.** Línea 15: «Volvió a preguntarle por el soplo.» Un neurocirujano no vuelve a preguntar: **escucha**. «Le puso el fonendoscopio en el cuello y le pidió que dejara de respirar.» Es el pago de «los acúfenos no laten» y tarda una línea.
@@ -150,13 +150,13 @@ Y una cosa que ya está y hay que cuidar: Gema ha pasado la semana anterior sabi
 
 ## El último acto, versión 2
 
-Con la confesión y el ingreso, el plan cambia. Quedan **cuatro piezas y una coda**, y el libro se cierra en ~21.000 palabras.
+Con la confesión y el ingreso, el plan cambia. Quedan **cuatro piezas y una coda**, y el libro se cerraría en ~21.000 palabras. Nada de esto está escrito ni decidido: son cuatro sitios donde tiene que caer el final, y se ajustarán a lo que pase cuando lleguemos a cada uno.
 
 | # | Capítulo | Qué pasa | Palabras |
 |---|---|---|---:|
 | 10 | **La operación** | Ingreso de urgencia. El consentimiento en veinte minutos, con Gema en el pasillo: el tercer miedo habla ahí. Embolización por catéter, no cráneo abierto. Y al despertar, **el silencio**: por primera vez en un año no oye el soplo. | 1.200 |
 | 11 | **El tío** *(punto de vista de Gema)* | La sala de espera, la noche, la casa de Enrique. Aquí el lector descubre quién es él (un diploma detrás de una bici, una llamada a Ferrer) y qué le pasa a ella (las fotos, «no estoy a la altura»). David no está. | 1.400 |
-| 12 | **La cabeza** | Vuelve entero. Vuelve la prisa y la tentación de resolverlo todo solo: la recaída pequeña, en una escena. Segunda comida con Enrique, con AlphaZero y el cartel de la obra: ahora David puede replicar. La oferta de Salas sigue en el aire. Mira a Gema y no le pasa nada, y elige. | 1.700 |
+| 12 | **La cabeza** | Vuelve entero. Vuelve la prisa y la tentación de resolverlo todo solo: la recaída pequeña, en una escena. La oferta de Salas sigue en el aire. Mira a Gema y no le pasa nada, y elige. *(Si en algún momento hace falta una segunda conversación con Enrique, este es su sitio; ahí podría caer Aníbal.)* | 1.700 |
 | 13 | **El restaurante** | La revelación, «algo oscuro», «mis dos hombres». | 1.200 |
 | — | **Coda** | Diez líneas: la bandeja azul, el bolígrafo en territorio neutral, la bici, un chiste malo. Y alguien lo llama «tonto» por última vez. | 300 |
 
@@ -167,47 +167,39 @@ Dos avisos:
 
 ---
 
-## Continuidad y erratas (lista actualizada)
+## Continuidad y erratas
 
-1. **7, 337:** «la operación» sin antecedente.
-2. **7, 269:** «para esto», sin antecedente.
-3. **7, 285/335/373/437/497:** la servilleta, cuatro veces.
-4. **7, 527:** «¿qué hago?» → «¿Qué hago?».
-5. **7, 571:** «que hacer» → «qué hacer»; fuera «por primera vez».
-6. **7, 209:** la pregunta del pitido ya está respondida en el 4.
-7. **7, 241:** falta el oftalmoscopio.
-8. **7, 99:** Getafe repetido sin que nadie lo note.
-9. **7, 125:** la taberna y los días de bici.
-10. **7, 437 y 497:** «David se quedó mirando la servilleta», dos veces igual.
-11. **8, 11:** «El hospital olía a desinfectante», la única frase de la novela que podría estar en cualquier novela. Y la televisión sin sonido ya estaba en el 7.
-12. **8, 183:** «Era una prueba. Has fallado.» — si el título pasa a *La prueba*, esta línea hay que protegerla.
-13. **8, 193–199:** la broma del perro frena la escena.
-14. **9, 179:** «mantener tantas piezas en la cabeza», contrario al arco.
-15. **9, 247:** Salas llama a David justo cuando llega. Una línea («Elena le había avisado») y deja de ser casualidad.
-16. **9, 255:** «la dirección del área» para un administrativo recién llegado.
-17. **9, 335–355:** la confesión tiene más gramática que su dueño.
-18. **8/9:** «Ayer, al final del día» — decide si la noticia de los despidos es antes o después del paseo; el paseo del 8 gana muchísimo si es después.
-19. **«Genio»:** 3 en el 1, 1 en el 4, 2 en el 6, 1 en el 7, 1 en el 8. Ocho veces en nueve capítulos ya no es un chiste recurrente: es una muletilla. Deja uno por capítulo y guarda el último para la coda.
-20. **«Tonto»:** en el 1 es insulto (3 veces) y en el 7 aparece 7 veces, ya mezclando el insulto y el cariño. Pero no aparece **ni una sola vez** en el 4 ni en el 5, justo cuando conoce a los tontos, y desaparece por completo en el 8 y el 9. El arco no está repartido: está concentrado en el 7. Una línea de pensamiento en el 4 —«Eran tontos. No por lo que decían: por lo contentos que estaban»— y el resto del libro cambia de sentido; y la última vez que se diga «tonto» tiene que ser en el último acto, no en el 7.
+Lo del capítulo 7 está aplicado; queda esto:
+
+1. **8, 11:** «El hospital olía a desinfectante», la única frase de la novela que podría estar en cualquier novela. Y la televisión sin sonido ya estaba en el 7.
+2. **8, 183:** «Era una prueba. Has fallado.» — si el título pasa a *La prueba*, esta línea hay que protegerla.
+3. **8, 193–199:** la broma del perro frena la escena justo cuando debería estar subiendo.
+4. **9, 179:** «mantener tantas piezas en la cabeza», contrario al arco.
+5. **9, 247:** Salas llama a David justo cuando llega. Una línea («Elena le había avisado») y deja de ser casualidad.
+6. **9, 255:** «la dirección del área» para un administrativo recién llegado.
+7. **9, 335–355:** la confesión tiene más gramática que su dueño.
+8. **8/9:** «Ayer, al final del día» — decide si la noticia de los despidos es antes o después del paseo; el paseo del 8 gana muchísimo si es antes.
+9. **«Genio»:** 3 en el 1, 1 en el 4, 2 en el 6, 1 en el 7, 1 en el 8. Ocho veces en nueve capítulos ya no es un chiste recurrente: es una muletilla. Deja uno por capítulo y guarda el último para la coda.
+10. **«Tonto»:** en el 1 es insulto (3 veces) y en el 7 aparece 7 veces, ya mezclando el insulto y el cariño. Pero no aparece **ni una sola vez** en el 4 ni en el 5, justo cuando conoce a los tontos, y desaparece por completo en el 8 y el 9. El arco no está repartido: está concentrado en el 7. Una línea de pensamiento en el 4 —«Eran tontos. No por lo que decían: por lo contentos que estaban»— y el resto del libro cambia de sentido; y la última vez que se diga «tonto» tiene que ser en el último acto, no en el 7.
 
 ---
 
 ## Lo que no hay que tocar
 
-- El interrogatorio del 7 (209–245). Es la mejor escena clínica que vas a escribir.
+- El interrogatorio del 7 (243–269), con la prueba del cuello. Es la mejor escena clínica que vas a escribir.
 - «¿Dónde está apuntado? —Aquí.» (9, 163–167).
 - Pilar entera, y sobre todo «Apúntala. Con la cara que tienes, luego se te olvida.»
 - «Él levantó los brazos, pero ella ya se estaba separando.» (9, 311).
 - «Vaya, genio. Pues te tomas un refresco, tonto.» (7, 89). Es la primera vez que el chiste del «genio» y la palabra «tonto» se cruzan en la misma frase, y por eso es el eje del arco.
-- «No. Es raro. Llevaba mucho tiempo sin sentirme así de tranquilo.» (7, 189).
+- «No. Es raro. Llevaba mucho tiempo sin sentirme así de tranquilo.» (7, 191).
 - «Había hecho bien. Al menos podrían seguir siendo amigos.» (8, 259). El autoengaño como última línea es perfecto.
 
 ---
 
-## Si solo pudieras hacer cinco cosas
+## Lo que queda por hacer, por orden
 
 1. **Decidir el camino B y reescribir el apartado de Gema en `ideas.md`**, con el miedo espejo («si le curan, no me querrá»).
 2. **Cambiar la línea 179 del 9**: que gane porque el problema está fuera, no porque le vuelva la cabeza.
-3. **Poner el oftalmoscopio en el 7 y el fonendoscopio en el 8.** Son las dos pruebas físicas que el libro lleva siete capítulos esperando.
-4. **Partir el 7 en dos visitas**: en el 7 se queda el caos dibujado y todo lo emocional; el cartel de la obra, AlphaZero y Aníbal se van a la segunda comida con Enrique, ya en el capítulo 12.
-5. **Añadir la frase del tercer miedo** («¿no volvería a tener razón?») y la de «Alguien tendrá», que son las dos que convierten el 8 en el centro del libro.
+3. **El fonendoscopio en el 8** (la prueba del cuello del 7 ya está).
+4. **La frase del tercer miedo** («¿no volvería a tener razón?») y la de «Alguien tendrá», que son las dos que convierten el 8 en el centro del libro.
+5. **La Novena del 7**, fuera. Con eso el capítulo 7 queda cerrado.
