@@ -1,4 +1,4 @@
-### 8. Hospital
+### 8. Pánico
 
 David llamó al hospital a primera hora y preguntó por la doctora Ferrer. Dijo que iba de parte de Enrique.
 
@@ -69,6 +69,8 @@ David se miró las manos. Tenía una marca azul de bolígrafo en el dedo índice
 —¿Tengo que decidirlo hoy?
 
 —No. Pero no tarde.
+
+—Mientras tanto, procure llevar una vida tranquila —añadió la doctora—. Evite esfuerzos intensos y, si nota algo nuevo o empeora, acuda a urgencias.
 
 La doctora le dio unos papeles. David los dobló y los guardó en el bolsillo interior de la chaqueta.
 
@@ -212,7 +214,15 @@ David le devolvió la bolsa. Ella no la cogió enseguida.
 
 —A mí también.
 
-Gema dejó la bolsa en el suelo y se acercó. Le puso una mano en la mejilla. David vio que miraba sus labios y se inclinaba hacia él. Durante un instante, no se movió.
+Gema lo miró un momento.
+
+—Tienes los ojos vidriosos.
+
+—¿Cómo? Ah... no sé. Me pasa de vez en cuando.
+
+Ella sonrió y dejó la bolsa en el suelo.
+
+Se acercó y le puso una mano en la mejilla. David vio que miraba sus labios y se inclinaba hacia él. Durante un instante, no se movió.
 
 Quería besarla. En lugar de eso, giró la cara y la abrazó. Le dio un beso en la mejilla y la sujetó un poco más de lo necesario.
 

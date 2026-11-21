@@ -51,6 +51,14 @@ Este es el esqueleto del libro y la razón del título: la palabra «tonto» emp
 
 ## Desenlace (nuevo)
 
+### Ideas pendientes para después de la recuperación
+
+Estas escenas son propuestas para desarrollar, no hechos cerrados. Deben ajustarse a lo que ocurra en los capítulos.
+
+- **El ascenso y la mesa.** David recupera su inteligencia y acepta un puesto con más trabajo y responsabilidad dentro de la sección. Gema sigue siendo su jefa. Le ofrecen un despacho, pero pregunta qué van a hacer con su mesa junto a los compañeros; al saber que quedaría vacía, pide que dejen allí su ordenador y sus cosas. Quiere seguir formando parte del equipo y ayudándolo. Puede reaparecer el bolígrafo de «territorio neutral» del capítulo 5. Es importante que elija quedarse cuando ya tiene otras posibilidades.
+- **La ambición.** Cuando Gema ya conoce su historia, cree que David no ha recuperado toda su inteligencia y le dice que es una lástima. Él demuestra de forma concreta y natural que sí la ha recuperado, quizá resolviendo de cabeza un problema de cifras relacionado con el trabajo. Ella le pregunta por qué se conforma; él responde que ahora es mucho más ambicioso que antes. Frente a los coches, el salario y sus antiguas parejas, menciona lo que ahora valora: los cómics, sus compañeros, las bromas, la bicicleta y Gema. Mejor expresarlo con objetos y momentos concretos, con humor, que con un discurso. Gema no debería parecer alguien que desprecia esa vida.
+- **Una dificultad posible.** Al recuperar su rapidez, David podría impacientarse o querer resolverlo todo solo en algún momento. Que escuche o pida la opinión de otro mostraría que quedarse y trabajar con ellos es una elección que practica, sin necesidad de una gran recaída.
+
 **El secreto de Enrique.** Es el médico que escucha: un genio jubilado que hace la pregunta que ningún especialista hizo. No se descubre: nunca le dice a David que es médico. Le da el nombre de un cirujano —«dile que vas de mi parte»— y es ese cirujano quien opera. David se recupera por completo y no sabe que Enrique es médico. Para el lector hay pistas, nunca una explicación: en la primera lectura Enrique solo parece un jubilado que escucha; en la segunda, todo encaja. El lector puede sospecharlo antes; David lo descubre al final. La revelación es suya, no una confesión de Enrique.
 
 **El parentesco.** Gema es la ahijada de Enrique. Él la llama «ahijada»; ella lo llama «tío». David y el lector están despistados al principio: creen que la ahijada es Elena. El parentesco se revela en la escena final.
