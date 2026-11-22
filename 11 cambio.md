@@ -1,163 +1,339 @@
-### 10. Comienzo
+### 11. Cambio
 
-en algún momento del principio, que la mujer le pida permiso para tutearse
+Durante las semanas siguientes al alta, David fue recuperando fuerzas. Gema siguió visitándolo y un día retomaron la conversación que habían dejado pendiente junto a las tazas.
 
-ideas a desarrollar en este capítulo
+Él le habló de su antiguo trabajo, del dinero y de la facilidad con que había apartado a quienes no le interesaban. Ella le contó que había mirado aquellas fotografías más veces de las que quería admitir. También le dijo que seguía enfadada por todo lo que él le había ocultado.
 
-david está recuperado, todavía no sabemos cómo está su inteligencia
+—Tenías razón —dijo David.
 
-la rutina ha vuelto a la empresa
+—No he dicho que tuviera razón.
 
-aparece una noticia bomba, la empresa ha sido comprada y están haciendo auditoría
+—Ya. Pero la tenías.
 
-aquí podríamos enlazarlo con la presión y trampas de los jefes, sabían de esta operación, y querían sanear y maquillar resultados para su propio beneficio, les daba igual lo que ocurriese a la gente, era su oportunidad para ganar mucho dinero
+Gema le dio un sorbo a la infusión.
 
-hay preocupación
+—No te acostumbres a resolverlo así.
 
-un cliente va a ver a gema, le hacen esperar
+—¿Dándote la razón?
 
-luego llega una mujer no joven, quizá sesenta años que pide cita con gema. es amable y entrañable. dice de la empresa que viene, pero la recepcionista toma nota sin más atención, no conoce la empresa
+—Pensando que con eso ya hemos terminado de hablar.
 
-la recepcionista piensa que puede ser un nuevo cliente, le dice que hará lo que pueda y que espere un momento
+Otro día salieron a dar un paseo corto. A David le pareció demasiado corto y a Gema le pareció suficiente. Discutieron hasta el portal, donde él la besó antes de que pudiera decirle que subiera a descansar. Ella le devolvió el beso.
 
-espera junto al cliente, con el que conversa
+—Ahora sube a descansar.
 
-el cliente le cuenta que le gusta ver a la gente trabajar en esa oficina, el ambiente, que es mágico
-le dice que le ha pedido varias veces el secreto, pero que que jamás se lo ha contado con la excusa de no hay secreto
+El lunes que volvió a la oficina llevaba una carpeta de informes, la promesa de no cargar cajas y una discusión pendiente con Gema sobre lo que significaba «tomárselo con calma».
 
-le cuenta que gema le ha salvado el pellejo en varias ocasiones y nunca le ha pedido nada a cambio
+—Contestar correos no cuenta —dijo él.
 
-ella ve las bromas, el buen ambiente
+—Depende de los correos.
 
-gema atiende a su cliente, este le dice, no quiero robarte mucho tiempo, sólo quería darte las gracias por ...  y gema le responde en broma, te debería haber cobrado el doble. te habría pagado el cuádruple
+—Ordenar la bandeja tampoco.
 
-el cliente le dice que tiene una comida pendiente con ella, que la invitará al mejor sitio...
+—Depende de la bandeja.
 
-la recepcionista le dice ha venido la señora xxx, no tiene cita, es de la empresa xxx
+David miró la azul. Rafa había dejado dentro un bocadillo envuelto en papel de aluminio.
 
-gema se sobresalta y le dice, son los nuevos jefes!!!
+—Eso sí cuenta —dijo Gema—. Pesa mucho.
 
-desarrollar...
+David dejó el bocadillo en la mesa de Rafa. Todavía se cansaba antes de lo que quería admitir. A veces encontraba una palabra al primer intento y otras tenía que esperarla. Nadie le había pedido que resolviera un problema difícil y él tampoco lo había buscado.
 
-hacen entrar en la sala de presentaciones/reuniones a la mujer. gema llega un minuto después, le pide disculpas, estaba cargando la memoria en el ordenador para presentarle...
+El miércoles llegó la noticia de que habían vendido la empresa. A media mañana, la oficina entera sabía que los compradores estaban revisando las cuentas y nadie sabía qué pensaban hacer después.
 
-mujer: ahhh, no se preocupe, ya he visto todas las memorias y todos los informes. y tengo un fantástico euqipo de ingenieros que difrutan revisando todo eso y traduciéndolo para que yo entienda esas cosas tan aburridas
+—Mi primo estuvo en una empresa que compraron —dijo Rafa.
 
-he venido, porque hay algunas cosas que no me cuadraban, que no entendía y quería revisarlo en primera persona
+—¿Y qué pasó? —preguntó Elena.
 
-g: le ayudaré en lo que pueda
+—Que la compraron.
 
-m: mis ingenieros vieron al instante que esta empresa/corporación, ha tenido un funiconamiento, regular, un poco mediocre. Pero dos sedes concretas, tuvieron unos resultados sorprendentes y se utilizó "ingeniería financiera para maquillar" el global
-les salió bastante bien, y tu jefes estaban orgullosos mostrando ese triunfo y cifras.
+—Gracias, Rafa.
 
-en todo esto, me dieron algunas recomendaciones. una me llamó especialmente la atención. debemos reducir plantilla. y me recomendaronr empezar de inmediato a un tal david, subordinado suyo, creo. parece que fue poco "elegante" con ellos
+—De nada. Si me entero de algo más, os aviso.
 
-g: ¿cómo? él ha sido el culpable de esos números, trabajó xxx, consiguió xxx, lo defiende muuuucho y con razón
-tambiénd defiende al resto, a todo el equipo, habla maravillas de todos.
+Gema llevaba toda la mañana atendiendo llamadas. La última había sido de Carlos, en Getafe. Habían pedido documentación de las dos sedes: entregas, costes, objetivos y facturación. A dirección también le habían pedido explicaciones. Salas no había vuelto a llamarla.
 
-m: interesante. me ha hablado de todo el mundo, todos son maravillosos. Pero no me ha dicho ni una palabra de usted.
+A las doce llegó un cliente que preguntó por ella. La recepcionista le dijo que tendría que esperar unos minutos.
 
-g: yo, procuro ayudarles, no molestar
+Poco después entró una mujer de unos sesenta años, con un abrigo claro y una carpeta bajo el brazo.
 
-m: ya veo...
+—Buenos días. ¿Podría ver a Gema?
 
-m: he visto que tienen una máquina de café, ¿le importa si vamos a servirnos uno?
+—¿Tiene cita?
 
-g: ah, perdón, enseguida nos traerán un café
+—No. Me temo que he venido sin avisar. Soy Clara Montes, de Valnera.
 
-m: si no le importa, me gustaría ir a la máquina,ya tengo una edad, estas sillas no me resultan cómodas, me ha dicho el médico que procure moverme con frecuencia
+La recepcionista apuntó el nombre. No le sonaba la empresa.
 
-g: por supuesto
+—Voy a ver si puede atenderla. Si quiere sentarse...
 
-van a la máquina de café
+—Muchas gracias.
 
-m: ¿por donde iba? a sí, usted me hablaba de sus chicos, yo tengo a mis ingenieros. Cuando me pintaron los números les dije, "vamos chicos, aquí hay algo más, dadle otra vuelta, buscad bien"
+Clara se sentó junto al cliente. Desde allí se veía una parte de la oficina. Rafa caminaba detrás de Elena con un bolígrafo en la mano.
 
-m: pasaron un buen rato (cada uno disfruta con lo que le gusta), y vinieron corriendo a contarme ya lo hemos encontrado
+—Estaba en mi mesa —decía.
 
-se queda callada, toma su café
+—Estaba en mi bandeja.
 
-llega alguien a servise otra café, hace algun comentario a gema, demostrando buen ambiente
+—Eso no demuestra nada.
 
-alguien llega y le dice a gema, me han dicho que ha venido un ogro de la empresa que nos ha comprado, ¿qué tal fue?
-gema intenta hacerle un gesto señalando que es la mujer, pero la mujer se gira rápidamente con una sonrisa para pillarla, sabía que iba a hacer el gesto
+Elena abrió un cajón, sacó otro bolígrafo y se lo tendió. Rafa lo examinó.
 
-el empleado se va, dice que va a buscar un agujero negro para tirarse dentro o algo parecido
+—Este no es.
 
-g: disculpe
+—Ya lo sé. El tuyo escribe.
 
-m: ohh, nada, me han llamado cosas peores
+Clara sonrió. El cliente siguió su mirada.
 
-g: me estaba contando que sus ingenieros vieron algo extraño
+—Siempre están así —dijo—. A mí me gusta venir. Una vez le pregunté a Gema cómo lo conseguía.
 
-m: ahhh, eso... sí
+—¿Y qué le dijo?
 
-se calla un rato, quizá chinchando a gema, disfrutando el momento
+—Que no hacía nada especial. Se lo he preguntado varias veces, a ver si se descuida.
 
-g: me lo va a contar?
+—¿Y se descuida?
 
-m: claro, claro... sólo quería fastidiar un poco
+—Todavía no.
 
-m: vinieron tres ingenieros ilusionados como niños diciendo, eureka, eureka!! y me dieron los datos
+El hombre llevaba un sobre grande apoyado en las rodillas. Lo giró entre las manos.
 
-g: ¿y?
+—La semana pasada necesitábamos una entrega que parecía imposible. Gema movió unas llamadas, habló con medio mundo y llegó a tiempo. No es la primera vez que me saca de un apuro.
 
-m: 4 de sus subordinados estaban haciendo algo malo.
+—Tendrá buenos clientes.
 
-g: ¿cómo?
+—Algunos somos mejores que otros. Yo he venido a darle las gracias. Los buenos, además, le pagan a tiempo.
 
-m: estaban facturando una vez alcanzados sus objetivos, eso no les daba más bonus, y les perjudicaba para el año siguiente
+Gema salió del despacho y saludó al hombre.
 
-m: estaban sacrificándose.
+—Perdona la espera. He tenido una mañana complicada.
 
-para que el conjunto llegara, quizá para que su jefa llegara
+—No quería robarte tiempo. Solo venía a darte esto y a darte las gracias por lo del jueves.
 
-pero supongo, que tú eras consciente
+Le entregó el sobre. Gema miró dentro y sacó una caja de pastas.
 
-g: claro, son maravillosos
+—Te tendría que haber cobrado el doble.
 
-m: y tú me has mentido
+—Te habría pagado el cuádruple.
 
-g: ¿cómo?
+—Ahora me lo dices.
 
-m: tú me dijiste que no tienes ningún mérito especial, que sólo ayudas.
+—Todavía te debo una comida. Te llevaré al mejor sitio que conozco.
 
-g: eso es
+—¿El de las servilletas de papel?
 
-m: ¿conoces a anibal barca? luchó contra los romanos en desigualdad, ganó todas las batllas con su ejercito, cruzó los alpes, fue durísimo. ¿Sabés cómo consiguió todo eso?
+—Han puesto unas nuevas.
 
-g: sí mi tío me ha contado esta historia. No es sólo que fuera un genial estratega, que lo era y se estudia en las academias miltares. Fue un líder, sus hombres hicieron cosas increíbles...
+Gema dejó la caja sobre la mesa de recepción y lo acompañó hasta la puerta. Cuando se despidieron, la recepcionista le acercó la nota.
 
-m: así que me encuentro con unas trampas, traspasos de balance... y una anomalía que tenía que ver de cerca
+—También ha venido esta señora. Dice que es de Valnera.
 
-g: entonces, los despidos
+Gema leyó el nombre y levantó la vista.
 
-m: ahhh, por supuesto los despidos
+—¿Valnera?
 
-m: es inevitable, y me he encargado yo personalmente
+—Sí. No tenía cita.
 
-g: pero usted ha dicho que...
+—Son los que han comprado la empresa.
 
-m: tuteame, y déjame terminar
-tuvimos una conversación con david, 
-david les explicó que habían hecho trampa (lo que me contaron mis ingenieros), le dijeron unos cuantos tecnicimos para maquillar.
-le ofrecieron un ascenso ser el director...
-y david les dijo que se fueran al infierno
-al terminar la call, despedí a todos esos burácratas
+La recepcionista miró a Clara, que seguía sentada hojeando una revista vieja. La mujer levantó la mano.
 
-esto ha dejado un vacío, así que transitoriamente, vengo también a presentarme, soy tu nueva jefa
-me aburren los números, los detalles y los problemas. espero que no me des guerra ni me molestes con esas cosas.
+—Puedo volver otro día, si les viene mal.
 
-y vengo también a presentarte tus nuevos objetivos. Quiero que me pienses, ¿qué quieres? ¿qué necesitas?
+—No, por favor —dijo Gema—. Disculpe. Pase a la sala de reuniones; enseguida estoy con usted.
 
-llegó david, no pensó que estaba reunida con algo importante, se acercó, le dijo hola cariño, le dio un beso en los labios y la mujre le dijo:  "ios al infierno" y se marchó
+***
 
+Gema entró un minuto después con el portátil y una memoria USB.
 
+—Perdone. Estaba preparando la presentación de los resultados.
 
+—No se preocupe. Ya he visto los informes. Tengo un equipo que disfruta revisando números y después me los explica con palabras pequeñas.
 
-quieo que la mujer haga referencia a que le gustó que los números estaban redondeados, no tenían precisión inflada
+—Por si necesita consultar algún detalle.
 
-quiero también, que en capítulos anteriores, cuadno david salva a elena, elena redondea los números diciendo así son más honestos, me lo enseñó gema
+Gema conectó el portátil y dejó la memoria junto a él.
 
-enrique también le cuenta lo de los números en el cartel, capítulo 7 si no recuerdo mal
+—Precisamente he venido por algunos detalles —dijo Clara—. ¿Le importa si nos tuteamos? Me paso el día pidiendo que me llamen Clara.
 
+—Claro. Yo soy Gema.
+
+—Eso ya lo sabía. Tus superiores han hablado bastante de ti.
+
+Gema se sentó frente a ella.
+
+—Espero que bien.
+
+—De tus resultados, sí. De cómo los habéis conseguido, no tanto.
+
+Clara abrió la carpeta. Dentro llevaba unas hojas con anotaciones a lápiz.
+
+—La empresa en conjunto no iba tan bien como parecía. Dos sedes sostenían buena parte de los resultados, y algunos movimientos entre partidas ayudaban a que el informe general tuviera mejor aspecto. Mis compañeros están revisando cuáles eran ajustes justificados y cuáles no.
+
+Gema miró las hojas, pero Clara no se las acercó.
+
+—Salas y Vidal estaban muy satisfechos con las cifras —continuó—. Durante la venta insistieron mucho en ellas. También nos recomendaron reducir plantilla.
+
+Gema se apoyó en el respaldo.
+
+—¿En qué sedes?
+
+—No lo concretaron al principio. Luego sugirieron que empezáramos por un empleado tuyo. David.
+
+—¿David?
+
+—Al parecer fue poco amable con ellos.
+
+—Le ofrecieron un puesto por encima de mí después de ponernos un objetivo imposible. Quisieron usar lo que había hecho el equipo para justificar que podíamos trabajar siempre así.
+
+—¿Y él qué hizo?
+
+—Les dijo que no. —Gema hizo una pausa—. De una forma bastante clara, según me contó.
+
+Clara bajó la vista a sus papeles.
+
+—Eso también nos dijeron.
+
+—David fue a Getafe a ayudar cuando no teníamos tiempo ni gente. Hizo un programa para organizar las rutas, pero preguntó a Carlos y a Pilar antes de dar nada por bueno. Y Elena y Rafa se pasaron días buscando soluciones desde aquí. Carlos conoce aquella nave mejor que nadie. Pilar sabe lo que falta antes de que los demás lo echen en falta.
+
+—¿Y tú?
+
+—¿Yo qué?
+
+—Me has hablado de todos ellos.
+
+—Yo intenté que tuvieran lo que necesitaban. A veces bastaba con no estorbarles.
+
+Clara cerró la carpeta.
+
+—He visto una máquina de café al entrar. ¿Te importa si vamos? El médico dice que me levante de vez en cuando, y estas sillas deben de haberse diseñado para que uno le haga caso.
+
+***
+
+Gema puso un vaso bajo la máquina y pulsó el botón. Clara esperaba a su lado con otro vaso vacío.
+
+—Mis ingenieros me trajeron los informes y me explicaron las cifras. Pero había algo que no me cuadraba. Les dije: «Aquí hay algo raro. Seguid buscando».
+
+—¿Y qué encontraron?
+
+—Cuatro personas de tu equipo siguieron cerrando operaciones después de alcanzar sus objetivos individuales. Parte de ese trabajo podía haber pasado al siguiente periodo, pero lo cerraron entonces.
+
+—Había entregas pendientes.
+
+—Y una de las operaciones que revisaron ya estaba lista. Podían haber esperado sin incumplir el plazo. Al cerrar todo ese mes, ayudaron a alcanzar el objetivo de la sede. Para ellos, en cambio, podía significar un objetivo más alto al año siguiente, sin mejorar el bonus de ese periodo.
+
+Gema recogió el primer vaso antes de que la máquina terminara de zumbar.
+
+—Ya.
+
+—¿Lo sabías?
+
+—Claro que lo sabía. Sabían que no iban a cobrar más y que podía perjudicarlos al año siguiente. Aun así, quisieron terminarlo.
+
+Gema sonrió.
+
+—Son maravillosos.
+
+—Eso me han dicho. Uno de mis ingenieros llamó para preguntar por una operación. Le contestaron que querían cerrar el mes entre todos. Pensó que había entendido mal y llamó a otra persona.
+
+—¿Y qué le dijo?
+
+—Que sí, que había entendido bien.
+
+Rafa apareció con su taza. Saludó a Clara y se colocó detrás de ellas.
+
+—Gema, ¿qué tal con el ogro de la empresa que nos ha comprado?
+
+Gema abrió mucho los ojos e intentó señalar a Clara con disimulo. Clara se volvió hacia ella justo a tiempo de sorprenderla con la mano levantada. Sonrió y después miró a Rafa.
+
+—Todavía no lo sabemos —dijo—. Soy Clara Montes, puedes llamarme ogro.
+
+Rafa miró a Gema y luego su taza.
+
+—Creo que voy a buscar un agujero donde meterme.
+
+—Si encuentras uno grande, avísame —dijo Clara—. Esta mañana no he tenido tiempo de peinarme.
+
+Rafa se pasó una mano por el pelo y se marchó con la taza vacía.
+
+Gema esperó a que doblara la esquina.
+
+—Lo siento.
+
+—No pasa nada. Aunque ahora tengo curiosidad por saber qué más cuentan de mí.
+
+—Puedo preguntarle a Elena. Seguro que ha tomado notas.
+
+Clara sonrió y cogió el segundo café.
+
+—En tu presentación las previsiones estaban redondeadas. La mayoría de los informes que he visto traen decimales hasta para las estimaciones de dentro de tres años.
+
+—Mi tío me enseñó que el exceso de precisión, no es honesto.
+
+Clara probó el café. Gema esperó a que continuara.
+
+—Has dicho que procuras ayudar y no molestar —dijo al fin—. Y mis compañeros han encontrado que tu equipo ha trabajado por un objetivo común incluso cuando podía salir perdiendo. No sé si tú lo llamarías mérito, pero yo quería ver dónde pasaba eso.
+
+—Ellos decidieron hacerlo.
+
+—Sí. Y me gustaría que siguieran pudiendo decidir cosas aquí.
+
+Gema sujetó el vaso por el borde. Estaba demasiado caliente.
+
+—¿Qué va a pasar con los despidos?
+
+—Ya me he encargado de todo eso. Hemos prescindido de Salas y Vidal. La revisión de las cuentas sigue abierta y queda trabajo por hacer, pero no he venido a pedirte una lista de puestos.
+
+Gema soltó el aire y dejó el vaso sobre el estante de la máquina.
+
+—Pensaba que venías a pedírmela.
+
+—Ya. Por eso quería hablar contigo antes de que alguien te lo contara a medias. Durante un tiempo dependerás directamente de mí.
+
+—Entonces eres mi nueva jefa.
+
+—Eso parece. Me aburren las reuniones largas, así que te agradeceré que me avises cuando sean imprescindibles.
+
+—¿Y si hay problemas?
+
+—También. Pero, si puedes, trae alguna idea para resolverlos. Yo haré lo mismo.
+
+Gema cogió el vaso otra vez. Esta vez pudo beber.
+
+—Tus empleados te adoran, tus clientes te adoran, los números hablan claro. Quería ver esto personalmente, no tengo muchas oportunidades de conocer a magos. Bueno, vamos a concretar temas de trabajo. Quiero pedirte la primera tarea. Piensa con calma: ¿qué quieres tú? ¿Un puesto más alto, más responsabilidad, más sueldo? ¿Quieres seguir aquí y cambiar algo de tu trabajo?
+
+Gema la miró.
+
+—¿Así, sin más?
+
+—Cuando hagas tus deberes, ya encontraremos la manera de ponerlo por escrito.
+
+David salió del pasillo con una carpeta en la mano. Al verlas, se acercó a Gema, le dio un beso y dejó la carpeta junto a su café.
+
+—Carlos ha llamado. Dice que Pilar ha encontrado otro error en el programa.
+
+—¿Otro?
+
+—Dice que es el mismo de ayer, que todavía no lo he arreglado.
+
+Clara los miró. David se volvió hacia ella.
+
+—Perdona. Soy David.
+
+—Clara. Acabo de conocer a Gema.
+
+—Es mi nueva jefa —dijo Gema.
+
+David le tendió la mano.
+
+—Encantado.
+
+—Igualmente.
+
+Clara dejó el vaso vacío junto a la máquina y recogió su carpeta.
+
+—Bueno, me marcho. Tengo una comida pendiente y todavía no he decidido qué excusa voy a poner para no ir.
+
+Se despidió de Gema y dio unos pasos hacia la salida. Antes de llegar a la puerta, se volvió.
+
+—Ah, por cierto, David: vete al infierno.
+
+David se quedó mirándola. Clara salió riéndose.
