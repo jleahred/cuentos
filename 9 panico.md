@@ -1,16 +1,28 @@
 ### 9. Pánico
 
-David llamó al hospital a primera hora y preguntó por la doctora Ferrer. Dijo que iba de parte de Enrique.
+David llamó al hospital a primera hora y preguntó por la doctora Ferrer. Le pidieron que esperara y, al cabo de un rato, una voz contestó al teléfono.
+
+—Doctora Ferrer.
+
+—Me llamo David. Enrique me ha dicho que la llame.
 
 —Ah, el ciclista profesional —dijo ella.
 
-Le preguntó si podía ir esa misma mañana.
+Ella le preguntó si podía ir esa misma mañana.
 
 Avisó a Gema de que tenía una consulta médica y no iría hasta después de comer. Ella le contestó enseguida: «No te preocupes por aquí. Que vaya bien». Sacó las carpetas de informes que había guardado y las metió en una bolsa, junto con los discos de las pruebas.
 
 El hospital olía a desinfectante. David esperó en una sala con sillas de plástico y una televisión sin sonido. En la pantalla, un hombre sonreía con un yogur en la mano. David miró hacia otro lado.
 
 La doctora Ferrer era pequeña, rápida y no sonreía. Le preguntó por el soplo, por los despistes, por el desmayo. Escuchó sin interrumpirlo. David sacó las carpetas de la bolsa y las fue colocando sobre la mesa.
+
+La doctora le pidió que girara la cabeza y le apoyó dos dedos en el cuello, del lado derecho.
+
+—¿Cambia el ruido?
+
+—Sí. Se oye menos.
+
+David recordó a Enrique haciendo lo mismo en la taberna. La doctora retiró la mano.
 
 La doctora examinó los informes y abrió las imágenes de una de las pruebas. Volvió a preguntarle por el soplo. Después amplió una zona de la pantalla y se quedó mirándola.
 

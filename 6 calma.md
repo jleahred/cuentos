@@ -122,6 +122,60 @@ Rafa lo cogió antes de que Elena pudiera alargar la mano.
 
 ***
 
+Una tarde, Gema se detuvo junto a la mesa de David con dos tazas en la mano.
+
+—He puesto agua para una infusión y me he pasado. ¿Quieres?
+
+—Sí. Yo... Sí, gracias.
+
+Al apartar unos papeles para hacerle sitio, David empujó el bolígrafo al suelo. Se agachó a recogerlo y se golpeó la cabeza con el borde de la mesa.
+
+—¿Estás bien? —preguntó Gema.
+
+—Sí. Es que la mesa... —Se frotó la cabeza—. No la había visto.
+
+Ella dejó una taza junto al teclado y miró las bandejas.
+
+—Veo que te han enseñado lo importante.
+
+—La azul es mía. La roja, de Elena. El bolígrafo cambia de dueño según donde lo encuentres.
+
+Gema sonrió y apartó una silla con el pie.
+
+—Vas aprendiendo. Yo tardé meses en entender lo del bolígrafo.
+
+Se sentó mientras esperaba una llamada de la nave.
+
+—¿Qué tal el fin de semana? —preguntó.
+
+—Bien. Salí en bici. Con unos... No son amigos, bueno, sí, supongo. Los conocí hace poco.
+
+Gema esperó. David cogió la taza, aunque estaba demasiado caliente, y la volvió a dejar.
+
+—Fuimos a desayunar —continuó—. Uno quería ir a una cafetería que estaba cerrada. No ese día: cerrada del todo.
+
+—A lo mejor quería que pedalearais un poco más antes de comer.
+
+—Los demás decían que llevaba dos años cerrada.
+
+—Entonces llevaba dos años intentándolo.
+
+David se rio. Quiso preguntarle qué había hecho ella el fin de semana, pero al mirarla se le olvidó cómo había pensado decirlo.
+
+—¿Y tú? ¿Saliste...? Quiero decir, ¿qué tal el tuyo?
+
+—Bien. Comí con una amiga y luego no hice nada en toda la tarde.
+
+—Ah. Bien. Eso está... bien.
+
+Gema sonrió. David se llevó la taza a los labios y se quemó un poco la lengua. Ella iba a decir algo más cuando sonó su teléfono. Miró la pantalla y se levantó.
+
+—Luego me cuentas si encontrasteis desayuno.
+
+David la vio volver a su despacho. La infusión se había quedado demasiado tiempo en el agua, pero se la bebió entera.
+
+***
+
 Dos días después, David se atascó con una entrega de Getafe que no aparecía en el listado. Había buscado por fecha, por cliente y por número de albarán, y el sistema seguía devolviendo la tabla vacía.
 
 —Rafa —dijo al fin.
@@ -186,9 +240,11 @@ Una mañana, David llegó a la oficina y encontró a Elena sentada ante el orden
 
 —¿Elena?
 
-Ella levantó la cabeza. Estaba llorando y respiraba deprisa.
+Ella levantó la cabeza. Estaba llorando y respiraba deprisa, a bocanadas cortas. Intentó decir algo, pero tuvo que volver a tomar aire. Se apretó una mano contra el pecho.
 
 —La he cagado, David. La he cagado.
+
+Intentó coger el ratón, pero le temblaba la mano y el cursor se le escapó por la pantalla. Lo soltó y cerró los ojos un momento. Seguía sin conseguir respirar despacio.
 
 Él dejó la mochila y se acercó a su mesa.
 
@@ -212,7 +268,17 @@ Elena le señaló los archivos de origen. David los abrió y encontró dónde se
 
 —Algunas diapositivas dicen lo mismo —dijo David—. Si juntamos estas dos, acabamos antes.
 
-Fueron actualizando los totales uno a uno. David le dictaba los números del papel y Elena los pegaba en los gráficos. Cuando terminaron, repasaron la presentación desde el principio.
+Fueron actualizando los totales uno a uno. David le dictaba los números del papel y Elena los pegaba en los gráficos. Al llegar a las previsiones, él señaló una cifra.
+
+—¿De verdad sabemos que será un siete coma treinta y cuatro por ciento?
+
+—No. Es una estimación.
+
+—Entonces podemos redondearla. Con tantos decimales parece que sabemos más de lo que sabemos.
+
+—A Gema le va a gustar eso —dijo Elena, y cambió las cifras de las previsiones.
+
+Cuando terminaron, repasaron la presentación desde el principio.
 
 —Así se entiende mejor —dijo ella.
 
@@ -244,7 +310,7 @@ David se quedó inmóvil un instante. Cuando ella lo soltó, él dejó el cómic
 
 —No eran solo unos números. Ahora vuelvo.
 
-Elena dejó el portátil en su mesa y se fue al baño.
+Elena se fue al baño.
 
 Rafa esperó a que Elena se alejara.
 
@@ -252,8 +318,4 @@ Rafa esperó a que Elena se alejara.
 
 —¿Sí? ¿Y eso?
 
-—No conoces a Gema.
-
-—¿A ti te ha pasado?
-
-—A mí no. Yo no le discuto. —Rafa se mordió el labio—. Pero por menos ha decapitado a unos cuantos.
+—No conoces a Gema. —Rafa se mordió el labio—. Pero por menos que eso ha decapitado a unos cuantos.

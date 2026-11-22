@@ -80,7 +80,7 @@ David asintió.
 
 —Eso no te tocaba decidirlo a ti.
 
-—Ya lo sé. —Se quedó mirando el bolígrafo—. También tenía miedo yo.
+—Ya lo sé. —Se quedó mirando el bolígrafo—. También tenía miedo.
 
 Gema esperó.
 
@@ -106,13 +106,7 @@ Gema asintió despacio. Él siguió mirando sus manos.
 
 Gema le acarició los dedos con el pulgar. David quiso decirle que ahora era distinto, pero no estaba seguro de qué parte de él había cambiado y cuál había dejado de funcionar.
 
-—Tengo miedo de morirme —dijo—. Y de quedarme peor. Pero también tengo miedo de que todo salga bien y vuelva a ser ese hombre.
-
-—¿Y que vuelvas a pensar lo mismo de mí?
-
-David asintió.
-
-—Sí.
+—Es extraño, no tengo miedo de morirme, di de quedarme con secuelas. Tengo miedo de perderte, o de hacerte triste.
 
 Ella le apretó la mano.
 
@@ -122,17 +116,13 @@ Ella le apretó la mano.
 
 —Yo no estaba antes. Estoy ahora.
 
-—No sé cómo voy a salir de aquí —dijo él—. Pero no quiero volver a tratarte así.
-
 Gema miró las manos de los dos.
-
-—Pues tendremos que esperar para averiguarlo.
 
 Alguien llamó a la puerta. Era una enfermera. David soltó la mano de Gema para coger el bolígrafo. Leyó los papeles despacio y preguntó a la enfermera por algo que no entendía. Ella llamó a Ferrer, que volvió y se lo explicó. Después firmó.
 
 ***
 
-Gema caminó junto a la camilla hasta donde la dejaron pasar. David llevaba una sábana hasta el pecho. Había intentado hacerse un chiste sobre la bata, pero la voz no le había salido como esperaba.
+Gema caminó junto a la camilla hasta donde la dejaron pasar. David llevaba una sábana hasta el pecho. 
 
 —Cuando salgamos de aquí —dijo—, te invito a cenar.
 
@@ -168,7 +158,7 @@ Gema volvió a su silla. Sacó el teléfono y escribió a Elena: «Aún no ha sa
 
 Elena le preguntaba si quería que fuera. Esta vez Gema escribió que sí. Después llamó a su tío. Él le dijo que iba para allá.
 
-Empezó a repasar la última conversación. David había dicho que tenía miedo de volver a ser el de antes. Ella había pensado en las fotos, en las mujeres, en la forma en que él había mirado a la cámara. Ahora le parecía una estupidez. Podía no volver a verlo despierto y ella había estado preocupada por si dejaba de gustarle.
+Empezó a repasar la última conversación. David había dicho que tenía miedo de volver a ser el de antes. Ella había pensado en las fotos, en las mujeres, en la forma en que él había mirado a la cámara. Ahora le parecía una estupidez. Podía no volver a verlo despierto y ella había estado preocupada por si dejaba de gustarle, no era una supermodelo.
 
 Se levantó para ir a buscar agua. Frente a la máquina tardó en encontrar una moneda. Mientras esperaba a que cayera la botella, pensó que, si salía adelante, no iba a pedirle nada. Le daría igual que se marchara, que recuperara su antigua vida, que no quisiera volver a verla. Solo quería que saliera.
 
@@ -266,7 +256,7 @@ Su tío se tomó un momento.
 
 Gema se quedó callada. Pensó en David apartándose de ella aquella noche y en la mano que había buscado la suya en el suelo de la oficina. Había querido preguntarle por qué no le había contado nada. Todavía quería hacerlo.
 
-—Me enfadé con él por callárselo —dijo—. Y después me dijo que estaba enamorado de mí y ya no sabía si tenía derecho a estar enfadada.
+—Me enfadé con él por callárselo —dijo—. Y después me dijo que lo que más desea es estar conmigo y ya no sabía si tenía derecho a estar enfadada.
 
 —Puedes estarlo. Y cuando despierte puedes decírselo.
 
@@ -302,7 +292,7 @@ Gema asintió. Quería preguntarle si creía que iba a despertar, pero Elena no 
 
 ***
 
-Cuando David despertó, había una enfermera junto a él. Le preguntó su nombre y le pidió que moviera las manos. Él obedeció. Tenía la boca seca y quería saber dónde estaba Gema, pero primero pidió agua.
+Cuando David despertó, había una enfermera junto a él. Le preguntó su nombre y le pidió que moviera las manos. Él obedeció. Tenía la boca seca y quería saber dónde estaba Gema, pidió agua.
 
 La enfermera le humedeció los labios y le dijo que la intervención había terminado. Más tarde, Ferrer fue a verlo. Le explicó que habían conseguido cerrar la fístula, pero que había surgido una complicación y tendrían que vigilarlo y hacerle más pruebas. David le preguntó si volvería a pensar como antes.
 

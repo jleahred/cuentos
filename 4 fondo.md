@@ -38,7 +38,7 @@ No era evidente.
 
 Estuvo toda la tarde con aquella flecha. Cuando oscureció, encendió la lámpara y siguió. A las once comprendió el paso. Era elegante y sencillo, y a los dieciséis años lo había visto sin esforzarse lo bastante como para molestarse en escribirlo.
 
-Alguien más listo que él había escrito aquel cuaderno. Y ese alguien era él.
+Alguien más listo que él había escrito aquel cuaderno. Y ese alguien era él cuando era niño.
 
 Lo cerró. Lo metió en la caja con los demás y empujó la caja debajo de la mesa con el pie.
 

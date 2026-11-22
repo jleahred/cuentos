@@ -314,6 +314,8 @@ Dos días después llamó a la empresa y concertó una entrevista.
 
 ***
 
+Aquella mañana se duchó y se afeitó. Hacía tiempo que no se veía la cara sin barba. Se pasó la mano por la barbilla, recogió los pelos del lavabo y salió de casa.
+
 La oficina estaba a quince minutos andando de su casa, junto a una nave con varios muelles de carga. En la fachada había un cartel con el nombre de la empresa de logística. Debajo, en letras más pequeñas, figuraba la dirección de su sede central.
 
 David llegó diez minutos antes de la hora. Una furgoneta acababa de detenerse junto a la nave y dos personas descargaban cajas mientras otra hablaba por teléfono. Un hombre salió deprisa de la oficina con unos papeles en la mano y tuvo que apartarse para dejar pasar una carretilla.
@@ -414,7 +416,7 @@ Gema lo miró un segundo.
 
 —¿Así? ¿Sin más? ¿Y por qué en RRHH van a creerme?
 
-—¿Quién va a inventarse esto? —dijo Gema—. No te van a creer a ti. Me van a creer a mí. Vaya, piensas en todo. Solo haz lo que te he dicho, genio.
+—Vaya, piensas en todo. Solo haz lo que te he dicho.
 
 Una voz la llamó desde el otro extremo de la nave. Gema levantó una mano.
 
@@ -430,9 +432,7 @@ El lunes, Elena lo recibió en la oficina.
 
 —Vine por Enrique. Él me habló del trabajo.
 
-—¿Enrique? No me digas que te ha contado lo del ciclista profesional.
-
-—Sí. ¿Lo conoces?
+—No me digas que te ha contado lo del ciclista profesional.
 
 Elena se rio.
 
@@ -484,14 +484,4 @@ David parpadeó. No había visto la segunda pestaña.
 
 —Yo no me equivoco —dijo Rafa desde su mesa—. Las pongo donde quiero.
 
-David miró la pantalla. Notó que la cabeza le pesaba, como si llevara horas trabajando.
-
-—Oye —dijo mientras volvía a abrir el archivo—. ¿Tú también entraste sin currículum?
-
-—¿Yo? —Rafa levantó la vista—. A mí me preguntó si tenía carné de conducir. Le dije que sí, pero que no tenía coche. Me dijo que mejor, que así no ocupaba sitio en el aparcamiento.
-
-—¿Y ya está?
-
-—Ya está. Llevo cuatro años.
-
-David volvió al albarán. Esta vez encontró el número a la segunda.
+David miró la pantalla. Notó que la cabeza le pesaba, como si llevara horas trabajando. Volvió al albarán. Esta vez encontró el número a la segunda.

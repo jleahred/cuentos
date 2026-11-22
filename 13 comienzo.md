@@ -108,43 +108,14 @@ Elena levantó la vista de su pantalla.
 
 Él lo dijo sin consultar la agenda. Elena lo apuntó y llamó. David volvió a mirar la portada del cómic. Recordaba el número completo, la conversación que había tenido con el transportista y la matrícula de la furgoneta que había venido aquella mañana. También recordaba cuánto tiempo había deseado volver a poder hacerlo.
 
-—Te has equivocado —dijo Elena, tapando el auricular—. Te has comido un número.
-
-David comprobó la agenda de su teléfono.
-
-—Es verdad. Falta un seis después del cuatro.
-
-—Vaya, genio —dijo Rafa.
-
-—Lo tenía en la cabeza.
-
-—Pues ahí no le sirve de mucho —dijo Elena, y volvió a marcar.
-
-David guardó el teléfono y abrió el cómic por la primera página.
 
 ***
-
-El martes lo llamó Beatriz Montes desde la central. Le ofreció dirigir el departamento de análisis de rutas para todo el grupo, en Madrid, con sueldo de director y un equipo propio.
-
-—Tus números de Getafe están bien —dijo Beatriz—. Queremos replicarlo en seis sedes.
-
-—No lo hice solo —dijo David.
-
-—Ya lo sé. Por eso te llamo a ti y no a un consultor. Piénsalo.
 
 Aquella noche, en casa, David abrió el cuaderno del seminario que había salvado en la mudanza. Pasó las hojas hasta la cuarta página, donde había escrito «evidente» al lado de una flecha.
 
 Lo vio al instante. Era un cambio de variable elemental. Sonrió, cerró el cuaderno y lo dejó en la estantería.
 
 Luego cogió el móvil, buscó el número antiguo de Marta entre sus notas y le escribió desde el número nuevo: «Tenías razón. No todo el mundo quiere lo mismo. Estoy bien».
-
-Al día siguiente llamó a Beatriz.
-
-—Puedo ayudar con las seis sedes —dijo—. Pero desde aquí, y si vienen Carlos y Pilar conmigo. No quiero dirigir ningún departamento.
-
-Beatriz tardó dos segundos en contestar.
-
-—Manda a Pilar a mi despacho el lunes, a ver si me convence.
 
 ***
 
@@ -284,7 +255,7 @@ Enrique bebió un poco de vino. David miró hacia la puerta. Todavía faltaban u
 
 Enrique sonrió. David miró el periódico doblado.
 
-—Estoy bien con ellos. No quiero volver a pasarme el día rodeado de gente que solo espera a que el otro se equivoque. Trabajando de forma enfermiza y pisando a todos los compañeros que puedan.
+—Estoy bien con ellos. No quiero volver a pasarme el día rodeado de gente que solo espera a que el otro se equivoque. Trabajando de forma enfermiza y pisando a todos los compañeros para conseguir un estúpido ascenso que no cambia nada sustancial.
 
 —Algunos pueden esperar sentados.
 
@@ -294,7 +265,7 @@ Enrique sonrió. David miró el periódico doblado.
 
 David bebió agua. Durante unos segundos escuchó el ruido de los cubiertos y las voces de las mesas cercanas.
 
-—Quería darte las gracias —dijo—. Por escucharme cuando estaba mal. Por mandarme a ver a Ferrer. Me has salvado la vida.
+—Quería darte las gracias —dijo—. Por escucharme cuando estaba mal. Por mandarme a ver a Ferrer. Me has salvado la vida, dos veces.
 
 Enrique bajó la vista a la copa.
 
@@ -367,8 +338,6 @@ David dejó el vaso sobre la mesa.
 Enrique no contestó. David esperó. Miró la cara del viejo, buscando alguna señal de que estaba bromeando, pero Enrique había bajado los ojos al mantel. David pensó en todo lo que acababa de decirle. Quiso preguntarle si había hecho algo mal.
 
 —Vete al infierno -le dijo Enrique
-
-Entonces se abrió la puerta.
 
 —Perdonad el retraso —dijo Gema al llegar a la mesa.
 

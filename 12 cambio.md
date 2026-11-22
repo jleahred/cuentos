@@ -180,7 +180,7 @@ Gema entró un minuto después con el portátil y una memoria USB.
 
 —Perdone. Estaba preparando la presentación de los resultados.
 
-—No se preocupe. Ya he visto los informes. Tengo un equipo que disfruta revisando números y después me los explica con palabras pequeñas.
+—No se preocupe. Ya he visto los informes. Tengo un equipo de ingenieros que disfruta revisando números y después me los explica con palabras pequeñas.
 
 —Por si necesita consultar algún detalle.
 
@@ -200,7 +200,7 @@ Gema se sentó frente a ella.
 
 Beatriz abrió la carpeta. Dentro llevaba unas hojas con anotaciones a lápiz.
 
-—La empresa en conjunto no iba tan bien como parecía. Dos sedes sostenían buena parte de los resultados, y algunos movimientos entre partidas ayudaban a que el informe general tuviera mejor aspecto. Mis compañeros están revisando cuáles eran ajustes justificados y cuáles no.
+—La empresa en conjunto no iba tan bien como parecía. Dos sedes sostenían buena parte de los resultados, y algunos movimientos entre partidas ayudaban a que el informe general tuviera mejor aspecto. Mis ingenieros están revisando cuáles eran ajustes justificados y cuáles no.
 
 Gema miró las hojas, pero Beatriz no se las acercó.
 
@@ -216,25 +216,33 @@ Gema se quedó quieta. Notó un frío rápido en el estómago. Pensó en David, 
 
 —¿Por mí? —preguntó, procurando que no le temblara la voz.
 
-—Decían que eras muy blandita con la gente. Que no apretabas lo suficiente. Y de David dijeron que había sido poco amable con ellos.
+—Decían que eras muy blandita con la gente. Que no apretabas lo suficiente. Y de David dijeron que era indisciplinado.
 
-Gema miró la carpeta cerrada sobre la mesa. Empezó a calcular cuánto tardaría en encontrar otra cosa si la echaban esa semana, y cómo se lo diría a su equipo.
+Gema miró la carpeta cerrada sobre la mesa. Empezó pensar cómo se lo diría a su equipo.
 
 Hubo un silencio largo.
 
+Gema preguntó.
+
+—¿Cuándo ocurrirá? Despidanme a mi, yo soy la responsable, sin ellos esto no funcionaría.
+
 Beatriz dejó pasar unos segundos antes de cerrar la libreta de anotaciones.
 
-—Les dije que se fueran al infierno.
+—Ah, no te lo he dicho, se se han ejecutado los despidos, me encargué personalmente esta mañana.
+
+—¿Cómo? ¿Eso significa que...?
+
+—He despedido a Salva y su financiero. Les dije que se fueran al infierno.
 
 Gema levantó la vista de golpe.
 
 —¿Cómo?
 
-—Aunque lo de David fue más directo —continuó Beatriz, sonriendo apenas—. Yo estaba en el despacho de Salas con el altavoz puesto cuando le llamó el viernes. Me estaban enseñando lo bien que funcionaba la empresa. Me quedé callada, escuchando, a ver qué contestaba él cuando le ofrecieron un puesto por encima de ti.
+—Yo estaba en el despacho de Salas con el altavoz puesto cuando le llamó el viernes. Me estaban enseñando lo bien que funcionaba la empresa. Tenía mucha curiosidad de cómo discurriría el "asunto". La cosa mejoró cuando le ofrecieron un puesto por encima de ti.
 
 —¿Estabas en esa llamada?
 
-—Sentada delante del teléfono. Y también estuve en la cena de Navidad, un par de sillas más allá de Vidal. No dije casi nada, pero vi cómo te apretaban con los números, cómo no te defendiste tú sino a tu gente, y cómo salió David a pelear con las cifras por ti.
+—En primera fila, sólo me faltaban las palomitas. Que buen rato. Y también estuve en la cena de Navidad, un par de sillas más allá de Vidal. Fue menos animada, pero no estuvo mal. Vi cómo te apretaban con los números, cómo no te defendiste tú sino a tu gente, y cómo salió David a pelear con las cifras por ti.
 
 Gema soltó el aire de golpe y se le escapó una risa.
 
@@ -254,7 +262,7 @@ Gema soltó el aire de golpe y se le escapó una risa.
 
 —Me has hablado de todos ellos.
 
-—Yo intenté que tuvieran lo que necesitaban. A veces bastaba con no estorbarles.
+—Yo intenté que tuvieran lo que necesitaban.
 
 Beatriz cerró la carpeta.
 
@@ -320,7 +328,7 @@ Beatriz sonrió y cogió el segundo café.
 
 Beatriz probó el café. Gema esperó a que continuara.
 
-—Has dicho que procuras ayudar y no molestar —dijo al fin—. Y mis compañeros han encontrado que tu equipo ha trabajado por un objetivo común incluso cuando podía salir perdiendo. No sé si tú lo llamarías mérito, pero yo quería ver dónde pasaba eso.
+—Mis compañeros han encontrado que tu equipo ha trabajado por un objetivo común incluso cuando podía salir perdiendo. No sé si tú lo llamarías mérito, pero yo quería ver por qué pasaba eso.
 
 —Ellos decidieron hacerlo.
 
@@ -328,25 +336,7 @@ Beatriz probó el café. Gema esperó a que continuara.
 
 Gema sujetó el vaso por el borde. Estaba demasiado caliente.
 
-—¿Qué va a pasar con los despidos?
-
-Beatriz la miró con la misma calma de antes.
-
-—Habrá despidos.
-
-Gema notó que se le cerraba el estómago. Dejó el vaso sobre el estante de la máquina para no volcarlo.
-
-—Si hace falta recortar —dijo despacio—, prescinde de mí. Pero no toques a mi gente. Sin ellos esto no sale.
-
-Beatriz no contestó enseguida. La miró unos segundos, sin cambiar el gesto.
-
-—Los despidos ya se han ejecutado —dijo al fin—. Hemos prescindido de Salas y de Vidal.
-
-Gema tardó un segundo en entenderlo. Soltó el aire poco a poco.
-
-—Pensaba que venías a pedirme una lista.
-
-—Ya. Por eso quería hablar contigo antes de que alguien te lo contara a medias. Quería conocer de cerca a mi nuevo talento. Hay un vacío arriba y durante un tiempo dependerás directamente de mí.
+—Quería conocer de cerca a mi nuevo talento. Como te he comentado, durante un tiempo habrá un vacío arriba y dependerás directamente de mí.
 
 —Entonces eres mi nueva jefa.
 
@@ -364,13 +354,13 @@ Gema cogió el vaso otra vez. Esta vez pudo beber.
 
 —Dime.
 
-—¿Qué quieres? ¿Qué necesitas? ¿Un puesto más alto, más responsabilidad, más sueldo, cambiar algo de aquí?
+—¿Qué quieres? ¿Qué necesitas? ¿Un puesto más alto?, ¿más responsabilidad?, ¿más sueldo?, ¿cambiar algo de aquí?
 
 Gema la miró.
 
 —¿Así, sin más?
 
-—Cuando hagas tus deberes, ya encontraremos la manera de ponerlo por escrito.
+—Cuando hagas tus deberes, ya encontraremos la manera de ponerlo por escrito. Me va bien, porque cuando encuentro un talento, no lo dejo escapar fácilmente.
 
 David salió del pasillo con una carpeta en la mano. Al verlas, se acercó a Gema, le dio un beso y dejó la carpeta junto a su café.
 

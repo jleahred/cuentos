@@ -274,7 +274,7 @@ Tenía ganas de sentarse, pero también de terminar cuanto antes.
 
 —¿Y los puestos que queríais recortar?
 
-—Hemos alcanzado el objetivo. Por ahora no hará falta tomar ninguna medida.
+—Ya analizaremos eso en otro momento, a su tiempo.
 
 —Han alcanzado el objetivo porque llevan días trabajando sin parar.
 
@@ -364,7 +364,7 @@ Las palabras salían despacio. David tuvo que detenerse para respirar.
 
 Gema le apartó el pelo de la frente. Él cerró los ojos un momento y volvió a abrirlos.
 
-—Estoy enamorado de ti.
+—Quiero estar siempre a tu lado.
 
 Ella se quedó mirándolo. Después se inclinó y apoyó la frente junto a la suya, sin soltarle la mano.
 

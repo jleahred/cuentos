@@ -232,7 +232,7 @@ David se rio. Luego dejó de reírse.
 
 David la miró.
 
-—Además, cuando Enrique me dio tu nombre no me dijo nada más —añadió Gema—. Sabía que valías. No sé cómo. Lo sabía. Y si no, mi gente habría sacado lo mejor de ti.
+—Además, sabía que valías —añadió Gema—. No sé cómo. Lo sabía. Y si no, mi gente habría sacado lo mejor de ti.
 
 —No pareces tan ogro.
 
@@ -274,7 +274,7 @@ Siguieron andando. David se metió las manos en los bolsillos. El traje era buen
 
 —Pero ¿cómo las sabe?
 
-—Pregúntaselo. A lo mejor no sabe explicártelo.
+—Pregúntaselo. Pero no creo que pueda explicártelo, no todo tiene una explicación lógica.
 
 David miró las luces de la calle. Luego miró a Gema.
 
@@ -284,7 +284,7 @@ David miró las luces de la calle. Luego miró a Gema.
 
 —¿Otra vez?
 
-—Nunca me había pasado que alguien contara conmigo así.
+—Nunca me había pasado que alguien me manipulara así.
 
 —Eso crees, genio.
 

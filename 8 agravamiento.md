@@ -124,37 +124,45 @@ Siguió. Elena, desde su mesa, levantó una ceja. David miró la pantalla. Escri
 
 ***
 
-Enrique le había dicho una vez que los jueves comía en una taberna del barrio y que se quedaba hasta tarde. David salió de la oficina a las cinco y lo encontró todavía en la mesa, con la sobremesa alargándose. El resto de los días solía comer en casa. La taberna tenía manteles de cuadros y un televisor pequeño sin sonido. El dueño lo saludó por su nombre. El camarero le llamó doctor. David no le dio importancia.
+Al salir de la oficina, David entró en una taberna del barrio. Se sentó solo, junto a la ventana, y pidió un agua. En la televisión, sin sonido, un hombre hablaba delante de un edificio. David miró el teléfono. Seguía sin haberle escrito a Gema.
 
-Enrique estaba en su mesa, con el periódico y una copa de vino.
+Guardó el móvil y volvió a sacarlo. El soplo seguía ahí. Quiso recordar qué había hecho aquella mañana, pero las horas de la oficina se le mezclaban. Dejó el teléfono sobre la mesa y se apretó los ojos con los dedos.
 
-—Vaya —dijo—. Temo que has venido a fastidiarme la sobremesa.
+—Vaya cara —dijo alguien.
 
-—Necesito hablar con alguien.
+Era Enrique, con el periódico bajo el brazo. David no lo había visto entrar.
 
-—Eso dice todo el mundo antes de fastidiarme la sobremesa.
+—¿Puedo sentarme o estás esperando a alguien?
 
-David se sentó. El camarero se acercó.
+—No espero a nadie.
+
+Enrique se sentó frente a él. El camarero se acercó.
 
 —¿Lo de siempre, doctor?
 
 —Lo de siempre.
 
-—¿Un café para el joven?
-
-—Un agua —dijo David.
-
-David miró a Enrique.
+David levantó la vista.
 
 —¿Doctor?
 
 —Cosas del barrio.
 
-El camarero trajo un café para Enrique y un agua para David. Enrique dio un sorbo al vino que tenía delante.
+El camarero trajo un café y una copa de vino. Enrique esperó a que se marchara.
 
-—Bueno. Cuéntamelo.
+—¿Qué te pasa?
 
-—Fui un niño prodigio —dijo David—. Acabé la carrera antes que los demás. Gané mucho dinero. Tuve novias guapísimas. Y ahora no sé lo que hago delante de una nevera. Esta mañana me he quedado mirando una pantalla hasta que se ha apagado. No sé cuánto tiempo. No había hecho nada.
+David miró el vaso. Llevaba todo el día intentando pensar en otra cosa. Abrió la boca para decir que nada, pero no le salió.
+
+—Fui un niño prodigio —dijo David—. Acabé la carrera antes que los demás. Monté una empresa, gané mucho dinero. Todo me resultaba fácil.
+
+Cogió el vaso, pero no bebió.
+
+—Luego empecé a equivocarme. Se me olvidaban cosas, tardaba cada vez más en entender lo que leía. Un día me desmayé. Fui a médicos, dejé el trabajo... y seguí empeorando. Llegué a no saber qué hacía delante de la nevera. —Se pasó una mano por la cara—. Me estoy haciendo tonto, Enrique.
+
+Enrique no dijo nada. David bebió un poco de agua.
+
+—Y ahora esto. Esta mañana me he quedado mirando una pantalla hasta que se ha apagado. No sé cuánto tiempo. No había hecho nada.
 
 —¿En qué pensabas?
 
@@ -169,6 +177,8 @@ El camarero trajo un café para Enrique y un agua para David. Enrique dio un sor
 —Yo hablé demasiado, como siempre. Pero después salimos a la calle y nos fuimos andando. Es divertida. Me gusta verla reír.
 
 Enrique dejó la copa sobre la mesa.
+
+—Y el otro día vino a mi mesa con una infusión. No sabía qué decirle, tiré un bolígrafo y me di un golpe al recogerlo. Me atasco hablando con ella. Antes tampoco me pasaba eso.
 
 —¿De qué hablasteis?
 
@@ -192,17 +202,17 @@ David tardó un momento en responder.
 
 —Aunque tenía cosas que hacer. Hasta que me di cuenta de que había pasado un buen rato y no sabía cuánto. Antes no me ocurría.
 
-—Eso no es el principio —dijo Enrique.
+—¿Y todo eso de antes? Los olvidos, el desmayo. ¿Empezó antes de conocerla?
 
-—¿No?
+—Mucho antes.
 
-—No. El principio es que tienes miedo.
+—Entonces no lo metamos todo en el mismo saco.
 
 David lo miró.
 
-—No he dicho que tenga miedo.
+—¿Y lo de la pantalla?
 
-—No hacía falta.
+—Ahora llegaremos a eso. Primero quiero preguntarte por el soplo.
 
 Enrique se inclinó hacia delante.
 
@@ -304,16 +314,6 @@ David miró el nombre en la servilleta.
 
 —Para lo que tú tienes, es la mejor. Lleva todos los informes y las pruebas que tengas. Todos.
 
-David miró al viejo.
-
-—¿Y si no me cree?
-
-—Te creerá.
-
-—¿Quién eres?
-
-—Un viejo que monta en bici.
-
 David dejó la servilleta en la mesa.
 
 —¿Y la segunda cosa?
@@ -392,7 +392,7 @@ Enrique terminó el café.
 
 —Sí. El batir de las alas de una mariposa en el Amazonas puede provocar un huracán en Nueva York. Hice un programa que pintaba los atractores de Lorenz en tres dimensiones. Podía navegar por ellos.
 
-—¿Y qué pasaba cuando cambiabas un poco los datos de entrada?
+—Lo del huracán no es cierto, es una tontería y una explicación muy común. ¿Qué pasaba cuando cambiabas un poco los datos de entrada?
 
 —Al principio, casi nada. Las trayectorias iban juntas. Pero después se separaban.
 
@@ -400,7 +400,7 @@ Enrique terminó el café.
 
 David asintió. Cogió el bolígrafo de Enrique y dibujó dos líneas en el dorso de la servilleta, detrás del nombre. Al principio iban juntas; después se alejaban.
 
-—Si no conoces las condiciones iniciales con suficiente precisión, el error crece. No dice que una mariposa cause huracanes; dice que no puedes predecirlos. Puedes conocer las reglas y aun así no saber dónde estarás después de un tiempo.
+—Si no conoces las condiciones iniciales con suficiente precisión, el error crece. No dice que una mariposa cause huracanes; dice que no puedes predecirlos. Puedes conocer las reglas y aun así no saber dónde estarás después de un tiempo. Y en algunos sistemas es imposible conocer con suficiente precisión las condiciones iniciales, lo que los hace impredecibles.
 
 —Exacto.
 
@@ -414,7 +414,23 @@ David dejó el bolígrafo. Miró las líneas que había dibujado.
 
 —Sin la lógica no habría medicina. Ni aviones. Ni nada.
 
-—Claro. Y sin intuición no habría médicos que supieran cuándo parar. Ni aviones que aterrizaran con niebla. Hay cosas que se pueden enseñar y otras que no caben en un libro. Los buenos médicos saben cosas que no siempre saben explicar. Los buenos jefes también. Y las personas que saben querer.
+—¿Te gusta alguna canción?
+
+—Sí.
+
+—¿Por qué?
+
+David abrió la boca y volvió a cerrarla.
+
+—No sé. Me gusta cómo suena.
+
+—Podrías estudiar música durante treinta años, aprender armonía, composición, todo lo que cabe en los libros. ¿Eso te permitiría componer una sinfonía como Beethoven?
+
+—No necesariamente.
+
+—Y podrías entender cada nota de una canción sin saber explicar por qué te gusta. Estudiar sirve, claro que sirve. Pero hay cosas que no se agotan en la explicación.
+
+—Sin intuición no habría médicos que supieran cuándo parar. Ni aviones que aterrizaran con niebla. Hay cosas que se pueden enseñar y otras que no caben en un libro. Los buenos médicos saben cosas que no siempre saben explicar. Los buenos jefes también. Y las personas que saben querer.
 
 —¿Las personas que saben querer?
 
@@ -432,7 +448,7 @@ David levantó la cabeza.
 
 David miró las dos líneas que había dibujado.
 
-—Gema sabe dirigir —dijo Enrique—. En el colegio te enseñan a sumar. En la universidad, a optimizar. En ningún sitio te enseñan a leer a un hombre.
+—Gema sabe dirigir —dijo Enrique—. En el colegio te enseñan a sumar. En la universidad, a optimizar. En ningún sitio te enseñan a leer a una persona.
 
 —Hay libros de gestión.
 
@@ -520,7 +536,7 @@ David lo miró. Enrique sonrió.
 
 Enrique se levantó y pagó.
 
-—Bueno. Gracias por amargarme la sobremesa. Ve a ver a la doctora. Haz lo que te diga. Ponte en sus manos y no le discutas.
+—Bueno. Ve a ver a la doctora. Haz lo que te diga. Ponte en sus manos y no le discutas.
 
 —No le discutiré.
 
