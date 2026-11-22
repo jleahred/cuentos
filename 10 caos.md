@@ -154,7 +154,7 @@ Carlos miró el reloj.
 
 —Mientras no me borres nada.
 
-David hizo una copia y empezó a escribir. Preparó un programa que reunía pedidos, direcciones, horarios y capacidad de los vehículos. Después lo hizo buscar combinaciones de entregas que pudieran compartir ruta.
+David hizo una copia y empezó a escribir. No era nada sofisticado: una hoja ordenada y un guion sencillo para cruzar códigos postales, horarios y capacidad de los vehículos. Lo difícil no era el cálculo, sino pasar a limpio los cientos de líneas sueltas de la libreta, la carpeta verde y los tres archivos.
 
 La primera propuesta parecía buena hasta que Carlos la vio.
 
@@ -174,7 +174,7 @@ Esta vez aparecieron cuatro rutas nuevas. Carlos las revisó una por una, con el
 
 —Se lo diré a Gema.
 
-Cuando Carlos se fue, David siguió trabajando. Fuera, la nave quedó en silencio y las luces de los muelles se apagaron. Él pasó los datos del día siguiente a un programa sencillo que había montado a base de parches. En condiciones normales lo habría terminado en una hora; ahora tardó el triple, se equivocó en una condición por puro agotamiento y tuvo que repetir la carga. Le escocían los ojos y el soplo no dejaba de golpearle el oído, pero la tabla le daba algo concreto a lo que agarrarse: los pedidos, los tiempos, las furgonetas que podían cruzarse sin detenerse.
+Cuando Carlos se fue, David siguió trabajando. Fuera, la nave quedó en silencio y las luces de los muelles se apagaron. Pasó el resto de la noche metiendo a mano los pedidos del día siguiente, uno por uno, comprobando direcciones duplicadas y tachando errores en el papel. No hacía nada brillante; solo no se levantaba de la silla. Le escocían los ojos y el soplo no dejaba de golpearle el oído, pero cada pedido cuadrado era uno menos para la mañana.
 
 Cuando levantó la vista, era de madrugada. En la pantalla había seis rutas provisionales; en su cuaderno, una lista de preguntas para Carlos y los conductores. Se acordó de lo que había dicho la doctora. Cerró los ojos un momento. Después dejó el programa preparado y llamó a un taxi.
 
