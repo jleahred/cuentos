@@ -152,23 +152,19 @@ David apartó los platos y Gema le ayudó a recoger. Al dejar la tabla en la coc
 
 —¿Dónde había ido?
 
-—A unas charlas de medicina. Lo invitan de vez en cuando, aunque esté jubilado.
+—A unas charlas de medicina. Es médico. Se ha jubilado, pero todavía lo invitan.
 
-—No sabía que era médico.
+—Debe de ser muy bueno en lo suyo.
 
-—Durante muchos años. Y muy bueno.
+—Lo es. Y no solo en eso. Es una de las personas más sabias que conozco.
 
-—Una eminencia, entonces.
+—¿Es hermano de tu padre o de tu madre?
 
-—Más que inteligente, es sabio.
+—De ninguno. Él y su mujer eran amigos de mis padres. Los perdí a los dos y ellos siempre estuvieron ahí para mí. Es mi padrino, pero yo le digo tío desde pequeña.
 
-David sonrió.
+—¿Y su mujer?
 
-—Eso me lo han dicho de otra persona.
-
-—¿Sí?
-
-—Un viejo que conozco. Aunque él lo dice de todo el mundo menos de sí mismo.
+—Murió hace años. La echo mucho de menos.
 
 Gema cogió la tabla y pasó el cuchillo por encima para reunir las migas.
 
@@ -190,17 +186,13 @@ David la miró.
 
 —A las nueve. No llegues tarde.
 
-Le dio el nombre de un restaurante. Era el mismo donde Enrique solía alargar las sobremesas. David se lo dijo.
+Le dio el nombre de un restaurante que David no conocía.
 
-—A mi tío también le gusta —respondió ella—. Me ha pedido que llegue un poco antes. Quiere enseñarme algo, pero no me ha dicho qué.
+—Mi tío vendrá conmigo —dijo Gema—. Si llegas antes, pídenos mesa.
 
-—¿Y por qué yo tengo que ir a las nueve?
+—¿A nombre de quién?
 
-—Porque dice que, si no, te aburrirás esperando.
-
-—Qué considerado.
-
-—Ya lo verás.
+—De Gema. Creo que todavía me acuerdo.
 
 ***
 
@@ -214,7 +206,7 @@ Enrique levantó la cabeza.
 
 —He quedado a cenar. ¿Ya has vuelto?
 
-—Ayer. He venido a ver a mi ahijada, pero me acaba de escribir que llegará un poco más tarde. Siéntate.
+—Ayer. He quedado para cenar, pero todavía falta un rato. Siéntate.
 
 David dejó la chaqueta en el respaldo y se sentó frente a él.
 
@@ -298,7 +290,7 @@ Enrique bajó la vista a la copa.
 
 David sonrió. Enrique dejó la copa y miró el teléfono.
 
-—Mi ahijada tiene novio, ¿sabes?
+—Me han dicho que mi ahijada tiene novio, ¿sabes?
 
 —¿Ah, sí?
 
