@@ -24,6 +24,8 @@ David examinó el informe.
 
 —También puede ser vascular. Pero no es preocupante.
 
+—Me da igual el oído. Lo que me preocupa es la cabeza.
+
 David dejó el informe sobre la mesa.
 
 —Llevo meses perdiendo facultades. Antes resolvía problemas matemáticos complejos mentalmente. Ahora necesito papel, calculadora y mucho más tiempo. Mi memoria ha empeorado y me cuesta seguir razonamientos que antes me parecían elementales.
@@ -106,7 +108,7 @@ El presidente suspiró.
 
 ***
 
-Recursos Humanos le confirmó que la empresa dejaba de pagar el alquiler. Podía quedarse unos meses más, pagándolo él. David aceptó sin buscar otra; ya se ocuparía de eso.
+Recursos Humanos le confirmó que la empresa dejaba de pagar el alquiler. Podía quedarse en la casa si lo pagaba él. David aceptó sin preguntar cuánto era; ya se ocuparía de eso.
 
 ***
 
@@ -124,47 +126,25 @@ Seguía siendo capaz.
 
 Pero al día siguiente fue incapaz de recordar parte del razonamiento.
 
-Empezó a dormir mal. El soplo del oído se hizo más presente por la noche, cuando no había nada más que escuchar.
-
-Dejó de salir con la bicicleta. Después abandonó el gimnasio. Pasaba las mañanas en la cama y las tardes frente al ordenador, buscando información sobre enfermedades neurológicas.
-
-Su alimentación también empeoró. Dejó de preocuparse por las calorías y los nutrientes. Pedía comida a domicilio y comía cuando tenía hambre, a veces una sola vez al día.
-
-Estuvo tentado de recurrir al café y al alcohol. Los probó y le supieron mal —nunca los había tomado—, así que no insistió.
-
-El jardín comenzó a parecerle un lugar extraño. Durante semanas no salió de casa salvo para acudir a alguna consulta médica.
-
 ***
 
-Clara llamó al timbre un martes por la mañana.
+Clara llamó al timbre de la verja un martes por la mañana.
 
-David la vio por la mirilla. Llevaba una carpeta bajo el brazo y el abrigo puesto.
+David la vio en la pantalla del portero automático. Llevaba una carpeta bajo el brazo y el abrigo puesto.
 
 Llamó otra vez.
 
 David se quedó quieto.
 
-Al cabo de un rato oyó sus pasos alejándose por el rellano. Después volvió el silencio de la casa.
+Al cabo de un rato la vio alejarse por la acera. Después volvió el silencio de la casa.
 
-Cuando abrió la puerta, encontró la carpeta en el felpudo. La dejó sobre la mesa del recibidor sin abrirla.
-
-***
-
-Una tarde apareció el nombre de Marta en la pantalla. David dejó que sonara. Al poco recibió un mensaje.
-
-«He visto que hoy hace sol en Madrid. Puedes salir al jardín; creo que sigue detrás de la casa».
-
-David sonrió. Escribió «No tengo jardín» y lo borró. Después escribió «Estoy bien».
-
-Marta respondió enseguida: «No te he preguntado».
-
-David dejó el teléfono sobre la mesa. Al cabo de un rato volvió a cogerlo, pero no escribió nada más.
+Por la tarde encontró la carpeta en el buzón. La dejó sobre la mesa del recibidor sin abrirla.
 
 ***
 
 El primer neurólogo le dedicó casi dos horas.
 
-Revisó sus antecedentes, estudió las pruebas realizadas y le sometió a una exploración neurológica completa.
+Revisó sus antecedentes, estudió las pruebas realizadas y le sometió a una exploración neurológica completa. David le habló de la memoria, de la concentración, de los problemas que ya no sabía resolver. No mencionó el soplo. Era un ruido. No tenía nada que ver con pensar.
 
 Después solicitó una evaluación neuropsicológica.
 
@@ -224,7 +204,7 @@ David consultó a otros especialistas en Madrid y después viajó a Barcelona. U
 
 Ninguno encontró una explicación que lo convenciera. Siguió buscando: viajó a Londres, después a Zúrich y finalmente a Estados Unidos. Pidió cita con neurólogos de prestigio y especialistas en trastornos cognitivos poco frecuentes.
 
-Pagó consultas privadas, vuelos y hoteles. Se sometió a resonancias, análisis y nuevas evaluaciones. Cada viaje terminaba con otra carpeta de informes.
+Pagó consultas privadas, vuelos y hoteles. Se sometió a resonancias, análisis y nuevas evaluaciones. En cada consulta habló de memoria, de atención, de razonamiento. En ninguna habló del soplo. Cada viaje terminaba con otra carpeta de informes.
 
 Los resultados eran similares. No aparecía ninguna lesión evidente ni una causa concluyente que explicara sus síntomas.
 
@@ -233,14 +213,6 @@ Algunos especialistas reconocían pequeñas alteraciones en determinadas pruebas
 Todos coincidían en algo: seguía teniendo una capacidad intelectual superior a la media.
 
 David guardó los informes en la carpeta sin volver a mirarlos.
-
-***
-
-Los meses pasaron.
-
-David dejó de viajar por placer y evitaba las reuniones sociales.
-
-Había perdido interés por casi todo.
 
 ***
 
@@ -334,10 +306,4 @@ El asesor esperó a que levantara la vista.
 
 —Claro.
 
-***
-
-Había pasado un año y medio desde el desmayo.
-
-David buscó un piso en un barrio donde no hubiera nadie de su vida anterior. Encontró uno pequeño, luminoso y recién reformado, a diez minutos andando de una estación de metro. Firmó sin preguntar el precio.
-
-Hizo la mudanza un martes por la mañana. Llovía.
+El asesor no lo dijo con ironía. Eso fue lo peor.

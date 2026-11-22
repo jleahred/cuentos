@@ -1,4 +1,4 @@
-### 10. Inaplazable
+### 11. Inaplazable
 
 En la ambulancia le hicieron preguntas. Su nombre, su edad, qué día era. David sabía las respuestas, pero algunas tardaban en salir. Gema iba sentada a su lado, sujetándole la mano sin apretarla.
 

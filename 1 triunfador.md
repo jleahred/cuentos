@@ -2,6 +2,36 @@
 
 ### 1. Triunfador
 
+Lindqvist dejó el bolígrafo sobre el mantel sin firmar.
+
+—Tres millones. Es nuestra última oferta.
+
+David no miró el contrato. Se lo sabía de memoria desde la tarde anterior, incluida la cláusula catorce, que los abogados de Lindqvist habían reescrito tres veces para que pareciera otra cosa.
+
+—Su última oferta fue hace cuarenta minutos —dijo—. Esta es la penúltima.
+
+A su lado, Marta tomaba notas que él no necesitaba.
+
+—La cláusula catorce les permite rescindir a los seis meses sin penalización y quedarse con el desarrollo —continuó David—. Con esa cláusula, tres millones es un regalo. Sin ella, tres y medio es un precio justo.
+
+Lindqvist miró a su abogado. El abogado miró la cláusula.
+
+—Es una cláusula estándar.
+
+—En contratos de mantenimiento. Este no lo es.
+
+David dobló la servilleta y la dejó junto al plato.
+
+—Ha sido una cena excelente.
+
+Apartó la silla. Marta cerró la carpeta un segundo después, lo justo para que pareciera que no lo esperaba.
+
+—Tres y medio —dijo Lindqvist—. Sin la catorce.
+
+David volvió a acercar la silla y le tendió su propio bolígrafo.
+
+***
+
 —Éxito rotundo —dijo Marta.
 
 David sonrió mientras esperaban el coche.
@@ -162,15 +192,7 @@ Marta se rio.
 
 Marta sonrió.
 
-—¿Y tu deportivo? Te pasaste semanas eligiéndolo y apenas lo utilizas.
-
-—Lo utilizo cuando tengo ocasión.
-
-—Y después te pasas semanas quejándote de los badenes.
-
-—Y con razón.
-
-—Y esa bicicleta que cuesta más que mi coche.
+—¿Y esa bicicleta que cuesta más que mi coche.
 
 —Me gusta salir solo. Elijo la ruta, marco mi ritmo...
 
@@ -214,27 +236,11 @@ Marta sonrió.
 
 —Depende de los incentivos.
 
-—Pobrecito. No sé cómo llegas a fin de mes.
-
-—Hago lo que puedo.
-
 —¿Y qué vas a hacer con tanto dinero? ¿Comprarte otra bicicleta?
 
 —No sería mala idea.
 
 —Idiota.
-
-—Ten cuidado. Estás hablando con tu jefe.
-
-—Mi jefe es un idiota.
-
-—Un idiota que te paga muy bien.
-
-—Eso es verdad.
-
-—Y que te soporta todos los días.
-
-—Eso también.
 
 Llegó el coche. El chófer les abrió la puerta y ambos se acomodaron en el asiento trasero.
 
