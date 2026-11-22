@@ -1,6 +1,26 @@
-### 10. Cambio
+### 11. Cambio
 
-A David le habían dado el alta hacía dos semanas. El lunes había vuelto a la oficina con una carpeta de informes, la promesa de no cargar cajas y una discusión pendiente con Gema sobre lo que significaba «tomárselo con calma».
+Durante las semanas siguientes al alta, David fue recuperando fuerzas. Gema siguió visitándolo y un día retomaron la conversación que habían dejado pendiente junto a las tazas.
+
+Él le habló de su antiguo trabajo, del dinero y de la facilidad con que había apartado a quienes no le interesaban. Ella le contó que había mirado aquellas fotografías más veces de las que quería admitir. También le dijo que seguía enfadada por todo lo que él le había ocultado.
+
+—Tenías razón —dijo David.
+
+—No he dicho que tuviera razón.
+
+—Ya. Pero la tenías.
+
+Gema le dio un sorbo a la infusión.
+
+—No te acostumbres a resolverlo así.
+
+—¿Dándote la razón?
+
+—Pensando que con eso ya hemos terminado de hablar.
+
+Otro día salieron a dar un paseo corto. A David le pareció demasiado corto y a Gema le pareció suficiente. Discutieron hasta el portal, donde él la besó antes de que pudiera decirle que subiera a descansar. Ella le devolvió el beso y después se lo dijo.
+
+El lunes que volvió a la oficina llevaba una carpeta de informes, la promesa de no cargar cajas y una discusión pendiente con Gema sobre lo que significaba «tomárselo con calma».
 
 —Contestar correos no cuenta —dijo él.
 
@@ -186,7 +206,7 @@ Clara cerró la carpeta.
 
 ***
 
-La máquina tardó en aceptar la moneda de Gema. Clara esperaba a su lado con dos vasos vacíos.
+Gema puso un vaso bajo la máquina y pulsó el botón. Clara esperaba a su lado con otro vaso vacío.
 
 —Mis compañeros encontraron algo que no entendían —dijo—. Cuatro personas de tu equipo siguieron cerrando operaciones después de alcanzar sus objetivos individuales. Parte de ese trabajo podía haber pasado al siguiente periodo, pero lo cerraron entonces.
 
@@ -246,7 +266,7 @@ Clara sonrió y cogió el segundo café.
 
 Clara probó el café. Gema esperó a que continuara.
 
-—Has dicho que procuras ayudar y no molestar —dijo al fin—. Y ahora me cuentas que tu equipo ha trabajado por un objetivo común incluso cuando podía salir perdiendo. No sé si tú lo llamarías mérito, pero yo quería ver dónde pasaba eso.
+—Has dicho que procuras ayudar y no molestar —dijo al fin—. Y mis compañeros han encontrado que tu equipo ha trabajado por un objetivo común incluso cuando podía salir perdiendo. No sé si tú lo llamarías mérito, pero yo quería ver dónde pasaba eso.
 
 —Ellos decidieron hacerlo.
 
