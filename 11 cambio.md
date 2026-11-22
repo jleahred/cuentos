@@ -26,7 +26,15 @@ David miró la fotografía otra vez.
 
 —Lo siento. No lo sabía.
 
-—Nunca te lo había contado. Mi tío y su mujer se hicieron cargo de mí. Ella también murió hace unos años.
+—Nunca te lo había contado. Mi tío y su mujer eran amigos suyos. Se hicieron cargo de mí.
+
+—¿No es tu tío?
+
+—No de verdad. Pero siempre lo he llamado así.
+
+Gema volvió a mirar la foto.
+
+—Ella también murió hace unos años.
 
 Gema amplió la imagen. La niña tenía una rodilla pelada y una sonrisa enorme.
 
