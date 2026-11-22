@@ -1,4 +1,4 @@
-### 12. Comienzo
+### 13. Comienzo
 
 Elena llevaba un rato mirando la pantalla cuando David se acercó a su mesa.
 
@@ -70,7 +70,7 @@ David miró la portada.
 
 —No puede ser. Lo compré la semana pasada.
 
-—Te lo presté yo el jueves.
+—Ese es mío. Te lo presté el jueves.
 
 Rafa lo abrió. En la primera página estaba escrito el nombre de David, con una pequeña mancha de tinta al lado.
 
@@ -78,7 +78,7 @@ Rafa lo abrió. En la primera página estaba escrito el nombre de David, con una
 
 Gema pasó por allí con una carpeta y se detuvo junto a la mesa.
 
-—¿Has pensado lo de Clara? —le preguntó David.
+—¿Has pensado lo de Beatriz? —le preguntó David.
 
 —Un poco.
 
@@ -124,7 +124,31 @@ David guardó el teléfono y abrió el cómic por la primera página.
 
 ***
 
-Aquella noche, Gema seguía pensando en la visita de Clara.
+El martes lo llamó Beatriz Montes desde la central. Le ofreció dirigir el departamento de análisis de rutas para todo el grupo, en Madrid, con sueldo de director y un equipo propio.
+
+—Tus números de Getafe están bien —dijo Beatriz—. Queremos replicarlo en seis sedes.
+
+—No lo hice solo —dijo David.
+
+—Ya lo sé. Por eso te llamo a ti y no a un consultor. Piénsalo.
+
+Aquella noche, en casa, David abrió el cuaderno del seminario que había salvado en la mudanza. Pasó las hojas hasta la cuarta página, donde había escrito «evidente» al lado de una flecha.
+
+Lo vio al instante. Era un cambio de variable elemental. Sonrió, cerró el cuaderno y lo dejó en la estantería.
+
+Luego cogió el móvil, buscó el número antiguo de Marta entre sus notas y le escribió desde el número nuevo: «Tenías razón. No todo el mundo quiere lo mismo. Estoy bien».
+
+Al día siguiente llamó a Beatriz.
+
+—Puedo ayudar con las seis sedes —dijo—. Pero desde aquí, y si vienen Carlos y Pilar conmigo. No quiero dirigir ningún departamento.
+
+Beatriz tardó dos segundos en contestar.
+
+—Manda a Pilar a mi despacho el lunes, a ver si me convence.
+
+***
+
+Aquella noche, Gema seguía pensando en la visita de Beatriz.
 
 —Nadie me había preguntado nunca qué quería yo —dijo—. Al menos, no de esa manera.
 
@@ -264,7 +288,7 @@ Enrique sonrió. David miró el periódico doblado.
 
 —Algunos pueden esperar sentados.
 
-—Tú llevas años esperando a que me equivoque.
+—Tú llevas meses esperando a que me equivoque.
 
 —Y nunca me decepcionas.
 
@@ -342,9 +366,11 @@ David dejó el vaso sobre la mesa.
 
 Enrique no contestó. David esperó. Miró la cara del viejo, buscando alguna señal de que estaba bromeando, pero Enrique había bajado los ojos al mantel. David pensó en todo lo que acababa de decirle. Quiso preguntarle si había hecho algo mal.
 
+—Vete al infierno -le dijo Enrique
+
 Entonces se abrió la puerta.
 
-—Perdonad el retraso —dijo Gema al llegar a la mesa—.
+—Perdonad el retraso —dijo Gema al llegar a la mesa.
 
 David se levantó. Gema se inclinó y besó a Enrique en la mejilla.
 

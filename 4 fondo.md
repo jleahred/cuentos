@@ -1,471 +1,201 @@
 ### 4. Fondo
 
-La caja se rompió en el portal. El cartón estaba blando.
+Despidió al jardinero un lunes.
 
-David había bajado del coche las cosas que no quería dejar en manos de los de la mudanza. En aquella caja llevaba libros. El fondo cedió cuando intentaba abrir la puerta y los libros quedaron desparramados por el suelo.
-
-Se quedó mirándolos.
-
-La puerta se abrió desde dentro.
-
-—Vaya —dijo un hombre con una bolsa de la compra.
-
-David se agachó sin contestar.
-
-—Espera, te ayudo.
-
-El hombre dejó la bolsa y empezó a recoger libros.
-
-—No hace falta.
-
-—No me cuesta nada.
-
-—Prefiero hacerlo yo.
-
-El hombre se quedó con un libro en la mano.
-
-—Como quieras.
-
-Lo dejó sobre los demás y recogió su bolsa. De ella asomaba una barra de pan partida por la mitad.
-
-—¿Te mudas al tercero?
-
-—Sí.
-
-—Soy Luis, del segundo. Si necesitas algo, llama.
-
-—Gracias.
-
-Luis abrió la puerta y salió a la calle. David recogió el último libro y lo colocó sobre la pila. Luego tuvo que dejarlo todo en el suelo para volver a abrir la puerta.
-
-***
-
-El piso era pequeño, luminoso y estaba recién reformado. La mesa de la cocina daba a la ventana. Desde el dormitorio se veían los árboles de la calle.
-
-No se parecía en nada a la casa que acababa de dejar. Eso era lo bueno.
-
-Los de la mudanza subieron los muebles y las cajas. Cuando se marcharon, David se quedó de pie en medio del salón.
-
-Sacó el ordenador de una caja y lo puso sobre la mesa. Borró las fotografías, publicaciones y datos de sus redes sociales y cerró todas sus cuentas. Eliminó sus mensajes y canceló sus direcciones de correo.
-
-El último mensaje de Marta seguía sin respuesta. Lo leyó una vez más antes de borrarlo y apagar el teléfono antiguo. Ya tenía un número nuevo. No se lo daría a nadie de su vida anterior; tampoco les diría dónde vivía.
-
-Se llamaba David. No pensaba decir nada más.
-
-La bicicleta estaba apoyada contra la pared, junto a la mesa. Había pensado guardarla en el trastero, pero la puerta se atascaba y no había conseguido cerrarla.
-
-Llamaron al timbre.
-
-Abrió. Dos niños lo miraban desde el rellano.
-
-—¿Eres el vecino nuevo? —preguntó el más alto.
-
-—Sí.
-
-El niño miró por encima de su hombro.
-
-—¿Esa bici es tuya?
-
-—Sí.
-
-—¿Cuánto corre?
-
-—Depende de quién monte en ella.
-
-—¿Y tú cuánto corres?
-
-—Depende.
-
-El niño esperó un momento.
-
-—Yo tengo una roja. Mi hermana también, pero es pequeña.
-
-—Ya no es pequeña —dijo la niña.
-
-—Tu bici, no tú.
-
-—Ah.
-
-Se quedaron mirando a David.
-
-—¿Necesitáis algo?
-
-—No —dijo el niño—. Vivimos en el segundo.
-
-—Muy bien.
-
-—Mi padre es Luis.
-
-—Ya lo conozco.
-
-—¿Te ha dicho que te puede ayudar con algo?
-
-—Sí.
-
-—Se lo dice a todo el mundo.
-
-Desde abajo se oyó una voz.
-
-—¡Dani! ¡Lucía! Dejad en paz al vecino.
-
-—No estamos haciendo nada —gritó Dani.
-
-—Precisamente por eso —respondió Luis—. Hay que meter la compra.
-
-Los niños bajaron corriendo. David cerró la puerta.
-
-Un momento después volvió a abrirla. Las carreras se habían detenido frente a la puerta del segundo.
-
-—¿Podéis hacer menos ruido?
-
-—Sí —dijo Lucía.
-
-Dani bajó el último escalón de un salto. Luis le dio una bolsa y el niño entró en casa sin volver a mirar hacia arriba.
-
-***
-
-Los primeros días David apenas salió del piso. Deshizo algunas cajas, colocó los libros en una estantería y dejó otras junto a la pared del salón.
-
-Por las mañanas se despertaba temprano. A veces se preparaba una infusión y se sentaba a mirar por la ventana de la cocina. Una vecina tendía ropa en el patio y sacudía cada prenda antes de colgarla. A David le parecía que tardaba demasiado.
-
-Consultó varias ofertas de trabajo. En algunas conocía a la empresa. En otras conocía incluso a quien probablemente dirigiría la entrevista.
-
-No respondió a ninguna.
-
-Recordó la conversación con su asesor. Necesitaba encontrar algo, pero no quería volver a ver a ninguno de sus antiguos conocidos. Cerró la página de ofertas y apagó el ordenador.
-
-***
-
-Unos días después se encontró a Luis en el portal. Estaba sujetando la puerta mientras una mujer intentaba pasar un carrito de la compra.
-
-—Un poco más a la izquierda —dijo Luis.
-
-—A mi izquierda o a la tuya —preguntó la mujer.
-
-—A la tuya.
-
-—Esa es mi derecha.
-
-—Entonces a la otra.
-
-David esperó detrás de ellos. La mujer consiguió pasar y Luis soltó la puerta justo cuando David iba a salir. Tuvo que detenerla con la mano.
-
-—Perdona —dijo Luis—. No te había visto.
-
-—Ya.
-
-—¿Qué tal el piso?
-
-—Bien.
-
-Luis asintió. La mujer ya había llegado a la esquina.
-
-—Tendría que alcanzar a mi madre antes de que se enfade. Hasta luego.
-
-David salió detrás de él. Caminó hasta una cafetería y pidió una infusión. En la mesa de al lado, dos mujeres hablaban de una compañera de trabajo. Él sacó el teléfono nuevo y lo dejó junto a la taza. No tenía ningún mensaje.
-
-***
-
-El sábado por la mañana alguien llamó a su puerta. Era Luis, con un destornillador en la mano.
-
-—Estoy arreglando una bisagra en casa y me he acordado de tu trastero. ¿Te importa que le eche un vistazo?
-
-David estuvo a punto de decirle que no. Miró la bicicleta, que seguía ocupando un rincón del salón.
-
-—Está abajo.
-
-—Lo sé. El mío está al lado.
-
-Bajaron al sótano. Luis probó la puerta, se agachó y apretó uno de los tornillos de la bisagra. Después levantó ligeramente la hoja y volvió a apretarlo.
-
-La puerta cerró.
-
-—A ver lo que dura —dijo.
-
-David la abrió y la cerró otra vez.
-
-—Gracias.
-
-—De nada.
-
-Luis se limpió las manos en los pantalones.
-
-—¿Te dedicas a las bicicletas?
+—¿He hecho algo mal? —preguntó el hombre.
 
 —No.
 
-—Lo digo por la que tienes. Dani no para de hablar de ella.
+—Llevo seis años con usted.
 
-—Es una afición.
+—Lo sé.
 
-—A Dani también le gusta. Sale conmigo algunos domingos.
+El jardinero esperó una explicación. David le pagó dos meses por adelantado y cerró la verja.
 
-Subieron juntos. En el segundo, Luis sacó las llaves.
-
-—Por cierto, no te he preguntado cómo te llamas.
-
-—David.
-
-—Encantado, David.
-
-Entró en su casa. David subió al tercer piso y abrió la puerta. Se quedó mirando la bicicleta.
+No era por el dinero. Era porque el jardinero llegaba a las ocho, y a las ocho David seguía en la cama, y desde el jardín se veía la ventana del dormitorio con la persiana a medio bajar. No quería que nadie lo viera así. Ni siquiera alguien que solo miraba los setos.
 
 ***
 
-A la mañana siguiente sacó la bicicleta por primera vez desde la mudanza. Le costó encontrar una salida de la ciudad que le gustara. En un semáforo se detuvo junto a un grupo de ciclistas.
+El jardín tardó tres semanas en notarlo. El césped creció en los bordes. Las hojas del castaño cayeron en la piscina y se quedaron flotando, cada vez más oscuras, hasta que se hundieron.
 
-Uno de ellos miró su bicicleta.
+La depuradora seguía funcionando. El agua seguía a veintiocho grados. Nadie se bañaba.
 
-—Buena máquina.
-
-—No está mal —dijo David.
-
-—Y no parece que la uses para ir a comprar el pan.
-
-David se miró. Llevaba el maillot y el culote de siempre.
-
-—Depende de dónde esté la panadería —dijo otro.
-
-El semáforo seguía en rojo. El primero, un hombre de pelo canoso y piernas delgadas, señaló hacia delante.
-
-—Vamos hacia la carretera del embalse. Si vas por ahí, puedes venir con nosotros.
-
-—Todavía no sé por dónde voy a ir.
-
-—Estupendo. Nosotros tampoco nos ponemos de acuerdo nunca.
-
-El semáforo cambió y arrancaron juntos. Al llegar a la rotonda, David tomó la misma salida que ellos. Rodaron un rato por una vía tranquila, hasta que el hombre canoso se puso a su lado. Su bicicleta era antigua y sencilla, con la pintura gastada en algunos puntos y una bolsa sujeta bajo el sillín.
-
-—Soy Enrique.
-
-—David.
-
-—¿Sueles salir entre semana?
-
-—Últimamente tengo tiempo.
-
-—Es lo mejor para esto. ¿A qué te dedicas?
-
-—Ahora estoy en paro. Antes trabajaba en una oficina, con ordenadores.
-
-—Pues yo soy ciclista profesional.
-
-David lo miró. El hombre debía de tener más de sesenta años y esa bici...
-
-—¿Qué?
-
-—Me pagan para que monte en bici.
-
-Los demás se echaron a reír.
-
-—Está jubilado —dijo uno—. Y lo único que hace es montar en bici.
-
-—También desayuno —replicó Enrique—. Y no veo que tú faltes nunca.
-
-David apartó la vista. Notó que se le escapaba una sonrisa y se concentró en la carretera.
-
-Le contaron que salían varias mañanas a la semana. Los martes hacían una ruta corta y paraban a desayunar; los jueves salían más temprano y volvían cuando podían. Los sábados también salían.
-
-—Puedes venir el martes —dijo Enrique—. A las nueve, en el semáforo donde nos has encontrado.
-
-—De acuerdo. Ya nos veremos.
-
-Poco después llegaron a un cruce. David dijo que seguiría por su cuenta. Enrique frenó junto a él mientras los demás esperaban unos metros más adelante.
-
-—Estás muy callado —dijo Enrique.
-
-—Estoy cansado.
-
-—¿Duermes?
-
-—Regular.
-
-—¿Por qué?
-
-—Un soplo en el oído. Como un latido.
-
-—Los acúfenos no laten.
-
-—¿Qué?
-
-—Nada. ¿Y qué te han dicho?
-
-—Que es estrés.
-
-Enrique no contestó. Miró la carretera un momento.
-
-—Antes has dicho que buscabas trabajo.
-
-—He dicho que estaba en paro.
-
-—Tienes razón. Mi ahijada trabaja en una empresa de logística y necesitan a alguien. Está cerca de aquí. Si te interesa, puedes pasarte a preguntar.
-
-David dudó.
-
-—No tengo experiencia en logística.
-
-—Allí te enseñarán.
-
-Enrique le dio el nombre de la empresa y la dirección. David los anotó en el teléfono. Después vio alejarse al grupo y emprendió el camino en dirección contraria.
+En el buzón se acumularon cartas que David dejó de recoger. La carpeta que había dejado Clara seguía en el recibidor, cubierta de una capa fina de polvo. En el vestidor, los trajes colgados en fila parecían de otra persona.
 
 ***
 
-Dos días después llamó a la empresa y concertó una entrevista.
+Una mañana buscó un libro de topología que quería releer. No lo encontró en la estantería del salón. Encontró, en cambio, una caja de la universidad que nunca había abierto desde la mudanza anterior.
+
+Dentro había cuadernos. Su letra a los dieciséis años era más pequeña y más apretada que ahora, y escribía sin tachar.
+
+Abrió uno al azar. Era la demostración de un teorema que había hecho para un seminario. Recordaba el seminario; recordaba al profesor quitándose las gafas al terminar de leerla. Recordaba que se había sentido aburrido, porque le había resultado fácil.
+
+Leyó la primera página. Entendía cada línea. No entendía por qué la tercera seguía a la segunda.
+
+Volvió al principio. Cogió un lápiz y fue anotando en el margen lo que creía que había querido decir. En la cuarta página había un paso que no justificaba, solo una flecha y la palabra «evidente».
+
+No era evidente.
+
+Estuvo toda la tarde con aquella flecha. Cuando oscureció, encendió la lámpara y siguió. A las once comprendió el paso. Era elegante y sencillo, y a los dieciséis años lo había visto sin esforzarse lo bastante como para molestarse en escribirlo.
+
+Alguien más listo que él había escrito aquel cuaderno. Y ese alguien era él.
+
+Lo cerró. Lo metió en la caja con los demás y empujó la caja debajo de la mesa con el pie.
 
 ***
 
-La oficina estaba a quince minutos andando de su casa, junto a una nave con varios muelles de carga. En la fachada había un cartel con el nombre de la empresa de logística. Debajo, en letras más pequeñas, figuraba la dirección de su sede central.
+Dormía mal. Se acostaba tarde para estar cansado y, cuando apagaba la luz, el soplo empezaba. Siempre había estado ahí, pero de noche se oía como si alguien hubiera subido el volumen. Latía con él. A veces contaba los latidos para dormirse. Perdía la cuenta antes de llegar a cien.
 
-David llegó diez minutos antes de la hora. Una furgoneta acababa de detenerse junto a la nave y dos personas descargaban cajas mientras otra hablaba por teléfono. Un hombre salió deprisa de la oficina con unos papeles en la mano y tuvo que apartarse para dejar pasar una carretilla.
+Una noche, sin saber por qué, intentó recordar el nombre del profesor de estadística de primero.
 
-Al entrar, David encontró a una mujer frente al mostrador, buscando algo en el ordenador. Sonaban varios teléfonos.
+No le salió.
 
-—Tengo una entrevista con Gema.
+Recordaba el aula, el olor de la tiza, el siete del examen escrito con rotulador rojo. Recordaba que le había molestado durante años. Pero el nombre no estaba.
 
-—Espera un momento, por favor.
+Probó con el abecedario. A, B, C. En la G se detuvo un momento y siguió adelante. Llegó a la Z. Volvió a empezar.
 
-La mujer cogió el teléfono. En la oficina había gente de pie junto a las mesas, mirando pantallas o hablando a la vez. Un hombre cruzó con una carpeta bajo el brazo.
+A las cuatro de la mañana se levantó, encendió el ordenador y buscó la página de la facultad. Los profesores de entonces ya no aparecían. Buscó en foros antiguos, en actas, en una orla escaneada. No lo encontró.
 
-—¡El de Getafe no contesta! —gritó hacia el fondo.
+Lo recordó tres días después, en la ducha. Gutiérrez.
 
-—¡Pues prueba al almacén! —le respondió alguien.
+No sintió alivio. Se quedó quieto bajo el agua, pensando en todas las cosas que podían habérsele ido sin avisar, sin dejar siquiera el hueco donde habían estado.
 
-Otro teléfono empezó a sonar. Una mujer descolgó mientras llamaba con la mano a un compañero, que pasó de largo sin verla. Desde la nave llegó el ruido de algo que caía, seguido de un grito.
+«Es memoria», le había dicho a Marta.
 
-—¿Se sabe algo del accidente? —preguntó alguien.
+***
 
-—El conductor está bien. El problema es la mercancía.
+Dejó de afeitarse. No fue una decisión: un día no lo hizo y al siguiente tampoco. Cuando se miró en el espejo del recibidor, al ir a recoger un pedido, vio a un hombre más delgado, con barba de diez días y una camiseta del revés.
 
-Una mujer cruzó la oficina con una carpeta abierta.
+El repartidor le dio la bolsa y le preguntó si estaba bien.
 
-—¡Como no salga ya, no llegamos a la entrega de mañana!
+—Perfectamente.
 
-—¡Díselo a Gema! Está buscando otro vehículo.
+—Es que me ha pedido lo mismo cuatro días seguidos.
 
-David esperó junto al mostrador. Al fondo había una puerta de cristal que daba a un despacho.
+David cerró la puerta. Abrió la bolsa en la cocina. Era lo mismo. No lo recordaba.
 
-La puerta se abrió. Una mujer salió hablando por teléfono, con una carpeta bajo el brazo. Escuchó unos segundos, miró el reloj y cruzó la oficina.
+***
 
-—Es Gema —le dijo la mujer de recepción.
+Una noche encendió la televisión para no oír el soplo.
 
-—¡Gema! El de la entrevista.
+Pasó canales. Un concurso: tres personas detrás de unos atriles respondían preguntas. ¿Cuál es la capital de Australia? Un hombre de camisa naranja dijo Sídney. El público se rio. El presentador hizo una mueca exagerada.
 
-Gema se volvió, miró a David un instante y le hizo una señal para que la siguiera. Él caminó detrás de ella hasta la puerta de la nave.
+David se rio también.
 
-—¿El conductor está bien? ... Menos mal. Dile a Carlos que me llame en cuanto llegue.
+Siguió mirando. Una mujer no sabía cuántos lados tenía un hexágono. Otra confundía a Cervantes con Quevedo. El presentador hacía chistes que se veían venir desde lejos, y David se reía antes de que terminaran.
 
-Colgó y sacó una hoja de la carpeta sin dejar de andar.
+En la pausa publicitaria se dio cuenta de lo que estaba haciendo.
 
-—Perdona el lío. ¿Sabes usar Excel?
+Apagó la televisión. Se quedó sentado a oscuras, con el mando en la mano.
+
+«Se basa en estudios de mercado. Ahí tienes un dato objetivo de que los tontos abundan.»
+
+Lo había dicho en un coche, con un contrato firmado en el bolsillo, en el tono de quien explica algo evidente.
+
+Al cabo de un rato volvió a encenderla. El concurso había terminado. Empezaba otro.
+
+No la apagó.
+
+***
+
+El asesor le pidió que fuera al banco a firmar unos papeles de la venta de las acciones.
+
+Le atendió un empleado joven, con el pelo muy corto y una corbata estrecha. Le explicó las condiciones. David le pidió que lo repitiera.
+
+El empleado sonrió.
+
+—Claro. Mire, se lo explico de otra manera.
+
+Cogió un bolígrafo y dibujó dos cajas en un papel. Una era lo que tenía; otra, lo que iba a tener. Una flecha entre las dos. Hablaba despacio, separando las palabras, con una paciencia amable y un poco cansada.
+
+David conocía aquel tono. Lo había usado durante años: con los ingenieros que tardaban en entender un esquema, con los directivos que preguntaban dos veces lo mismo, con Clara el primer día. Era el tono de quien ya ha llegado y espera, con educación, a que el otro llegue también.
+
+—¿Lo ve ahora? —preguntó el empleado.
 
 —Sí.
 
-Una mujer se acercó a ellos.
+No lo veía del todo. Firmó.
 
-—Gema, los de la entrega necesitan la confirmación.
-
-—Está en mi bandeja. Si el peso coincide, envíasela. Y que preparen la otra furgoneta.
-
-La mujer se marchó hacia la oficina. Gema atravesó la nave y David la siguió, apartándose para dejar pasar una carretilla.
-
-—¿Sabes qué es un albarán? —preguntó ella.
-
-—Sí.
-
-—¿Y facturas?
-
-—También.
-
-—Bien. Necesitamos ayuda con los envíos y la documentación. El horario es de nueve a cinco y el sueldo es el que aparece aquí.
-
-Le tendió una hoja. David empezó a leerla mientras caminaba, pero tuvo que detenerse para que un hombre con un palé pasara entre ellos. Cuando volvió a alcanzar a Gema, ella estaba hablando por teléfono.
-
-—No, Carlos. Al almacén de Getafe. Te lo he puesto en el mensaje.
-
-Un compañero le mostró unos papeles. Gema los examinó, señaló una cifra y negó con la cabeza. El hombre se alejó con los documentos.
-
-—Sí, sigo aquí —dijo ella al teléfono—. Llámame cuando lo tengas.
-
-Colgó y miró a David.
-
-—¿Tienes currículum?
-
-—No.
-
-—¿Sabes usar Excel?
-
-—Sí.
-
-—¿Cuándo puedes empezar?
-
-—El lunes.
-
-—Estupendo.
-
-—¿Ya está?
-
-—¿Qué esperabas?
-
-—No sé.
-
-Gema lo miró un segundo.
-
-—Pasa por Recursos Humanos para los papeles y diles que empiezas el lunes. El lunes pregunta por Elena, ella te enseñará todo.
-
-—¿Así? ¿Sin más? ¿Y por qué en RRHH van a creerme?
-
-—¿Quién va a inventarse esto? —dijo Gema—. No te van a creer a ti. Me van a creer a mí. Vaya, piensas en todo. Solo haz lo que te he dicho, genio.
-
-Una voz la llamó desde el otro extremo de la nave. Gema levantó una mano.
-
-—Perdona. Nos vemos el lunes.
-
-Se alejó con la carpeta y David regresó a recepción con la hoja en la mano. Allí le indicaron dónde estaba Recursos Humanos.
+En la calle tuvo que sentarse en un banco. No le dolía nada. Tenía la cara caliente y no conseguía que se le enfriara.
 
 ***
 
-El lunes, Elena lo recibió en la oficina.
+Había borrado el número de Marta de la pantalla de inicio, pero no de la agenda. Una tarde la abrió.
 
-—Tú eres David, ¿no? Soy Elena. Ven, te enseño esto antes de que empiecen a llegar los transportistas.
+Tenía trescientos cuarenta y dos contactos. Los fue pasando con el dedo. Empresarios, directores financieros, un ministro, dos alcaldes, abogados, periodistas, una actriz italiana. A muchos los recordaba por la empresa, no por la cara. Algunos le habían escrito al principio, cuando se supo lo de la dimisión. Mensajes cortos, cordiales. «Cualquier cosa que necesites». Hacía meses que ninguno escribía.
 
-—Vine por Enrique. Él me habló del trabajo.
+No había nadie a quien pudiera llamar para decirle que no sabía cuántos lados tenía un hexágono sin contarlos.
 
-—¿Enrique? No me digas que te ha contado lo del ciclista profesional.
+Llegó a Marta. Pulsó el número. Antes de que sonara el primer tono, colgó.
 
-—Sí. ¿Lo conoces?
+Esa misma semana, ella le escribió.
 
-Elena se rio.
+«He visto que hoy hace sol en Madrid. Sal al jardín; creo que sigue detrás de la casa».
 
-—Si yo te contara. ¿Todavía va contando ese chiste?
+David miró por la ventana. El césped le llegaba a los tobillos. Las hojas de la piscina se habían hundido y el agua tenía un color verdoso. Escribió «Ya no queda mucho jardín» y lo borró. Después escribió «Estoy bien».
 
-—Me temo que sí.
+Marta respondió enseguida: «No te he preguntado».
 
-Elena le enseñó las mesas de la oficina, la zona de recepción de mercancías y el programa donde registraban las entregas. Le presentó a Rafa, que estaba preparando unos envíos, y le indicó una mesa libre junto a la suya.
+Dejó el teléfono sobre la mesa. Al cabo de un rato volvió a cogerlo, pero no escribió nada más.
 
-—Rafa, no le asustes el primer día —dijo Elena.
+***
 
-—Yo no asusto a nadie —dijo Rafa, muy serio.
+«¿Hay algo que hagas por puro placer?», le había preguntado Marta en el coche.
 
-—Aquí trabajamos los de esta sección. Si necesitas algo, me preguntas.
+Leer, estudiar idiomas, resolver problemas. Lo había dicho sin pensar, como quien da su dirección.
 
-Al otro lado de la oficina, Gema estaba en su despacho hablando con dos personas delante de la pizarra. David la vio señalar una fecha y entregarles una carpeta. Después cerró la puerta.
+Ahora leía la misma página tres veces. Había empezado a repasar el japonés y se le olvidaban los caracteres de un día para otro. Los problemas lo dejaban agotado y rabioso.
 
-Elena dejó unos papeles sobre la mesa de David.
+Intentó pensar qué le quedaba. Hizo una lista en un papel, por costumbre: lo que le gustaba antes de ser lo que era.
 
-—Estos son los albaranes de la semana pasada. Hay que comprobarlos con las facturas y apuntar los que falten. El primero lo hacemos juntos.
+No escribió nada. No había un antes. Desde que tenía memoria había sido el niño que iba por delante, el chico que entró en la universidad con quince años, el hombre al que llamaban cuando algo era imposible. Si le quitaban la cabeza, no sabía quién estaba debajo. No sabía si había alguien.
 
-Se sentó a su lado y le mostró dónde encontrar cada envío en el ordenador. David abrió la carpeta.
+«Alguien que no piensa», le había dicho a Marta cuando ella le preguntó qué era un tonto.
 
-En la primera página había una mancha de café que tapaba parte de una fecha.
+Pensaba. Pensaba todo el tiempo. Pensaba despacio, en círculos, siempre en lo mismo.
 
-—Esa fui yo —dijo Rafa, que acababa de pasar junto a ellos.
+***
 
-—No te estaba preguntando —dijo Elena.
+Una noche de septiembre salió al jardín.
 
-—Ya, pero luego siempre me preguntáis.
+Hacía calor todavía. La piscina estaba iluminada desde dentro, como en los folletos de la inmobiliaria, y el agua verdosa tenía un brillo raro. Se sentó en el borde con los pies dentro. El agua estaba tibia.
 
-Elena buscó la fecha en el ordenador y la anotó en el margen. Después le pasó el bolígrafo a David.
+Se metió entero, con la ropa puesta.
 
-—Prueba tú con el siguiente.
+Bajó hasta el fondo y se quedó allí, sentado, con los ojos abiertos. Arriba, la luz temblaba. Abajo no se oía nada; ni siquiera el soplo. Era la primera vez en meses que no lo oía.
 
-David cogió el albarán y empezó a leer.
+Empezó a contar. Antes podía aguantar dos minutos sin respirar. Lo había calculado una vez: capacidad pulmonar, consumo de oxígeno, frecuencia cardiaca. Le había parecido un problema bonito.
+
+Llegó a cuarenta. Luego no supo si había dicho cuarenta y uno o cincuenta y uno. Volvió a empezar desde cuarenta. Se le había ido otra vez.
+
+Pensó que ni siquiera era capaz de contar aquello.
+
+Le ardía el pecho. Se quedó un poco más. No sabía cuánto. No sabía para qué.
+
+Después empujó el fondo con los pies y subió.
+
+Salió tosiendo, se agarró al borde y se quedó allí, con la cara contra las baldosas, respirando como si el aire se fuera a acabar. Estuvo así mucho rato. La ropa le pesaba. Tenía hojas en el pelo.
+
+No se lo contó a nadie. No había nadie a quien contárselo.
+
+Al día siguiente vació la piscina.
+
+***
+
+Las cuentas del asesor llegaron en un sobre. David las leyó dos veces. Con lo que pagaba por la casa, el dinero que le quedaba duraría menos de lo que había pensado. Tenía que irse.
+
+Fue casi un alivio.
+
+Había pasado un año y medio desde el desmayo.
+
+Buscó un piso en un barrio donde no hubiera nadie de su vida anterior. Encontró uno pequeño, a diez minutos andando de una estación de metro. No había jardín. No había piscina. Firmó sin preguntar el precio.
+
+Dejó casi todo a los de la mudanza. Los muebles, los trajes, el gimnasio, que vendió a un hombre que vino con una furgoneta y no dejó de decir que era una ganga. El deportivo lo vendió por teléfono.
+
+La caja de los cuadernos la sacó de debajo de la mesa. Pensó en tirarla. Después la abrió, sacó el cuaderno del seminario y lo puso arriba del todo, con los libros que quería llevar él mismo.
+
+Hizo la mudanza un martes por la mañana. Llovía.
+
+Metió la bicicleta en el maletero y la caja en el asiento de atrás. Cuando cerró la puerta, tenía el cartón mojado.
+
+No miró la casa al marcharse.

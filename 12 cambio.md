@@ -1,4 +1,4 @@
-### 11. Cambio
+### 12. Cambio
 
 Durante las semanas siguientes al alta, David fue recuperando fuerzas. Gema siguió visitándolo y un día retomaron la conversación que habían dejado pendiente junto a las tazas.
 
@@ -50,7 +50,9 @@ Gema amplió la imagen. La niña tenía una rodilla pelada y una sonrisa enorme.
 
 Gema guardó el teléfono. David acercó la taza de ella, que se había quedado al otro lado de la mesa.
 
-Otro día salieron a dar un paseo corto. A David le pareció demasiado corto y a Gema le pareció suficiente. Discutieron hasta el portal, donde él la besó antes de que pudiera decirle que subiera a descansar. Ella le devolvió el beso.
+Otro día salieron a dar un paseo corto y acabaron cenando en una taberna pequeña del barrio, sin mantel y con servilletas de papel. David pidió agua y Gema una copa de vino; hablaron de nada hasta que cerraron la cocina. Al volver al portal, discutieron sobre si él estaba ya para subir las escaleras sin parar en el segundo, y él la besó antes de que pudiera decirle que subiera a descansar. Ella le devolvió el beso.
+
+—La segunda cena me la debes tú —dijo él.
 
 —Ahora sube a descansar.
 
@@ -92,7 +94,7 @@ Poco después entró una mujer de unos sesenta años, con un abrigo claro y una 
 
 —¿Tiene cita?
 
-—No. Me temo que he venido sin avisar. Soy Clara Montes, de Valnera.
+—No. Me temo que he venido sin avisar. Soy Beatriz Montes, de Valnera.
 
 La recepcionista apuntó el nombre. No le sonaba la empresa.
 
@@ -100,7 +102,7 @@ La recepcionista apuntó el nombre. No le sonaba la empresa.
 
 —Muchas gracias.
 
-Clara se sentó junto al cliente. Desde allí se veía una parte de la oficina. Rafa caminaba detrás de Elena con un bolígrafo en la mano.
+Beatriz se sentó junto al cliente. Desde allí se veía una parte de la oficina. Rafa caminaba detrás de Elena con un bolígrafo en la mano.
 
 —Estaba en mi mesa —decía.
 
@@ -114,7 +116,7 @@ Elena abrió un cajón, sacó otro bolígrafo y se lo tendió. Rafa lo examinó.
 
 —Ya lo sé. El tuyo escribe.
 
-Clara sonrió. El cliente siguió su mirada.
+Beatriz sonrió. El cliente siguió su mirada.
 
 —Siempre están así —dijo—. A mí me gusta venir. Una vez le pregunté a Gema cómo lo conseguía.
 
@@ -166,7 +168,7 @@ Gema leyó el nombre y levantó la vista.
 
 —Son los que han comprado la empresa.
 
-La recepcionista miró a Clara, que seguía sentada hojeando una revista vieja. La mujer levantó la mano.
+La recepcionista miró a Beatriz, que seguía sentada hojeando una revista vieja. La mujer levantó la mano.
 
 —Puedo volver otro día, si les viene mal.
 
@@ -184,23 +186,23 @@ Gema entró un minuto después con el portátil y una memoria USB.
 
 Gema conectó el portátil y dejó la memoria junto a él.
 
-—Precisamente he venido por algunos detalles —dijo Clara—. ¿Le importa si nos tuteamos? Me paso el día pidiendo que me llamen Clara.
+—Precisamente he venido por algunos detalles —dijo Beatriz—. ¿Le importa si nos tuteamos? Me paso el día pidiendo que me llamen Beatriz.
 
 —Claro. Yo soy Gema.
 
-—Eso ya lo sabía. Tus superiores han hablado bastante de ti.
+—Eso ya lo sabía. Tus superiores han hablado bastante de ti. Y también uno de tus clientes, que llamó a la matriz para asegurarse de que no íbamos a tocar esta oficina.
 
 Gema se sentó frente a ella.
 
-—Espero que bien.
+—Espero que hablara bien.
 
-—De tus resultados, sí. De cómo los habéis conseguido, no tanto.
+—De ti, demasiado. De tus superiores, no tanto.
 
-Clara abrió la carpeta. Dentro llevaba unas hojas con anotaciones a lápiz.
+Beatriz abrió la carpeta. Dentro llevaba unas hojas con anotaciones a lápiz.
 
 —La empresa en conjunto no iba tan bien como parecía. Dos sedes sostenían buena parte de los resultados, y algunos movimientos entre partidas ayudaban a que el informe general tuviera mejor aspecto. Mis compañeros están revisando cuáles eran ajustes justificados y cuáles no.
 
-Gema miró las hojas, pero Clara no se las acercó.
+Gema miró las hojas, pero Beatriz no se las acercó.
 
 —Salas y Vidal estaban muy satisfechos con las cifras —continuó—. Durante la venta insistieron mucho en ellas. También nos recomendaron reducir plantilla.
 
@@ -220,7 +222,7 @@ Gema se apoyó en el respaldo.
 
 —Les dijo que no. —Gema hizo una pausa—. De una forma bastante clara, según me contó.
 
-Clara bajó la vista a sus papeles.
+Beatriz bajó la vista a sus papeles.
 
 —Eso también nos dijeron.
 
@@ -234,23 +236,19 @@ Clara bajó la vista a sus papeles.
 
 —Yo intenté que tuvieran lo que necesitaban. A veces bastaba con no estorbarles.
 
-Clara cerró la carpeta.
+Beatriz cerró la carpeta.
 
 —He visto una máquina de café al entrar. ¿Te importa si vamos? El médico dice que me levante de vez en cuando, y estas sillas deben de haberse diseñado para que uno le haga caso.
 
 ***
 
-Gema puso un vaso bajo la máquina y pulsó el botón. Clara esperaba a su lado con otro vaso vacío.
+Gema puso un vaso bajo la máquina y pulsó el botón. Beatriz esperaba a su lado con otro vaso vacío.
 
 —Mis ingenieros me trajeron los informes y me explicaron las cifras. Pero había algo que no me cuadraba. Les dije: «Aquí hay algo raro. Seguid buscando».
 
 —¿Y qué encontraron?
 
-—Cuatro personas de tu equipo siguieron cerrando operaciones después de alcanzar sus objetivos individuales. Parte de ese trabajo podía haber pasado al siguiente periodo, pero lo cerraron entonces.
-
-—Había entregas pendientes.
-
-—Y una de las operaciones que revisaron ya estaba lista. Podían haber esperado sin incumplir el plazo. Al cerrar todo ese mes, ayudaron a alcanzar el objetivo de la sede. Para ellos, en cambio, podía significar un objetivo más alto al año siguiente, sin mejorar el bonus de ese periodo.
+—Cuatro personas de tu equipo siguieron trabajando después de llegar a su objetivo, sabiendo que el año que viene les pedirían más. Porque el equipo lo necesitaba.
 
 Gema recogió el primer vaso antes de que la máquina terminara de zumbar.
 
@@ -270,19 +268,19 @@ Gema sonrió.
 
 —Que sí, que había entendido bien.
 
-Rafa apareció con su taza. Saludó a Clara y se colocó detrás de ellas.
+Rafa apareció con su taza. Saludó a Beatriz y se colocó detrás de ellas.
 
 —Gema, ¿qué tal con el ogro de la empresa que nos ha comprado?
 
-Gema abrió mucho los ojos e intentó señalar a Clara con disimulo. Clara se volvió hacia ella justo a tiempo de sorprenderla con la mano levantada. Sonrió y después miró a Rafa.
+Gema abrió mucho los ojos e intentó señalar a Beatriz con disimulo. Beatriz se volvió hacia ella justo a tiempo de sorprenderla con la mano levantada. Sonrió y después miró a Rafa.
 
-—Todavía no lo sabemos —dijo—. Soy Clara Montes, puedes llamarme ogro.
+—Todavía no lo sabemos —dijo—. Soy Beatriz Montes, puedes llamarme ogro.
 
 Rafa miró a Gema y luego su taza.
 
 —Creo que voy a buscar un agujero donde meterme.
 
-—Si encuentras uno grande, avísame —dijo Clara—. Esta mañana no he tenido tiempo de peinarme.
+—Si encuentras uno grande, avísame —dijo Beatriz—. Esta mañana no he tenido tiempo de peinarme.
 
 Rafa se pasó una mano por el pelo y se marchó con la taza vacía.
 
@@ -294,13 +292,13 @@ Gema esperó a que doblara la esquina.
 
 —Puedo preguntarle a Elena. Seguro que ha tomado notas.
 
-Clara sonrió y cogió el segundo café.
+Beatriz sonrió y cogió el segundo café.
 
 —En tu presentación las previsiones estaban redondeadas. La mayoría de los informes que he visto traen decimales hasta para las estimaciones de dentro de tres años.
 
-—Mi tío me enseñó que el exceso de precisión, no es honesto.
+—Mi tío me enseñó que el exceso de precisión no es honesto.
 
-Clara probó el café. Gema esperó a que continuara.
+Beatriz probó el café. Gema esperó a que continuara.
 
 —Has dicho que procuras ayudar y no molestar —dijo al fin—. Y mis compañeros han encontrado que tu equipo ha trabajado por un objetivo común incluso cuando podía salir perdiendo. No sé si tú lo llamarías mérito, pero yo quería ver dónde pasaba eso.
 
@@ -312,7 +310,7 @@ Gema sujetó el vaso por el borde. Estaba demasiado caliente.
 
 —¿Qué va a pasar con los despidos?
 
-—Ya me he encargado de todo eso. Hemos prescindido de Salas y Vidal. La revisión de las cuentas sigue abierta y queda trabajo por hacer, pero no he venido a pedirte una lista de puestos.
+—De momento nada. Hemos apartado a Salas y Vidal mientras revisamos las cuentas. No he venido a pedirte una lista de puestos.
 
 Gema soltó el aire y dejó el vaso sobre el estante de la máquina.
 
@@ -346,11 +344,11 @@ David salió del pasillo con una carpeta en la mano. Al verlas, se acercó a Gem
 
 —Dice que es el mismo de ayer, que todavía no lo he arreglado.
 
-Clara los miró. David se volvió hacia ella.
+Beatriz los miró. David se volvió hacia ella.
 
 —Perdona. Soy David.
 
-—Clara. Acabo de conocer a Gema.
+—Beatriz. Acabo de conocer a Gema.
 
 —Es mi nueva jefa —dijo Gema.
 
@@ -360,7 +358,7 @@ David le tendió la mano.
 
 —Igualmente.
 
-Clara dejó el vaso vacío junto a la máquina y recogió su carpeta.
+Beatriz dejó el vaso vacío junto a la máquina y recogió su carpeta.
 
 —Bueno, me marcho. Tengo una comida pendiente y todavía no he decidido qué excusa voy a poner para no ir.
 
@@ -368,4 +366,4 @@ Se despidió de Gema y dio unos pasos hacia la salida. Antes de llegar a la puer
 
 —Ah, por cierto, David: vete al infierno.
 
-David se quedó mirándola. Clara salió riéndose.
+David se quedó mirándola. Beatriz salió riéndose.

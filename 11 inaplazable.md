@@ -1,4 +1,4 @@
-### 10. Inaplazable
+### 11. Inaplazable
 
 En la ambulancia le hicieron preguntas. Su nombre, su edad, qué día era. David sabía las respuestas, pero algunas tardaban en salir. Gema iba sentada a su lado, sujetándole la mano sin apretarla.
 
@@ -182,7 +182,7 @@ En la sala encontró a Elena junto a las sillas, con el abrigo puesto y el bolso
 
 Se sentaron juntas. Elena se quedó a su lado, mirando la puerta con ella.
 
-—Le he dicho que tenía miedo de que volviera a ser como antes —dijo Gema.
+—Me ha dicho que tenía miedo de que volviera a ser como antes —dijo Gema.
 
 Elena no contestó enseguida.
 
@@ -218,7 +218,7 @@ Su tío se sentó junto a ella. Tenía las manos frías. Gema se las cogió entr
 
 —¿Y qué has averiguado?
 
-—Nada. Que son guapísimas y que yo no me parezco a ellas. Y no paro de pensar que, si vuelve a ser como antes, quizá se pregunte qué hace conmigo.
+—Nada. Que son guapísimas y que yo no me parezco a ellas. Y además me dijo que cuando llegó a la oficina pensaba que éramos todos tontos, incluida yo. No paro de pensar que, si vuelve a ser como antes, me mirará así otra vez.
 
 Su tío miró la puerta. Al otro lado se oyeron unas ruedas y los dos levantaron la cabeza. Pasó una camilla con una mujer mayor. Gema esperó a que se alejara.
 
@@ -270,9 +270,9 @@ Gema se quedó callada. Pensó en David apartándose de ella aquella noche y en 
 
 Su tío le rodeó los hombros con el brazo. Esta vez no intentó responder.
 
-Elena volvió con tres cafés. Se los repartió y se sentó al otro lado de Gema. El de ella se enfrió sin que llegara a probarlo.
+Elena volvió con tres cafés. Se los repartió y se sentó al otro lado de Gema. El de ella se enfrió sin que llegara a probarlo. El tío de Gema se levantó un momento para ir al servicio.
 
-Cuando por fin salió Ferrer, las dos se levantaron. La doctora tenía marcas en la cara donde había llevado la mascarilla.
+Cuando por fin salió Ferrer, las dos se levantaron. La doctora tenía marcas en la cara donde había llevado la mascarilla. Al volver por el pasillo, el tío de Gema se detuvo a unos pasos; Ferrer lo miró un segundo, asintió en silencio y siguió hablando con Gema.
 
 —Hemos terminado —dijo—. Ha habido una complicación durante el procedimiento y nos ha llevado más tiempo del previsto. Ha sido difícil, pero hemos conseguido cerrar la fístula.
 
@@ -357,6 +357,8 @@ David pasó varios días en el hospital. Gema fue a verlo siempre que pudo. Una 
 David se rio. Tuvo que parar porque le dolía.
 
 Al darle el alta, la doctora le explicó qué cuidados necesitaba y cuándo volvería a verlo. Gema lo acompañó a casa. Subió la bolsa, dejó las medicinas sobre la mesa y leyó con él las indicaciones. Se quedó aquella noche en el sofá y al día siguiente trabajó desde el piso. Después volvió a su casa, pero pasó a verlo cada día.
+
+El tercer día, cuando Gema estaba en la oficina y David se quedó sin fruta ni pan, miró la lista de contactos y bajó un dedo hasta el piso de abajo. Llamó a Luis. A los diez minutos apareció con dos bolsas, Dani detrás sujetando la barra de pan partida por la mitad, y se quedó veinte minutos arreglando una persiana que ni siquiera estaba rota.
 
 Una tarde Gema estaba preparando una infusión y tardó en encontrar las tazas. David estuvo a punto de levantarse para enseñarle dónde estaban, pero ella abrió el armario correcto.
 

@@ -26,11 +26,15 @@ capitulos=(
   "2 fallo.md"
   "3 colapso.md"
   "4 fondo.md"
-  "5 calma.md"
-  "6 cena.md"
-  "7 agravamiento.md"
-  "8 hospital.md"
-  "9 caos.md"
+  "5 vecinos.md"
+  "6 calma.md"
+  "7 cena.md"
+  "8 agravamiento.md"
+  "9 panico.md"
+  "10 caos.md"
+  "11 inaplazable.md"
+  "12 cambio.md"
+  "13 comienzo.md"
 )
 
 if [[ $incluir_esbozos -eq 1 ]]; then

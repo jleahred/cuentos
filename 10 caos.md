@@ -1,4 +1,4 @@
-### 9. Caos
+### 10. Caos
 
 David vio a Gema en el despacho al llegar. Estaba sentada delante del ordenador, con las manos sobre la mesa. No escribía. En la oficina sonaban los teléfonos y Rafa discutía con alguien de la nave, pero ella no se movía.
 
@@ -174,11 +174,9 @@ Esta vez aparecieron cuatro rutas nuevas. Carlos las revisó una por una, con el
 
 —Se lo diré a Gema.
 
-Cuando Carlos se fue, David siguió trabajando. Fuera, la nave quedó en silencio y las luces de los muelles se apagaron. Él pasó los datos del día siguiente al programa, encontró dos pedidos duplicados y corrigió un error en los horarios. Luego probó de nuevo, con menos vehículos, y después con uno más.
+Cuando Carlos se fue, David siguió trabajando. Fuera, la nave quedó en silencio y las luces de los muelles se apagaron. Él pasó los datos del día siguiente al programa, que era lento y estaba lleno de parches. Se equivocó en una fórmula y tuvo que repetir la carga dos veces. Le escocían los ojos y el soplo no dejaba de golpearle el oído, pero la tabla le daba algo concreto a lo que agarrarse: los pedidos, los tiempos, las furgonetas que podían cruzarse sin detenerse.
 
-Hacía mucho tiempo que no conseguía mantener tantas piezas en la cabeza. Aquella noche las veía: los pedidos, los tiempos, las furgonetas que podían cruzarse sin detenerse. Cambiaba una condición y encontraba otra posibilidad. Revisó los resultados con los archivos originales, línea por línea.
-
-Cuando levantó la vista, era de madrugada. En la pantalla había seis rutas; en su cuaderno, una lista de preguntas para Carlos y los conductores. Se acordó de lo que había dicho la doctora. Cerró los ojos un momento. Después dejó el programa preparado y llamó a un taxi.
+Cuando levantó la vista, era de madrugada. En la pantalla había seis rutas provisionales; en su cuaderno, una lista de preguntas para Carlos y los conductores. Se acordó de lo que había dicho la doctora. Cerró los ojos un momento. Después dejó el programa preparado y llamó a un taxi.
 
 ***
 
@@ -194,13 +192,23 @@ En la oficina, Gema consiguió retrasar dos recogidas que no eran urgentes y hab
 
 Cada noche David actualizaba el programa con lo que había ocurrido durante el día. Si una entrega no se había hecho o aparecía un vehículo nuevo, recalculaba. Después enviaba las propuestas a Gema y a Carlos. A la mañana siguiente, ellos las revisaban con los conductores y cambiaban lo que hiciera falta.
 
-El jueves, Gema lo llamó cuando casi todos se habían marchado.
+El jueves, el programa asignó la última ruta larga a Carlos, que era el único con permiso para ese camión. David se la envió a Gema. Ella lo llamó cinco minutos después.
 
-—Carlos dice que has encontrado sitio para las entregas del polígono.
+—Carlos hoy no puede hacer esa ruta.
 
-—Si el vehículo de Rafa puede salir una hora antes. Y si el cliente acepta recibir las dos últimas juntas.
+—Es el único que lleva ese camión. Si lo cambio, perdemos dos entregas.
 
-—Lo del cliente lo arreglo yo. Pero Carlos dice que llevas dos noches sin dormir en condiciones.
+—Pues busca otra forma. Hoy tiene que salir a su hora.
+
+—¿Por qué? —preguntó David—. Él no ha dicho nada.
+
+—No hace falta.
+
+David miró la pantalla. No tenía sentido. Tardó una hora en partir la carga en dos furgonetas más pequeñas, y al mediodía se enteró por Pilar de que la mujer de Carlos estaba en el hospital haciéndose unas pruebas y que él no había querido decirlo para no complicar la semana.
+
+—¿Cómo lo sabías? —le preguntó David por teléfono.
+
+—No sé. Llevaba dos días mirando el móvil cada diez minutos. —Gema hizo una pausa—. Por cierto, Carlos dice que llevas dos noches sin dormir en condiciones.
 
 David miró el vaso de agua que tenía junto al teclado. No recordaba cuándo lo había llenado.
 
@@ -212,7 +220,7 @@ David miró el vaso de agua que tenía junto al teclado. No recordaba cuándo lo
 
 —Mañana también quedarán.
 
-Se despidieron. David revisó una vez más las entregas del polígono. Encontró una restricción que había anotado Pilar y cambió el orden de dos paradas. Cuando terminó, apoyó la cabeza sobre los brazos. El soplo seguía ahí. No sabía si se había dormido cuando el teléfono volvió a vibrar: Gema había conseguido que el cliente aceptara.
+Se despidieron. David revisó una vez más las entregas del polígono. Encontró una restricción que había anotado Pilar y cambió el orden de dos paradas. Cuando terminó, apoyó la cabeza sobre los brazos. El soplo seguía ahí. No sabía si se había dormido cuando el teléfono volvió a vibrar: Pilar había conseguido contactar con el último conductor.
 
 David le dio las gracias, guardó los cambios y siguió con la siguiente ruta.
 
@@ -244,7 +252,7 @@ David miró a Carlos. Tenía la cabeza apoyada en el respaldo y los ojos cerrado
 
 ***
 
-Cuando llegó, las luces de la oficina seguían encendidas. Antes de entrar, le sonó el móvil. Era Salas, desde la matriz. David se apartó de la puerta para contestar.
+Cuando llegó, las luces de la oficina seguían encendidas. Antes de entrar, le sonó el móvil. Era Salas, desde la matriz; alguien de Recursos Humanos le había dado su número. David se apartó de la puerta para contestar.
 
 —Buen trabajo —dijo Salas—. Nos han contado lo de Getafe.
 

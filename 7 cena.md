@@ -1,4 +1,4 @@
-### 6. Cena
+### 7. Cena
 
 En la oficina habían puesto un árbol de Navidad pequeño, de plástico, en la esquina de la recepción. Rafa le colgó un albarán como estrella.
 
@@ -62,7 +62,7 @@ Rafa se giró hacia la pantalla. Le temblaban los hombros.
 
 ***
 
-A las cuatro, un mensajero dejó un traje en recepción. David se lo probó en el baño. Le quedaba bien. Se miró en el espejo: azul oscuro, como los de antes. Se ajustó los puños. Se dijo que iba por compromiso. Se lo repitió dos veces.
+A las cuatro, un mensajero dejó un traje en recepción. David se lo probó en el baño. Le quedaba bien. Se miró en el espejo: azul oscuro, como los de antes. Se ajustó los puños. Se dijo que iba por compromiso. Se lo repitió despacio.
 
 La cena era en un hotel del centro. Un salón con lámparas de araña, un árbol de Navidad demasiado grande y una mesa larga con tarjetas. David llegó diez minutos tarde. Había dado dos vueltas a la manzana. Gema estaba al otro lado del salón, con un vestido negro y una copa en la mano. No parecía la misma persona.
 
@@ -150,7 +150,27 @@ La mesa se quedó un segundo en silencio.
 
 —Bueno —dijo Salas—. Los fijos y los temporales. Todos dan de comer.
 
-Gema bebió agua. David sintió que le ardían las mejillas. Había dicho demasiado. O no lo suficiente. No sabía.
+Gema bebió agua. No miró a David. Dejó la servilleta sobre la mesa y se volvió hacia el concejal.
+
+—Por cierto, Romero, ¿sigue usted en la comisión de movilidad del sur? —preguntó con un tono distinto, más tranquilo—. Porque nuestros conductores me cuentan que el acceso al polígono nuevo lleva dos meses sin señalizar.
+
+Romero dejó el tenedor.
+
+—Me dijeron que lo habían arreglado en octubre.
+
+—Pues alguien se ha quedado con el cartel en el coche —sonrió Gema—. Si un día se pasa por allí a las siete de la mañana, verá el atasco que montan nuestros camiones. Y los de las empresas de la zona, claro.
+
+—Eso no puede ser —dijo Romero, frunciendo el ceño—. Mañana mismo pregunto.
+
+—Se lo agradecería mucho —dijo Gema—. Con los contratos fijos que tenemos allí, perder media hora por furgoneta nos cuesta más que cualquier ajuste de rutas. —Miró a Salas—. Aunque eso, claro, ya lo sabe usted mejor que yo.
+
+Salas se quedó un segundo pensativo. Luego asintió despacio.
+
+—Tiene razón, Gema. Si el ayuntamiento despeja ese acceso, el trimestre que viene lo notaremos en los costes.
+
+—Seguro —dijo ella, y volvió a coger el tenedor.
+
+David la miró de reojo. Salas acababa de aceptar que el problema no era apretar a la plantilla, y parecía convencido de que la idea había salido de la mesa. David no habría sabido explicar en qué momento había ocurrido.
 
 Al final de la cena, Salas levantó la copa.
 
@@ -212,7 +232,7 @@ David se rio. Luego dejó de reírse.
 
 David la miró.
 
-—Además, sabía que valías —dijo Gema—. No sé cómo. Lo sabía. Y si no, mi gente habría sacado lo mejor de ti.
+—Además, cuando Enrique me dio tu nombre no me dijo nada más —añadió Gema—. Sabía que valías. No sé cómo. Lo sabía. Y si no, mi gente habría sacado lo mejor de ti.
 
 —No pareces tan ogro.
 
@@ -244,7 +264,7 @@ Siguieron andando. David se metió las manos en los bolsillos. El traje era buen
 
 —¿Cuándo llegaste, estaba sola?
 
-—No, estaban Rafa y dos de la nave. Estaba fatal. La presentación abierta, las manos temblando... —David se calló—.
+—No, estaban Rafa y dos de la nave. Estaba fatal. La presentación abierta, las manos temblando... —David se calló.
 
 —Y te pidió ayuda a ti.
 

@@ -1,10 +1,10 @@
-### 7. Agravamiento
+### 8. Agravamiento
 
 David se marchó andando. No supo cuánto tardó en llegar a casa. No supo cómo llegó. Las calles estaban casi vacías, hacía frío y él no lo notó. Pensaba en Gema. En la mano de Gema en la mesa. En el abrazo. Sonreía como un idiota.
 
 Tardó un rato en meter la llave en la cerradura. Dentro no encendió la luz. Se sentó en el sofá con el abrigo puesto. El soplo seguía en el oído, como un reloj. No le hizo caso.
 
-Por la mañana se quedó delante de la nevera abierta. No sabía cuánto tiempo. Cuando volvió en sí, tenía un yogur en la mano y no sabía por qué. Lo dejó en la encimera. Puso agua a calentar. No supo para qué.
+Por la mañana se quedó delante de la nevera abierta. No sabía cuánto tiempo. Cuando volvió en sí, tenía un yogur en la mano y no sabía por qué. Lo dejó en la encimera. Puso agua a calentar. Mientras esperaba, miró por la ventana del patio. La vecina estaba tendiendo sábanas y sacudía cada una antes de colgarla. David la miró un rato, con las manos alrededor de la taza vacía. No le pareció que tardara demasiado.
 
 ***
 
@@ -150,13 +150,11 @@ David miró a Enrique.
 
 —Cosas del barrio.
 
-El camarero trajo un café y un agua. Enrique bebió un poco de vino.
+El camarero trajo un café para Enrique y un agua para David. Enrique dio un sorbo al vino que tenía delante.
 
 —Bueno. Cuéntamelo.
 
-—Fui un niño prodigio —dijo David—. Acabé la carrera antes que los demás. Gané mucho dinero. Tuve novias guapísimas. Y ahora no sé lo que hago delante de una nevera.
-
-—Esta mañana me he quedado mirando una pantalla hasta que se ha apagado. No sé cuánto tiempo. No había hecho nada.
+—Fui un niño prodigio —dijo David—. Acabé la carrera antes que los demás. Gané mucho dinero. Tuve novias guapísimas. Y ahora no sé lo que hago delante de una nevera. Esta mañana me he quedado mirando una pantalla hasta que se ha apagado. No sé cuánto tiempo. No había hecho nada.
 
 —¿En qué pensabas?
 
@@ -206,7 +204,7 @@ David lo miró.
 
 —No hacía falta.
 
-Enrique dejó la copa.
+Enrique se inclinó hacia delante.
 
 —¿En los dos oídos o en uno?
 
@@ -296,9 +294,7 @@ David miró el nombre en la servilleta.
 
 —No sabes mucho.
 
-—Sé lo que hay que saber. Que estás mal y quién puede arreglarlo. Lo demás son detalles.
-
-—Dile que vas de parte del ciclista profesional.
+—Sé lo que hay que saber. Que estás mal y quién puede arreglarlo. Lo demás son detalles. Dile que vas de parte del ciclista profesional.
 
 —He visto a muchos médicos.
 
@@ -396,11 +392,7 @@ Enrique terminó el café.
 
 —Sí. El batir de las alas de una mariposa en el Amazonas puede provocar un huracán en Nueva York. Hice un programa que pintaba los atractores de Lorenz en tres dimensiones. Podía navegar por ellos.
 
-—No.
-
-—Eso es lo que dice.
-
-—No, no dice eso. Es una demostración por reducción al absurdo. ¿Qué pasaba cuando cambiabas un poco las condiciones de tu programa?
+—¿Y qué pasaba cuando cambiabas un poco los datos de entrada?
 
 —Al principio, casi nada. Las trayectorias iban juntas. Pero después se separaban.
 
@@ -408,7 +400,7 @@ Enrique terminó el café.
 
 David asintió. Cogió el bolígrafo de Enrique y dibujó dos líneas en el dorso de la servilleta, detrás del nombre. Al principio iban juntas; después se alejaban.
 
-—Si no conoces las condiciones iniciales con suficiente precisión, el error crece. Puedes conocer las reglas y aun así no saber dónde estarás después de un tiempo.
+—Si no conoces las condiciones iniciales con suficiente precisión, el error crece. No dice que una mariposa cause huracanes; dice que no puedes predecirlos. Puedes conocer las reglas y aun así no saber dónde estarás después de un tiempo.
 
 —Exacto.
 
@@ -422,39 +414,7 @@ David dejó el bolígrafo. Miró las líneas que había dibujado.
 
 —Sin la lógica no habría medicina. Ni aviones. Ni nada.
 
-—Claro. Y sin intuición no habría médicos que supieran cuándo parar. Ni aviones que aterrizaran con niebla. Ni nada.
-
-—Eso es una manera muy bonita de decir que hay que hacer caso a los tontos.
-
-—No. Es una manera de decir que no eres el único que piensa.
-
-—Yo no he dicho eso.
-
-—Lo has pensado.
-
-David miró el mantel.
-
-—¿Por qué te gusta una canción? —preguntó Enrique.
-
-—Porque me gusta.
-
-—Eso no es una razón.
-
-—Ya.
-
-—Y no por eso deja de ser verdad.
-
-David no contestó.
-
-—Podrías estudiar música veinte años —dijo Enrique—. Treinta. Con esa cabeza tuya, a lo mejor hasta serías un virtuoso.
-
-—Gracias por la confianza.
-
-—Y después de treinta años de trabajo, ¿compondrías la Novena de Beethoven?
-
-—No lo creo.
-
-—Por supuesto que no. Hay cosas que se pueden enseñar y otras que no caben en un libro. Llámalo magia si quieres. Los buenos médicos saben cosas que no siempre saben explicar. Los buenos jefes también. Y las personas que saben querer.
+—Claro. Y sin intuición no habría médicos que supieran cuándo parar. Ni aviones que aterrizaran con niebla. Hay cosas que se pueden enseñar y otras que no caben en un libro. Los buenos médicos saben cosas que no siempre saben explicar. Los buenos jefes también. Y las personas que saben querer.
 
 —¿Las personas que saben querer?
 
@@ -472,11 +432,11 @@ David levantó la cabeza.
 
 David miró las dos líneas que había dibujado.
 
-—Gema sabe dirigir —dijo Enrique—. Eso no se estudia.
+—Gema sabe dirigir —dijo Enrique—. En el colegio te enseñan a sumar. En la universidad, a optimizar. En ningún sitio te enseñan a leer a un hombre.
 
-—Hay libros.
+—Hay libros de gestión.
 
-—Los escriben los que no saben. Se tiene o no se tiene. Como el oído musical. En el colegio te enseñan a sumar. En la universidad, a optimizar. En ningún sitio te enseñan a leer a un hombre.
+—Los escriben los que no saben.
 
 —Eso es muy cómodo. Justifica no estudiar.
 
@@ -486,7 +446,7 @@ David miró las dos líneas que había dibujado.
 
 —Qué raro.
 
-—Lo de la intuición. Yo he programado redes de esas. AlphaZero. Aprenden jugando contra sí mismas, sin que nadie les escriba una regla para cada jugada.
+—Lo de la intuición. Yo he programado redes como AlphaZero. Aprenden jugando contra sí mismas, sin que nadie les escriba una regla para cada jugada.
 
 —Ya.
 
@@ -496,7 +456,7 @@ David miró las dos líneas que había dibujado.
 
 —Es un hecho.
 
-—Entonces ya está —dijo Enrique—. Que se puede llegar a una respuesta sin una lista de instrucciones. Si lo aceptas para una máquina, ¿por qué no para el que lleva veinte años en la nave y sabe cuándo una furgoneta no va a arrancar sin saber explicarlo?
+—Entonces ya está —dijo Enrique—. Saben más de lo que pueden explicar. Si aceptas que una máquina llegue a una respuesta sin una lista de instrucciones, ¿por qué no aceptas que lo haga el que lleva veinte años en la nave y sabe cuándo una furgoneta no va a arrancar?
 
 David giró la servilleta entre los dedos.
 
@@ -511,22 +471,6 @@ David giró la servilleta entre los dedos.
 —Eso está bien, ¿no?
 
 —Claro. Pero alguien ha decidido qué números meter y cuáles dejar fuera. Y cuánto vale cada cosa. A lo mejor cuentan lo que cuesta un trabajador, pero no lo que sabe ese trabajador. Luego miran el resultado y dicen que no es su opinión: lo dicen los números.
-
-—Eso no hace inútiles los números.
-
-—No. Pero en esos despachos, entre ingenieros, gráficas y presentaciones, a veces hacen lo del cartel de la carretera.
-
-—¿Qué cartel?
-
-—El de las obras. «Presupuesto: doce millones, cuatrocientos mil y pico euros con treinta y siete céntimos». ¿No te parece ridículo?
-
-—El presupuesto tendrá una cifra exacta.
-
-—Y la obra acabará costando otra. Pero ahí tienes los céntimos, para que parezca que saben hasta lo que va a costar el último tornillo. Eso solo se me ocurre hacerlo por dos razones: o sabes que los céntimos dan una credibilidad que la cifra no merece, o eres tan tonto que te los crees.
-
-—O te obligan a ponerlos.
-
-—Entonces ya somos tres tontos.
 
 —Si falta algo, se añade al modelo.
 
@@ -576,7 +520,7 @@ David lo miró. Enrique sonrió.
 
 Enrique se levantó y pagó.
 
-—Bueno. Gracias por amargarme la sobremesa. Ve a ver al neurocirujano. Haz lo que te diga. Ponte en sus manos y no le discutas.
+—Bueno. Gracias por amargarme la sobremesa. Ve a ver a la doctora. Haz lo que te diga. Ponte en sus manos y no le discutas.
 
 —No le discutiré.
 

@@ -1,10 +1,10 @@
-### 5. Calma
+### 6. Calma
 
 El sábado, David llegó al semáforo a las nueve menos cinco.
 
 Se dijo que había elegido aquella ruta porque le gustaba. El semáforo estaba en su camino y no había razón para dar un rodeo. Se lo dijo dos veces.
 
-A las nueve y diez no había aparecido nadie. Estaba a punto de marcharse cuando vio llegar a Enrique con otros cuatro ciclistas.
+A las nueve y diez no había aparecido nadie. Antes se habría marchado a los tres minutos; ahora se quedó apoyado en el bordillo, mirando los coches. Estaba a punto de dar la vuelta cuando vio llegar a Enrique con otros cuatro ciclistas.
 
 —¡Hombre, David! —dijo Enrique—. Pensábamos que te habías escapado. Te hemos echado en falta entre semana.
 
@@ -122,6 +122,24 @@ Rafa lo cogió antes de que Elena pudiera alargar la mano.
 
 ***
 
+Dos días después, David se atascó con el programa de entregas. Había borrado sin querer un filtro y en la pantalla aparecían cientos de líneas mezcladas. Probó a cerrarlo y abrirlo otra vez. Seguían igual.
+
+—Rafa —dijo al fin.
+
+Rafa se levantó con el bocadillo a medio morder y se inclinó sobre su hombro.
+
+—Has quitado la pestaña de la fecha. Mira, le das aquí, luego aquí, y eliges la semana.
+
+David lo intentó. Se equivocó de botón y volvió a salir la lista entera.
+
+—Espera —dijo Rafa, sin rastro de prisa—. Es que ese icono parece igual que el otro. Mira, el que tiene la flecha pequeña.
+
+Volvió a explicárselo despacio, paso a paso, esperando a que David hiciera cada clic. Cuando la tabla volvió a ordenarse, Rafa le dio un golpecito en el respaldo de la silla y regresó a su mesa.
+
+David se quedó mirando la pantalla. Recordó al empleado del banco dibujando dos cajas en un papel. La misma paciencia, pensó, pero sin el tono de estar perdonándole la vida.
+
+***
+
 Una tarde, mientras esperaban a que terminara una descarga, Rafa sacó un cómic de su mochila.
 
 —¿Lees esto? —preguntó Elena.
@@ -186,19 +204,17 @@ David examinó la hoja de cálculo. Elena intentó explicarle otra vez lo que ha
 
 —Espera un momento —dijo él—. Vamos a empezar por los datos.
 
-Elena le señaló los archivos de origen. David los abrió y comprobó las cifras con ella. Corrigieron la tabla y revisaron los cálculos que dependían de ella. Después abrió la presentación.
+Elena le señaló los archivos de origen. David los abrió y fueron comprobando las cifras uno a uno, despacio. Cuando él se perdía en una columna, Elena le leía el número en voz alta para que no tuviera que cambiar de ventana. Rafa se acercó con dos vasos de agua y se quedó un momento mirando la hoja hasta que encontraron la fila donde se habían mezclado los meses.
+
+Corrigieron la tabla y revisaron las sumas. Después Elena abrió la presentación.
 
 —Aquí también hay que cambiarlos.
 
-—Sí. Son un montón de diapositivas.
+—Pues vamos uno por uno —dijo David—. Yo te los dicto y tú los pegas.
 
-—Algunas dicen lo mismo. Podemos juntarlas.
+Elena fue actualizando las diapositivas mientras David le leía los totales del papel. Cuando terminaron, repasaron la presentación desde el principio.
 
-David actualizó los gráficos y reorganizó varias páginas. Elena fue comprobando las cifras a su lado. Cuando terminaron, repasaron la presentación desde el principio.
-
-—Así se entiende mejor —dijo ella.
-
-—Había demasiados números en algunas páginas.
+—Falta ordenar dos páginas —dijo ella—. Pero ya se entiende.
 
 —Gema llega dentro de cinco minutos.
 

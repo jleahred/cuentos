@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genera un PDF de lectura, en una columna, con los capítulos 1–12."""
+"""Genera un PDF de lectura, en una columna, con los capítulos 1–13."""
 
 from html import escape
 from pathlib import Path
@@ -11,8 +11,9 @@ import tempfile
 ROOT = Path(__file__).resolve().parent
 CHAPTERS = [
     "1 triunfador.md", "2 fallo.md", "3 colapso.md", "4 fondo.md",
-    "5 calma.md", "6 cena.md", "7 agravamiento.md", "8 hospital.md",
-    "9 caos.md", "10 inaplazable.md", "11 cambio.md", "12 comienzo.md",
+    "5 vecinos.md", "6 calma.md", "7 cena.md", "8 agravamiento.md",
+    "9 panico.md", "10 caos.md", "11 inaplazable.md", "12 cambio.md",
+    "13 comienzo.md",
 ]
 
 
@@ -63,7 +64,7 @@ def main():
 
     html = """<!doctype html><html lang="es"><head><meta charset="utf-8">
 <title>Entre tontos</title><style>
-@page { size: A4; margin: 17mm 16mm 18mm; }
+@page { size: A5; margin: 15mm 14mm 16mm; }
 html { font-family: "Liberation Serif", "DejaVu Serif", serif; color: #171717; }
 body { margin: 0; font-size: 10.5pt; line-height: 1.38; }
 .chapter { column-count: 1; }
