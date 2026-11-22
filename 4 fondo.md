@@ -258,9 +258,9 @@ David lo miró. El hombre debía de tener más de sesenta años y esa bici...
 
 Los demás se echaron a reír.
 
-—Está jubilado —dijo uno—. Y lo único que hace es montar en bici porque su mujer no lo aguanta en casa.
+—Está jubilado —dijo uno—. Y lo único que hace es montar en bici.
 
-—Eso dice ella —replicó Enrique—. Pero cuando vuelvo siempre me tiene preparada alguna cosa que hacer.
+—También desayuno —replicó Enrique—. Y no veo que tú faltes nunca.
 
 David apartó la vista. Notó que se le escapaba una sonrisa y se concentró en la carretera.
 

@@ -124,7 +124,7 @@ Siguió. Elena, desde su mesa, levantó una ceja. David miró la pantalla. Escri
 
 ***
 
-Enrique le había dicho una vez que los jueves comía en una taberna del barrio y que se quedaba hasta tarde. David salió de la oficina a las cinco y lo encontró todavía en la mesa, con la sobremesa alargándose. El resto de los días comía en casa, con su mujer. La taberna tenía manteles de cuadros y un televisor pequeño sin sonido. El dueño lo saludó por su nombre. El camarero le llamó doctor. David no le dio importancia.
+Enrique le había dicho una vez que los jueves comía en una taberna del barrio y que se quedaba hasta tarde. David salió de la oficina a las cinco y lo encontró todavía en la mesa, con la sobremesa alargándose. El resto de los días solía comer en casa. La taberna tenía manteles de cuadros y un televisor pequeño sin sonido. El dueño lo saludó por su nombre. El camarero le llamó doctor. David no le dio importancia.
 
 Enrique estaba en su mesa, con el periódico y una copa de vino.
 
@@ -584,7 +584,7 @@ Enrique se levantó y pagó.
 
 Se puso el abrigo.
 
-—Y me voy, que mi mujer me espera.
+—Y me voy, que tengo cosas que hacer.
 
 David se guardó la servilleta en el bolsillo. Salió a la calle. Hacía frío. Se quedó un momento en la puerta, con la mano en el bolsillo, tocando el papel.
 
