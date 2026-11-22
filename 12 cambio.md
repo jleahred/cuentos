@@ -210,21 +210,37 @@ Gema se apoyó en el respaldo.
 
 —¿En qué sedes?
 
-—No lo concretaron al principio. Luego sugirieron que empezáramos por un empleado tuyo. David.
+—Aquí. Sugirieron empezar por ti y por un empleado tuyo. David.
 
-—¿David?
+Gema se quedó quieta. Notó un frío rápido en el estómago. Pensó en David, que todavía se cansaba al subir una escalera, y en Elena y Rafa fuera, al otro lado de la pared.
 
-—Al parecer fue poco amable con ellos.
+—¿Por mí? —preguntó, procurando que no le temblara la voz.
 
-—Le ofrecieron un puesto por encima de mí después de ponernos un objetivo imposible. Quisieron usar lo que había hecho el equipo para justificar que podíamos trabajar siempre así.
+—Decían que eras muy blandita con la gente. Que no apretabas lo suficiente. Y de David dijeron que había sido poco amable con ellos.
+
+Gema miró la carpeta cerrada sobre la mesa. Empezó a calcular cuánto tardaría en encontrar otra cosa si la echaban esa semana, y cómo se lo diría a su equipo.
+
+Hubo un silencio largo.
+
+Beatriz dejó pasar unos segundos antes de cerrar la libreta de anotaciones.
+
+—Les dije que se fueran al infierno.
+
+Gema levantó la vista de golpe.
+
+—¿Cómo?
+
+—Aunque lo de David fue más directo —continuó Beatriz, sonriendo apenas—. Le ofrecieron un puesto por encima de ti después de poneros un objetivo imposible, ¿no?
+
+—Sí —dijo Gema, soltando el aire despacio—. Quisieron usar lo que había hecho el equipo para justificar que podíamos trabajar siempre así.
 
 —¿Y él qué hizo?
 
-—Les dijo que no. —Gema hizo una pausa—. De una forma bastante clara, según me contó.
+—Les dijo exactamente eso. —Gema hizo una pausa—. Según me contó.
 
 Beatriz bajó la vista a sus papeles.
 
-—Eso también nos dijeron.
+—Me cae bien.
 
 —David fue a Getafe a ayudar cuando no teníamos tiempo ni gente. Hizo un programa para organizar las rutas, pero preguntó a Carlos y a Pilar antes de dar nada por bueno. Y Elena y Rafa se pasaron días buscando soluciones desde aquí. Carlos conoce aquella nave mejor que nadie. Pilar sabe lo que falta antes de que los demás lo echen en falta.
 
