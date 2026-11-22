@@ -174,7 +174,9 @@ Esta vez aparecieron cuatro rutas nuevas. Carlos las revisó una por una, con el
 
 —Se lo diré a Gema.
 
-Cuando Carlos se fue, David siguió trabajando. Fuera, la nave quedó en silencio y las luces de los muelles se apagaron. Pasó el resto de la noche metiendo a mano los pedidos del día siguiente, uno por uno, comprobando direcciones duplicadas y tachando errores en el papel. No hacía nada brillante; solo no se levantaba de la silla. Le escocían los ojos y el soplo no dejaba de golpearle el oído, pero cada pedido cuadrado era uno menos para la mañana.
+Cuando Carlos se fue, David siguió trabajando. Fuera, la nave quedó en silencio y las luces de los muelles se apagaron. Pasó el resto de la noche metiendo a mano los pedidos del día siguiente, uno por uno, comprobando direcciones duplicadas y tachando errores en el papel. Le escocían los ojos y el soplo no dejaba de golpearle el oído, pero no se levantó de la silla.
+
+De madrugada, entre dos tandas de pedidos, vio de golpe algo que había tenido delante toda la tarde: dos furgonetas que volvían vacías del sur pasaban a diez minutos de una recogida que estaba atascada desde el lunes. La idea le duró un instante, limpia y entera, antes de que volviera el peso en la cabeza. La apuntó deprisa, comprobó los horarios dos veces para asegurarse de que no se engañaba y la incorporó a la hoja. No era brillante todo el tiempo; le bastaba con atrapar esos momentos cuando aparecían.
 
 Cuando levantó la vista, era de madrugada. En la pantalla había seis rutas provisionales; en su cuaderno, una lista de preguntas para Carlos y los conductores. Se acordó de lo que había dicho la doctora. Cerró los ojos un momento. Después dejó el programa preparado y llamó a un taxi.
 
