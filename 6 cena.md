@@ -1,4 +1,4 @@
-### 7. Cena
+### 6. Cena
 
 En la oficina habían puesto un árbol de Navidad pequeño, de plástico, en la esquina de la recepción. Rafa le colgó un albarán como estrella.
 

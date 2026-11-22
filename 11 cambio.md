@@ -1,4 +1,4 @@
-### 12. Cambio
+### 11. Cambio
 
 Durante las semanas siguientes al alta, David fue recuperando fuerzas. Gema siguió visitándolo y un día retomaron la conversación que habían dejado pendiente junto a las tazas.
 

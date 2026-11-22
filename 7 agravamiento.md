@@ -1,4 +1,4 @@
-### 8. Agravamiento
+### 7. Agravamiento
 
 David se marchó andando. No supo cuánto tardó en llegar a casa. No supo cómo llegó. Las calles estaban casi vacías, hacía frío y él no lo notó. Pensaba en Gema. En la mano de Gema en la mesa. En el abrazo. Sonreía como un idiota.
 

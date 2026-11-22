@@ -30,7 +30,7 @@ David volvió a mirar las cifras.
 
 Era evidente. Sintió que le ardían las mejillas.
 
-La misma operación que había hecho mientras esperaban el coche la noche de Schneider, en dos segundos, sin darse cuenta de que la estaba haciendo.
+La misma operación que había hecho en el coche la noche de Schneider, en dos segundos, sin darse cuenta de que la estaba haciendo.
 
 —Sí, sí, evidente. Pero hay algo que no me convence.
 
