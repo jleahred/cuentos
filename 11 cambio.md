@@ -18,6 +18,30 @@ Gema le dio un sorbo a la infusión.
 
 —Pensando que con eso ya hemos terminado de hablar.
 
+Unos días después, Gema le enseñó una fotografía que llevaba en el móvil. Era antigua: en ella aparecía una niña con dos personas delante de una casa.
+
+—Son mis padres —dijo—. Murieron cuando yo era pequeña.
+
+David miró la fotografía otra vez.
+
+—Lo siento. No lo sabía.
+
+—Nunca te lo había contado. Mi tío y su mujer se hicieron cargo de mí. Ella también murió hace unos años.
+
+Gema amplió la imagen. La niña tenía una rodilla pelada y una sonrisa enorme.
+
+—Mi tío dice que me caí cinco minutos antes de hacerla. Que estuve llorando hasta que mi padre me prometió un helado.
+
+—Parece una buena solución.
+
+—Es un hombre muy inteligente. Y sabio. Cuando tengo un problema, voy a verlo y siempre encuentra algo que decirme.
+
+—¿Y te hace caso cuando tienes razón?
+
+—A veces. Pero no deja que se acostumbre nadie.
+
+Gema guardó el teléfono. David acercó la taza de ella, que se había quedado al otro lado de la mesa.
+
 Otro día salieron a dar un paseo corto. A David le pareció demasiado corto y a Gema le pareció suficiente. Discutieron hasta el portal, donde él la besó antes de que pudiera decirle que subiera a descansar. Ella le devolvió el beso.
 
 —Ahora sube a descansar.

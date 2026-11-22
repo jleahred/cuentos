@@ -152,19 +152,11 @@ David apartó los platos y Gema le ayudó a recoger. Al dejar la tabla en la coc
 
 —¿Dónde había ido?
 
-—A unas charlas de medicina. Es médico. Se ha jubilado, pero todavía lo invitan.
+—A unas charlas de medicina. Se jubiló, pero todavía lo invitan a dar alguna ponencia.
 
 —Debe de ser muy bueno en lo suyo.
 
 —Lo es. Y no solo en eso. Es una de las personas más sabias que conozco.
-
-—¿Es hermano de tu padre o de tu madre?
-
-—De ninguno. Él y su mujer eran amigos de mis padres. Los perdí a los dos y ellos siempre estuvieron ahí para mí. Es mi padrino, pero yo le digo tío desde pequeña.
-
-—¿Y su mujer?
-
-—Murió hace años. La echo mucho de menos.
 
 Gema cogió la tabla y pasó el cuchillo por encima para reunir las migas.
 
