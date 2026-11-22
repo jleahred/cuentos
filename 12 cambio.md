@@ -230,17 +230,17 @@ Gema levantó la vista de golpe.
 
 —¿Cómo?
 
-—Aunque lo de David fue más directo —continuó Beatriz, sonriendo apenas—. Le ofrecieron un puesto por encima de ti después de poneros un objetivo imposible, ¿no?
+—Aunque lo de David fue más directo —continuó Beatriz, sonriendo apenas—. Yo estaba en el despacho de Salas con el altavoz puesto cuando le llamó el viernes. Me estaban enseñando lo bien que funcionaba la empresa. Me quedé callada, escuchando, a ver qué contestaba él cuando le ofrecieron un puesto por encima de ti.
 
-—Sí —dijo Gema, soltando el aire despacio—. Quisieron usar lo que había hecho el equipo para justificar que podíamos trabajar siempre así.
+—¿Estabas en esa llamada?
 
-—¿Y él qué hizo?
+—Sentada delante del teléfono. Cuando soltó aquello de «Iros al infierno» y colgó, Salas se quedó mirando la mesa como si le hubiera fallado la cobertura.
 
-—Les dijo exactamente eso. —Gema hizo una pausa—. Según me contó.
+Gema soltó el aire de golpe y se le escapó una risa.
 
-Beatriz bajó la vista a sus papeles.
+—Me dijo que había sido claro.
 
-—Me cae bien.
+—Mucho. —Beatriz bajó la vista a sus papeles—. Me cae bien ese muchacho.
 
 —David fue a Getafe a ayudar cuando no teníamos tiempo ni gente. Hizo un programa para organizar las rutas, pero preguntó a Carlos y a Pilar antes de dar nada por bueno. Y Elena y Rafa se pasaron días buscando soluciones desde aquí. Carlos conoce aquella nave mejor que nadie. Pilar sabe lo que falta antes de que los demás lo echen en falta.
 

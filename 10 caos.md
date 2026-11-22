@@ -256,7 +256,7 @@ David miró a Carlos. Tenía la cabeza apoyada en el respaldo y los ojos cerrado
 
 Cuando llegó, las luces de la oficina seguían encendidas. Antes de entrar, le sonó el móvil. Era Salas, desde la matriz; alguien de Recursos Humanos le había dado su número. David se apartó de la puerta para contestar.
 
-—Buen trabajo —dijo Salas—. Nos han contado lo de Getafe.
+—Buen trabajo —dijo Salas. La voz sonaba un poco lejana, como en manos libres—. Nos han contado lo de Getafe.
 
 Tenía ganas de sentarse, pero también de terminar cuanto antes.
 
