@@ -18,7 +18,9 @@ Gema le dio un sorbo a la infusión.
 
 —Pensando que con eso ya hemos terminado de hablar.
 
-Otro día salieron a dar un paseo corto. A David le pareció demasiado corto y a Gema le pareció suficiente. Discutieron hasta el portal, donde él la besó antes de que pudiera decirle que subiera a descansar. Ella le devolvió el beso y después se lo dijo.
+Otro día salieron a dar un paseo corto. A David le pareció demasiado corto y a Gema le pareció suficiente. Discutieron hasta el portal, donde él la besó antes de que pudiera decirle que subiera a descansar. Ella le devolvió el beso.
+
+—Ahora sube a descansar.
 
 El lunes que volvió a la oficina llevaba una carpeta de informes, la promesa de no cargar cajas y una discusión pendiente con Gema sobre lo que significaba «tomárselo con calma».
 
@@ -208,7 +210,11 @@ Clara cerró la carpeta.
 
 Gema puso un vaso bajo la máquina y pulsó el botón. Clara esperaba a su lado con otro vaso vacío.
 
-—Mis compañeros encontraron algo que no entendían —dijo—. Cuatro personas de tu equipo siguieron cerrando operaciones después de alcanzar sus objetivos individuales. Parte de ese trabajo podía haber pasado al siguiente periodo, pero lo cerraron entonces.
+—Mis ingenieros me trajeron los informes y me explicaron las cifras. Pero había algo que no me cuadraba. Les dije: «Aquí hay algo raro. Seguid buscando».
+
+—¿Y qué encontraron?
+
+—Cuatro personas de tu equipo siguieron cerrando operaciones después de alcanzar sus objetivos individuales. Parte de ese trabajo podía haber pasado al siguiente periodo, pero lo cerraron entonces.
 
 —Había entregas pendientes.
 
@@ -220,9 +226,13 @@ Gema recogió el primer vaso antes de que la máquina terminara de zumbar.
 
 —¿Lo sabías?
 
-—Sabía que habían seguido trabajando. No que lo estuvieran mirando así.
+—Claro que lo sabía. Sabían que no iban a cobrar más y que podía perjudicarlos al año siguiente. Aun así, quisieron terminarlo.
 
-—Uno de mis compañeros llamó para preguntar por una operación. Le dijeron que querían cerrar el mes entre todos. Pensó que había entendido mal y llamó a otra persona.
+Gema sonrió.
+
+—Son maravillosos.
+
+—Eso me han dicho. Uno de mis ingenieros llamó para preguntar por una operación. Le contestaron que querían cerrar el mes entre todos. Pensó que había entendido mal y llamó a otra persona.
 
 —¿Y qué le dijo?
 
@@ -232,7 +242,7 @@ Rafa apareció con su taza. Saludó a Clara y se colocó detrás de ellas.
 
 —Gema, ¿qué tal con el ogro de la empresa que nos ha comprado?
 
-Gema abrió mucho los ojos. Clara se volvió hacia él.
+Gema abrió mucho los ojos e intentó señalar a Clara con disimulo. Clara se volvió hacia ella justo a tiempo de sorprenderla con la mano levantada. Sonrió y después miró a Rafa.
 
 —Todavía no lo sabemos —dijo—. Soy Clara Montes.
 
@@ -256,13 +266,7 @@ Clara sonrió y cogió el segundo café.
 
 —En tu presentación las previsiones estaban redondeadas. La mayoría de los informes que he visto traen decimales hasta para las estimaciones de dentro de tres años.
 
-—Las cifras completas están en los archivos. Para una previsión, Elena dice que redondear es más honesto.
-
-—¿Y tú qué dices?
-
-—Que se lo enseñé yo.
-
-—Ah.
+—Mi tío me enseñó que el exceso de precisión, no es honesto.
 
 Clara probó el café. Gema esperó a que continuara.
 
@@ -276,7 +280,7 @@ Gema sujetó el vaso por el borde. Estaba demasiado caliente.
 
 —¿Qué va a pasar con los despidos?
 
-—Hemos prescindido de Salas y Vidal. La revisión de las cuentas sigue abierta y queda trabajo por hacer, pero no vamos a despedir a David por haberles contestado. Tampoco tengo una lista de puestos que pedirte hoy.
+—Ya me he encargado de todo eso. Hemos prescindido de Salas y Vidal. La revisión de las cuentas sigue abierta y queda trabajo por hacer, pero no he venido a pedirte una lista de puestos.
 
 Gema soltó el aire y dejó el vaso sobre el estante de la máquina.
 
@@ -294,7 +298,13 @@ Gema soltó el aire y dejó el vaso sobre el estante de la máquina.
 
 Gema cogió el vaso otra vez. Esta vez pudo beber.
 
-—Quiero que pienses qué necesita tu equipo —dijo Clara—. Y qué quieres tú. Lo hablaremos con tiempo.
+—Quiero hacerte una oferta, Gema. Piénsala con tiempo: ¿qué quieres tú? ¿Un puesto más alto, más responsabilidad, más sueldo? ¿Quieres seguir aquí y cambiar algo de tu trabajo? Dímelo.
+
+Gema la miró.
+
+—¿Así, sin más?
+
+—Ya encontraremos la manera de ponerlo por escrito.
 
 David salió del pasillo con una carpeta en la mano. Al verlas, se acercó a Gema, le dio un beso y dejó la carpeta junto a su café.
 
@@ -316,14 +326,14 @@ David le tendió la mano.
 
 —Encantado.
 
-—Igualmente. Por cierto, Salas y Vidal me contaron lo que les dijiste.
-
-David miró a Gema.
-
-—Ah.
-
-—No te preocupes. He venido a decírselo yo también.
+—Igualmente.
 
 Clara dejó el vaso vacío junto a la máquina y recogió su carpeta.
 
-—Os dejo trabajar. Y, Gema: si encuentras un sitio para comer con servilletas nuevas, me avisas.
+—Bueno, me marcho. Tengo una comida pendiente y todavía no he decidido qué excusa voy a poner para no ir.
+
+Se despidió de Gema y dio unos pasos hacia la salida. Antes de llegar a la puerta, se volvió.
+
+—Ah, por cierto, David: vete al infierno.
+
+David se quedó mirándola. Clara salió riéndose.
