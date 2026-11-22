@@ -122,19 +122,21 @@ Rafa lo cogió antes de que Elena pudiera alargar la mano.
 
 ***
 
-Dos días después, David se atascó con el programa de entregas. Había borrado sin querer un filtro y en la pantalla aparecían cientos de líneas mezcladas. Probó a cerrarlo y abrirlo otra vez. Seguían igual.
+Dos días después, David se atascó con una entrega de Getafe que no aparecía en el listado. Había buscado por fecha, por cliente y por número de albarán, y el sistema seguía devolviendo la tabla vacía.
 
 —Rafa —dijo al fin.
 
 Rafa se levantó con el bocadillo a medio morder y se inclinó sobre su hombro.
 
-—Has quitado la pestaña de la fecha. Mira, le das aquí, luego aquí, y eliges la semana.
+—Es que los de Getafe entran con el código antiguo cuando vienen de devolución. Mira, tienes que cambiar este desplegable de aquí.
 
-David lo intentó. Se equivocó de botón y volvió a salir la lista entera.
+David lo miró. No había visto ninguna nota sobre códigos antiguos en el manual que le dio Elena.
 
-—Espera —dijo Rafa, sin rastro de prisa—. Es que ese icono parece igual que el otro. Mira, el que tiene la flecha pequeña.
+—Gracias —dijo.
 
-Volvió a explicárselo despacio, paso a paso, esperando a que David hiciera cada clic. Cuando la tabla volvió a ordenarse, Rafa le dio un golpecito en el respaldo de la silla y regresó a su mesa.
+—Es un truco tonto del programa. —Rafa señaló un segundo campo—. Y si alguna vez te sale en rojo, tampoco es un error, es que falta la firma del transportista.
+
+Se lo explicó despacio, sin prisa ni aire de estar haciéndole un favor, y luego volvió a su mesa.
 
 David se quedó mirando la pantalla. Recordó al empleado del banco dibujando dos cajas en un papel. La misma paciencia, pensó, pero sin el tono de estar perdonándole la vida.
 
@@ -204,17 +206,15 @@ David examinó la hoja de cálculo. Elena intentó explicarle otra vez lo que ha
 
 —Espera un momento —dijo él—. Vamos a empezar por los datos.
 
-Elena le señaló los archivos de origen. David los abrió y fueron comprobando las cifras uno a uno, despacio. Cuando él se perdía en una columna, Elena le leía el número en voz alta para que no tuviera que cambiar de ventana. Rafa se acercó con dos vasos de agua y se quedó un momento mirando la hoja hasta que encontraron la fila donde se habían mezclado los meses.
-
-Corrigieron la tabla y revisaron las sumas. Después Elena abrió la presentación.
+Elena le señaló los archivos de origen. David los abrió y encontró dónde se habían mezclado los meses. Corrigieron la tabla juntos, comprobando las cifras en voz alta para no volver a cruzarlas. Después Elena abrió la presentación.
 
 —Aquí también hay que cambiarlos.
 
-—Pues vamos uno por uno —dijo David—. Yo te los dicto y tú los pegas.
+—Algunas diapositivas dicen lo mismo —dijo David—. Si juntamos estas dos, acabamos antes.
 
-Elena fue actualizando las diapositivas mientras David le leía los totales del papel. Cuando terminaron, repasaron la presentación desde el principio.
+Fueron actualizando los totales uno a uno. David le dictaba los números del papel y Elena los pegaba en los gráficos. Cuando terminaron, repasaron la presentación desde el principio.
 
-—Falta ordenar dos páginas —dijo ella—. Pero ya se entiende.
+—Así se entiende mejor —dijo ella.
 
 —Gema llega dentro de cinco minutos.
 

@@ -174,7 +174,7 @@ Esta vez aparecieron cuatro rutas nuevas. Carlos las revisó una por una, con el
 
 —Se lo diré a Gema.
 
-Cuando Carlos se fue, David siguió trabajando. Fuera, la nave quedó en silencio y las luces de los muelles se apagaron. Él pasó los datos del día siguiente al programa, que era lento y estaba lleno de parches. Se equivocó en una fórmula y tuvo que repetir la carga dos veces. Le escocían los ojos y el soplo no dejaba de golpearle el oído, pero la tabla le daba algo concreto a lo que agarrarse: los pedidos, los tiempos, las furgonetas que podían cruzarse sin detenerse.
+Cuando Carlos se fue, David siguió trabajando. Fuera, la nave quedó en silencio y las luces de los muelles se apagaron. Él pasó los datos del día siguiente a un programa sencillo que había montado a base de parches. En condiciones normales lo habría terminado en una hora; ahora tardó el triple, se equivocó en una condición por puro agotamiento y tuvo que repetir la carga. Le escocían los ojos y el soplo no dejaba de golpearle el oído, pero la tabla le daba algo concreto a lo que agarrarse: los pedidos, los tiempos, las furgonetas que podían cruzarse sin detenerse.
 
 Cuando levantó la vista, era de madrugada. En la pantalla había seis rutas provisionales; en su cuaderno, una lista de preguntas para Carlos y los conductores. Se acordó de lo que había dicho la doctora. Cerró los ojos un momento. Después dejó el programa preparado y llamó a un taxi.
 

@@ -124,7 +124,7 @@ Había borrado el número de Marta de la pantalla de inicio, pero no de la agend
 
 Tenía trescientos cuarenta y dos contactos. Los fue pasando con el dedo. Empresarios, directores financieros, un ministro, dos alcaldes, abogados, periodistas, una actriz italiana. A muchos los recordaba por la empresa, no por la cara. Algunos le habían escrito al principio, cuando se supo lo de la dimisión. Mensajes cortos, cordiales. «Cualquier cosa que necesites». Hacía meses que ninguno escribía.
 
-No había nadie a quien pudiera llamar para decirle que no sabía cuántos lados tenía un hexágono sin contarlos.
+No había nadie a quien pudiera llamar para decirle que llevaba meses sin poder terminar una página.
 
 Llegó a Marta. Pulsó el número. Antes de que sonara el primer tono, colgó.
 

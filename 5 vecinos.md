@@ -468,7 +468,7 @@ Elena buscó la fecha en el ordenador y la anotó en el margen. Después le pas�
 
 —Prueba tú con el siguiente.
 
-David cogió el albarán y empezó a leer. Tardó un rato en encontrar el número de pedido. Lo buscó en el ordenador y señaló una línea.
+David cogió el albarán y empezó a leer. Buscó el número de pedido en el ordenador y señaló una línea.
 
 —Es este.
 
@@ -476,11 +476,11 @@ Elena se inclinó sobre la pantalla.
 
 —Ese es el de la semana pasada. El de este mes está en la pestaña de al lado.
 
-David parpadeó. Había estado mirando la columna equivocada durante cinco minutos.
+David parpadeó. No había visto la segunda pestaña.
 
 —Perdona —dijo.
 
-—No pasa nada, el primer día es un lío. A mí me costó una semana entera. —Elena sonrió y cambió de pestaña—. Y Rafa todavía se equivoca de bandeja.
+—No pasa nada, el programa es un desastre. A mí me costó una semana entera. —Elena sonrió y cambió de pestaña—. Y Rafa todavía se equivoca de bandeja.
 
 —Yo no me equivoco —dijo Rafa desde su mesa—. Las pongo donde quiero.
 
