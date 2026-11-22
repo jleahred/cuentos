@@ -384,7 +384,7 @@ David no contestó.
 
 —No lo sé todo.
 
-—Ya. Eso es un avance.
+—Ya. Eso es un avance. Pero quédate con esto: no conseguirlo no es fracasar. Fracasar es no intentarlo.
 
 Enrique terminó el café.
 

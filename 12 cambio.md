@@ -234,9 +234,13 @@ Gema levantó la vista de golpe.
 
 —¿Estabas en esa llamada?
 
-—Sentada delante del teléfono. Cuando soltó aquello de «Iros al infierno» y colgó, Salas se quedó mirando la mesa como si le hubiera fallado la cobertura.
+—Sentada delante del teléfono. Y también estuve en la cena de Navidad, un par de sillas más allá de Vidal. No dije casi nada, pero vi cómo te apretaban con los números, cómo no te defendiste tú sino a tu gente, y cómo salió David a pelear con las cifras por ti.
 
 Gema soltó el aire de golpe y se le escapó una risa.
+
+—A David apenas lo conocía entonces.
+
+—Pues ya te defendía bien. Cuando el viernes soltó aquello de «Iros al infierno» y colgó, Salas se quedó mirando la mesa como si le hubiera fallado la cobertura.
 
 —Me dijo que había sido claro.
 
@@ -326,25 +330,41 @@ Gema sujetó el vaso por el borde. Estaba demasiado caliente.
 
 —¿Qué va a pasar con los despidos?
 
-—De momento nada. Hemos apartado a Salas y Vidal mientras revisamos las cuentas. No he venido a pedirte una lista de puestos.
+Beatriz la miró con la misma calma de antes.
 
-Gema soltó el aire y dejó el vaso sobre el estante de la máquina.
+—Habrá despidos.
 
-—Pensaba que venías a pedírmela.
+Gema notó que se le cerraba el estómago. Dejó el vaso sobre el estante de la máquina para no volcarlo.
 
-—Ya. Por eso quería hablar contigo antes de que alguien te lo contara a medias. Durante un tiempo dependerás directamente de mí.
+—Si hace falta recortar —dijo despacio—, prescinde de mí. Pero no toques a mi gente. Sin ellos esto no sale.
+
+Beatriz no contestó enseguida. La miró unos segundos, sin cambiar el gesto.
+
+—Los despidos ya se han ejecutado —dijo al fin—. Hemos prescindido de Salas y de Vidal.
+
+Gema tardó un segundo en entenderlo. Soltó el aire poco a poco.
+
+—Pensaba que venías a pedirme una lista.
+
+—Ya. Por eso quería hablar contigo antes de que alguien te lo contara a medias. Quería conocer de cerca a mi nuevo talento. Hay un vacío arriba y durante un tiempo dependerás directamente de mí.
 
 —Entonces eres mi nueva jefa.
 
-—Eso parece. Me aburren las reuniones largas, así que te agradeceré que me avises cuando sean imprescindibles.
+—Eso parece. Me aburren las reuniones largas, así que te agradeceré que no me llames mucho. Salvo para contar cotilleos de la oficina; para eso sí.
+
+Gema sonrió, todavía con el pulso rápido.
 
 —¿Y si hay problemas?
 
-—También. Pero, si puedes, trae alguna idea para resolverlos. Yo haré lo mismo.
+—También. Pero espero que cuando me llames con uno traigas alguna idea para resolverlo. Yo haré lo mismo.
 
 Gema cogió el vaso otra vez. Esta vez pudo beber.
 
-—Tus empleados te adoran, tus clientes te adoran, los números hablan claro. Quería ver esto personalmente, no tengo muchas oportunidades de conocer a magos. Bueno, vamos a concretar temas de trabajo. Quiero pedirte la primera tarea. Piensa con calma: ¿qué quieres tú? ¿Un puesto más alto, más responsabilidad, más sueldo? ¿Quieres seguir aquí y cambiar algo de tu trabajo?
+—Tus empleados te adoran, tus clientes te adoran, los números hablan claro. Quería ver esto personalmente, no tengo muchas oportunidades de conocer a magos. —Beatriz apoyó la carpeta en el brazo—. Tengo un primer encargo para ti. Estúdialo bien y tómate tu tiempo, es importante.
+
+—Dime.
+
+—¿Qué quieres? ¿Qué necesitas? ¿Un puesto más alto, más responsabilidad, más sueldo, cambiar algo de aquí?
 
 Gema la miró.
 
@@ -360,11 +380,13 @@ David salió del pasillo con una carpeta en la mano. Al verlas, se acercó a Gem
 
 —Dice que es el mismo de ayer, que todavía no lo he arreglado.
 
-Beatriz los miró. David se volvió hacia ella.
+Beatriz los miró. David se volvió hacia ella y se detuvo un segundo.
 
-—Perdona. Soy David.
+—Te vi en la cena de Navidad —dijo—. Estabas al lado de Vidal.
 
-—Beatriz. Acabo de conocer a Gema.
+—Alguien tenía que escuchar —dijo Beatriz—. Soy Beatriz Montes.
+
+—David.
 
 —Es mi nueva jefa —dijo Gema.
 
@@ -374,7 +396,11 @@ David le tendió la mano.
 
 —Igualmente.
 
-Beatriz dejó el vaso vacío junto a la máquina y recogió su carpeta.
+Beatriz dejó el vaso vacío junto a la máquina y recogió su carpeta. Miró a David de arriba abajo y luego a Gema.
+
+—Por cierto, ya tengo el primer cotilleo —dijo, bajando un poco la voz—. Y es bastante guapo. Ándate con ojo, que a mí todavía me queda cuerda.
+
+Gema se rio, algo colorada.
 
 —Bueno, me marcho. Tengo una comida pendiente y todavía no he decidido qué excusa voy a poner para no ir.
 

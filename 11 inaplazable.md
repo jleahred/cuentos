@@ -252,6 +252,10 @@ Gema miró sus manos. Una uña tenía un borde de tinta azul que no había conse
 
 —¿Y si conocerme no basta?
 
+Gema miró un momento el suelo.
+
+—Siempre me has dicho que no conseguir algo no es fracasar, que fracasar es no intentarlo. Pero ahora me da miedo hasta eso.
+
 Su tío se tomó un momento.
 
 —No lo sabes. Ni él tampoco. Pero tampoco sabe ahora todo lo que va a aprender después, ni tú lo que vas a aprender de él. La cabeza que tenía antes no puede borrar lo que ha vivido estos meses.

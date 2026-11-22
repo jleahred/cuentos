@@ -88,7 +88,7 @@ David se sentó a su lado. Había tres copas delante de cada plato. Cogió la de
 
 ***
 
-Al otro lado de la mesa estaban Salas, el director general, y Vidal, el de finanzas. Había también un concejal llamado Romero, que sonreía demasiado. Salas tenía un reloj grande y una piel muy bronceada para ser diciembre.
+Al otro lado de la mesa estaban Salas, el director general, y Vidal, el de finanzas. Había también un concejal llamado Romero, que sonreía demasiado, y, un par de sitios más allá, una mujer de unos sesenta años que apenas hablaba y escuchaba con el vaso de agua delante. Salas tenía un reloj grande y una piel muy bronceada para ser diciembre.
 
 —Gema —dijo Salas—. Lo de este trimestre está bien, pero los costes por envío siguen altos. Tendrás que apretar a los tuyos.
 
@@ -146,7 +146,7 @@ El concejal se rio otra vez. Gema sonrió. David vio que se agarraba la serville
 
 —Los fijos son los que tienen hipoteca, concejal —dijo David.
 
-La mesa se quedó un segundo en silencio.
+La mesa se quedó un segundo en silencio. La mujer del fondo no sonrió; miró primero a David y después a Gema, sin decir nada.
 
 —Bueno —dijo Salas—. Los fijos y los temporales. Todos dan de comer.
 
