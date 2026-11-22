@@ -1,5 +1,14 @@
 # Entre tontos — notas de trabajo
 
+
+creo que enrique tiene que ser viudo, porque si no habría que darle algo de protagonismo a la mujer y la relación que ocultamos con gema
+
+eso requiere adaptar varios capítulos y algún chiste
+
+
+
+
+
 > **Estado.** La secuencia de trabajo son los capítulos 1–9. Aquí, lo que está sin marca lo has confirmado tú; lo marcado con *(propuesta)* es una inferencia mía que puedes cambiar o borrar. La lectura crítica más reciente está en [revision-3.md](revision-3.md).
 
 ## Idea central
