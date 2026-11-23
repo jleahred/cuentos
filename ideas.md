@@ -1,146 +1,158 @@
-# Entre tontos — notas de trabajo
+# ideas entre tontos
+
+## sinopsis
+
+Trata de una persona muy inteligente, precoz, triunfador en el terreno profesional, ambicioso.
+
+Ve a los normales con desprecio, utiliza el término tontos. Los considera lentos, aburridos.
+
+Tiene dinero, chicas muy guapas. Pero no valora nada más que su enorme inteligencia. No sabe disfrutar la vida.
+
+Sufre una enfermedad que le reduce la inteligencia. No le hace tonto, le hace normal, incluso un poco mejor.
+
+Lo oculta, no quiere reconocerlo, se deprime.
+
+Termina abandonando su mundo, ya no encaja, deprimido, hundido.
+
+De alguna forma se ve obligado a sobrevivir en ese mundo de tontos, siendo él un tonto más.
+
+Conoce gente que le agrada, aficiones que no tenía antes (lectura de comics, por ejemplo), y se enamora por primera vez.
+
+Creció tan rápido, que no tuvo infancia ni adolescencia, pero no añoraba nada porque tampoco sabía lo que se perdía.
+
+Su inteligenica era enorme en cuestiones lógicas y matemáticas, pero normal en emociones/intuición. Pero la parte no lógica, por esa gran diferencia, estaba ocultada.
+
+Con la inteligencia normal aflora. Se enamora y descubre sentimientos y sensaciones que desconocía. Y le gusta.
+
+Descubren su enfermedad, le tienen que operar porque es peligroso.
+
+Podría volver a ser igual que antes, quedarse como está, tener secuelas graves o muy graves, e incluso morir.
+
+No tiene miedo de la muerte ni de quedar mal, tiene miedo de perder las  sensaciones que tiene con su amada, y tiene miedo de hacerla daño sin querer.
+
+La operación es un éxito, se recupera completamente, es igual de inteligente que antes, pero no quiere volver a su vida anterior. Le parece insípida. Tenía muchas cosas que no valían emonicionalmente mucho, y ahora es al contrario.
+
+Quiere estar con sus compañeros nuevos, con los comics, con su enamorada, con su bici. Tener tiempo, disfrutar de un paseo, de...
 
 
-creo que enrique tiene que ser viudo, porque si no habría que darle algo de protagonismo a la mujer y la relación que ocultamos con gema
+## Por capítulos
 
-eso requiere adaptar varios capítulos y algún chiste
+Más o menos así, esto es una referencia no estricta.
 
+. Triunfador
 
+Tras una cena se muestra a David, que es un triunfador en su profesión.
+Tiene mucho dinero, mujeres guapas. lujo.
+Esto se muestra interaccionando con su asistente, que es la única tonta que tolera.
+La cena es profesional pero con parejas.
+Gracias a su asistente, la parte social se resuelve genial, el es torpe. No soporta conversaciones triviales, no sabe manejarlo.
+En la parte profesional, números, proyecciones, ideasa de negocio, lo borda como siempre.
+No vemos la cena, todo se muestra tras la cena en una conversación con Marta.
+En esta conversación, nos muestra un David ambicioso, trepa, egoísta, pero un genio con una cabeza brillante. Es triunfador. Desprecia a los normales, los llama tontos, les aburre.
+Marta le dice que se va pero ha dejado todo preparado.
 
+. Fallo
 
+Se muestra que empieza a fallar. Algo va mal. Comete errores que no había cometido nunca, se nota lento, le cuesta cosas. Un deterioro cognitivo progresivo, lento, intermitente, pero que va aumentando.
 
-> **Estado.** La secuencia de trabajo son los capítulos 1–9. Aquí, lo que está sin marca lo has confirmado tú; lo marcado con *(propuesta)* es una inferencia mía que puedes cambiar o borrar. La lectura crítica más reciente está en [revision-3.md](revision-3.md).
+. Colapso
 
-## Idea central
+Los fallos se hacen más grandes, no puede ocultarlos, no puede engañarse, es una realidad.
+Hasta que hay un fallo grande. Termina renunciando como huída.
 
-Un hombre muy listo se vuelve «tonto» —en realidad, normal—. Despreciaba a los tontos; cuando se hace casi como ellos y los conoce, los quiere, y prefiere la vida con ellos a la de los ambiciosos ricos que no saben disfrutar de la vida.
+. Fondo
 
-Todo lo demás —la enfermedad, el diagnóstico, el misterio de Enrique, el final— está al servicio de esa idea. Si el truco o el misterio empiezan a pesar más que esto, el libro se desvía.
-
-### El arco de «tonto»
-
-1. **Desprecia a los tontos.** Es el más listo de la habitación y lo sabe.
-2. **Se vuelve tonto.** La enfermedad le baja a «un poco por encima de la media».
-4. **Ama a los tontos.** Los entiende, comparte sus aficiones, lee cómics, sale en bici, se ríe de sus chistes.
-5. **Se enamora de una tonta.** Gema.
-6. **Conoce a un sabio que creía un tonto más.** Enrique: más que inteligente, sabio.
-7. **Moraleja.** Dar valor a la gente normal.
-
-Este es el esqueleto del libro y la razón del título: la palabra «tonto» empieza siendo un insulto y acaba siendo una forma de cariño.
-
-## Decisiones y propuestas
-
-- **David**, 32 años, directivo de una multinacional tecnológica. Muy inteligente, memoria extraordinaria, arrogante. No es un genio de novela: es alguien que siempre ha sido el más listo de la habitación y lo sabe.
-- **El término «tonto»** es suyo, despectivo al principio. Al final lo usa con cariño, y ya no es un insulto. El libro no explica ese cambio: lo deja pasar.
-- **Enfermedad**: una fístula arteriovenosa dural *(propuesta: la fístula concreta y el soplo como pista)*. Circulatoria, difícil de ver en pruebas normales, progresiva. Le baja la inteligencia a «un poco por encima de la media», que para él es el infierno. Provoca despistes, pérdida de memoria de trabajo, un desmayo y un **soplo en el oído** (pulsátil) que todos los especialistas achacan al estrés.
-- **Enrique** es el médico que escucha y da con el diagnóstico: un genio jubilado. **No se descubre**: nunca le dice a David que es médico. Sospecha en voz alta («probablemente sea una fístula») y se escabulle de los detalles remitiéndolo a la neurocirujana, que es quien confirma y quien opera. Así el acierto es suyo, pero la explicación no. Se hace pasar por un jubilado cualquiera; su bici vieja invita a David a juzgarlo por las apariencias. Es viudo y padrino de Gema: él y su mujer eran amigos de los padres de ella, que han fallecido. La llama «ahijada»; Gema lo llama «tío». El lector puede sospechar; David no.
-- **Gema** es la jefa de la sección de logística y el interés romántico. No es la jefa cruel que Rafa le hace imaginar: es exigente, rápida y justa. Es la ahijada de Enrique. David (y el lector, al principio) creen que la ahijada es Elena.
-- **Elena** es la compañera que lo enseña, no el interés romántico *(propuesta: energía de hermana mayor)*. **Rafa** es el compañero de los cómics y las bromas.
-- **La operación sale bien.** Recupera por completo su inteligencia. Pero elige quedarse: el trabajo sencillo, los amigos, los cómics. Antes de la operación se aparta de Gema por miedo, disfrazado de protección.
-- **No hay guerra.** La ruina es suya: una mala decisión de inversión multiplicada por su orgullo y por su cabeza, que ya no le responde.
-- **Tema**: además de la inteligencia racional, cuentan las emociones, la intuición y el conocimiento tácito. El libro lo demuestra con dos tramas paralelas: la oficina (Rafa sabe cosas que no están en el Excel) y el diagnóstico (Enrique pregunta lo que ningún especialista preguntó).
-
-## Estructura
-
-**Secuencia de trabajo (1–9):**
-
-1. **Triunfador** — cena con Marta. Se siembran el soplo, la conversión de divisas, Schneider y la memoria. Marta se va.
-2. **Fallo** — Ejemplo de trabajo excelente, breve, y luego el declive. El comité, la pizarra, el desmayo.
-3. **Colapso** — médicos, inversiones, depresión, mudanza.
-4. **Fondo** — el piso, vecinos, la bici, Enrique, la entrevista con Gema.
-5. **Calma** — la oficina, el cómic, el rescate de Elena, la primera broma de Gema.
-6. **Cena**
-7. **Agravamiento** David habla con Enrique (dos patologías: la fístula y el amor). Elena le anima; él no sabe. Enrique le dice que se aleje de ella, pero es una prueba. David se va frustrado: todo lo que ha dicho tiene sentido.
-8. **Pánico** — la doctora Ferrer, la angiografía, el diagnóstico, los riesgos. El paseo, el beso que no es y David apartándose. El tercer miedo.
-9. **Caos** — el ultimátum de dirección y los despidos, Getafe, Pilar y la libreta de Carlos, la oferta de Salas y el desmayo con la confesión.
-..**Sabio** El tío/padrino de gema reflexiona con ella sobre lo ocurrido
-.. **Operación** todo sale bien, gema está con él
-..**recuperación** recupera su cerebro al 100%, pero ha aprendido mucho de los tontos, y quiere seguir con ellos
+Se deprime, se aisla, confirma que no se recupera.
+Pierde gran parte de su dinero, por su arrogancia y errores.
 
 
-## Desenlace (nuevo)
+. Vecinos
 
-### Ideas pendientes para después de la recuperación
+Tiene que irse a vivir a otro lugar. Más humilde.
+Se cruza con vecinos, algunos amables. Niños que hacen ruido, pero son buenas personas.
+Él no tiene interés.
+Tras unos días, decide coger la bici. Conoce una grupeta con gente muy bromista.
+Conoce en la grupeta a Enrique, que será importante.
 
-Estas escenas son propuestas para desarrollar, no hechos cerrados. Deben ajustarse a lo que ocurra en los capítulos.
+. Calma
 
-- **El ascenso y la mesa.** David recupera su inteligencia y acepta un puesto con más trabajo y responsabilidad dentro de la sección. Gema sigue siendo su jefa. Le ofrecen un despacho, pero pregunta qué van a hacer con su mesa junto a los compañeros; al saber que quedaría vacía, pide que dejen allí su ordenador y sus cosas. Quiere seguir formando parte del equipo y ayudándolo. Puede reaparecer el bolígrafo de «territorio neutral» del capítulo 5. Es importante que elija quedarse cuando ya tiene otras posibilidades.
-- **La ambición.** Cuando Gema ya conoce su historia, cree que David no ha recuperado toda su inteligencia y le dice que es una lástima. Él demuestra de forma concreta y natural que sí la ha recuperado, quizá resolviendo de cabeza un problema de cifras relacionado con el trabajo. Ella le pregunta por qué se conforma; él responde que ahora es mucho más ambicioso que antes. Frente a los coches, el salario y sus antiguas parejas, menciona lo que ahora valora: los cómics, sus compañeros, las bromas, la bicicleta y Gema. Mejor expresarlo con objetos y momentos concretos, con humor, que con un discurso. Gema no debería parecer alguien que desprecia esa vida.
-- **Una dificultad posible.** Al recuperar su rapidez, David podría impacientarse o querer resolverlo todo solo en algún momento. Que escuche o pida la opinión de otro mostraría que quedarse y trabajar con ellos es una elección que practica, sin necesidad de una gran recaída.
+Sigue amargado, pero sale de su bunker, empieza a trabajar en un puesto de poco nivel y pocos requerimientos.
+Conoce compañeros simpáticos y bromistas.
+Su jefa es guapa, una líder nata (se irá viendo).
+Se siente atraído. Se comporta con ella como un adolescente. No lo entiende porque no tuvo adolescencia.
+Su compañera Elena sí lo ve claro, y le prepara una trampa para que la acompañe a una cena de navidad de directivos.
 
-**El secreto de Enrique.** Es el médico que escucha: un genio jubilado que hace la pregunta que ningún especialista hizo. No se descubre: nunca le dice a David que es médico. Le da el nombre de un cirujano —«dile que vas de mi parte»— y es ese cirujano quien opera. David se recupera por completo y no sabe que Enrique es médico. Para el lector hay pistas, nunca una explicación: en la primera lectura Enrique solo parece un jubilado que escucha; en la segunda, todo encaja. El lector puede sospecharlo antes; David lo descubre al final. La revelación es suya, no una confesión de Enrique.
+. Cena
 
-**El parentesco.** Gema es la ahijada de Enrique. Él la llama «ahijada»; ella lo llama «tío». David y el lector están despistados al principio: creen que la ahijada es Elena. El parentesco se revela en la escena final.
+Se parece a la cena del primer capítulo, pero algunas cosas son al revés.
+Él es el acompañante. Él es el que la ayuda ahora. Se maneja bien en este entorno, tiene mucha experiencia.
+Ella se encuentra más incómoda. Esta combinación es un éxito.
+Ahora sí vemos la cena desde dentro.
+Después de la cena pasean juntos. Ambos disfrutan de la compañía. Hablan de la cena, agradecimiento.
 
-**El enamoramiento y el miedo.** David se enamora de Gema. Antes de la operación se aparta: la operación puede matarle, dejarle inútil, dejarle como está o devolverle mucho o poco de lo que era. No quiere empezar un romance pensando que puede hacerle daño. En realidad también es miedo propio, disfrazado de protección.
+. Agravamiento
 
-**La escena del beso.** Gema se acerca a besarle. David lo piensa todo en un segundo: quiere quererla, quiere vivir con ella, pero cree que la amistad es más segura y que un romance podría terminar mal y costarle la amistad. Le da un beso en la mejilla y un abrazo melancólico. Ella se queda con la duda; él se queda con la certeza de que ha hecho lo correcto. **Es muy anterior al final**: después vienen la operación, la recuperación y el regreso.
+Después de la cena se encuentra especialmente mal.
+Muy distraído, enormemente torpe.
+Pasa minutos parado delante de la puerta de su casa sin llegar a abrirla. Abre la nevera y se queda parado durante un tiempo que ni sabe. Cuando vuelve en sí, no recuerda a qué fue. Así más casos.
+Accidentalmnte se encuentra con Enrique en un bar, le ve mala cara y le pregunta.
+A desgana, termina contándole.
+Le cuenta la historia de su vida, su caída, su huída. Que piensa mucho en su jefa. Que está peor.
+En realidad no ha empeorado, es que se ha enamorado. NO lo reconoce, es la primera vez y piensa que es un empeoramiento de su enfermedad.
 
-**Lo que siente Gema.** Gema se siente despreciada: David no la quiere, no siente lo mismo, no le atrae; le frustra, le entristece, le hace sentir inferior y débil. La realidad es la contraria. Se distancia. Un día busca su nombre en internet y encuentra fotos antiguas: una gala, una modelo, una actriz. Piensa que no está a la altura. David no sabe nada de eso. (Ojo: David borró sus cuentas en el capítulo 4; las fotos tienen que ser de prensa antigua, no de sus perfiles.)
+Enrique es un tipo muy inteligente, más que eso sabio. Le escucha. Fue un médico de élite, pero no alardea de ello.
+Le hace muchas preguntas, una mínima prueba. Da con el que probablemente es el diagnóstico y le manda a una neurocirujana. QUizá trabajó con él. Quizá una discípula.
 
-**El puente puede ser Enrique.** Él sabe toda la historia, es inteligente y también sabio. Puede hablar con Gema y con David por separado y empujarlos a volver, sin decirles lo que tienen que hacer. Las reflexiones que puede dejar caer: «No puedes frustrarte por no conseguirlo, sino por no haberlo intentado»; «el corazón tiene razones que la razón no entiende»; «la razón es importante, pero el instinto, el sentimiento, la intuición, el conocimiento tácito también». Son ideas para repartir en distintos momentos, no para un discurso: una aquí, otra allá, y el resto que lo digan los hechos. El puente está por escribir.
+Y le dice que tiene dos problemas. El segundo tiene pero solución, se ha enamorado.
 
-**Enrique sabe.** Enrique sabe lo de David y lo de Gema. Escucha a los dos y no se descubre.
+Le habla de la vida, el sentimiento. Que él no tuvo infancia ni adolesciencia. Que su enorme cerebro cognitivo mantenía oculto a su cerebro emoncional. Que las emociones, intuición y conocimiento tácito son imporantes.
 
-**El «odio al novio» es amor a Gema.** Cuando Enrique dice que odia al novio que le van a presentar, en realidad está diciendo lo mucho que adora a Gema: la quiere, la tiene en un pedestal, le parece maravillosa. David y el lector deben entender eso: no es odio al novio, es amor a la ahijada. La gracia es que David no sabe que el novio es él.
+Ejemplo con teoría del caos, carteles de presupuesto con exceso de precisión, disfrute de múscia, creación de música...
 
-**El «algo oscuro».** «Hay algo en ti, David, que es oscuro, que detesto» se refiere, en primer lugar, a que David es el novio de Gema: Enrique lo sabe y se lo está diciendo sin decírselo. David lo entiende segundos después, cuando Gema llega y llama «tío» a Enrique. En ese momento encajan las migas: la ahijada, el soplo, la tarjeta, el cirujano. El lector puede entenderlo antes o a la vez. La frase también tiene una segunda capa (el miedo, el desprecio), pero la primera es la broma.
 
-**Enrique no odia a David.** No es un veredicto contra él: es un padrino que protege a Gema y que, además, le ha salvado la vida sin decírselo. El lector puede sospechar odio; la segunda lectura debe dejar claro que lo aprecia y lo está probando.
+. Pánico
 
-**La escena final.** Gema queda con David para presentarle a su tío/padrino en el restaurante favorito de Enrique. David llega antes. Se encuentra con Enrique, que no se sorprende. Charlan mientras esperan a Gema y a su tío. Enrique dice que odia al novio que le van a presentar. David pregunta por qué; quizá sea buena persona. Enrique: «¿Acaso crees que alguien puede estar a la altura de mi niña? El osado que lo crea merece mi reprobación». Hablan de lo ocurrido sin nombrarlo: el hombre que prefería tener razón a tener compañía, el que no sabía pedir ayuda, el que confundía el miedo con el criterio. David no se reconoce. Al final, Enrique: «Hay algo en ti, David, que es oscuro, que detesto». David no lo entiende. «Estás a punto de saberlo». Llega Gema, risueña: «¿Ya os habéis presentado? Qué bueno, aquí están mis dos hombres». La revelación es para David: al oír «tío», o al verlos juntos, entiende todo. Puede ser una mirada o una última línea; no hace falta que Enrique lo confiese.
 
-**El último chiste.** Cuando todo se ha aclarado, Enrique puede decirle a David que no le perdona que le robe el amor de su ahijada, cuando en realidad ha sido él quien los ha juntado. Es la última vuelta de la broma del «odio al novio». Va antes de «mis dos hombres», para que la última línea sea la de Gema.
+Vuelve a estar con Gema, la jefa de la que se ha enamorado.
+Disfrutan enormemente. Pasean bromean.
+Hay química.
+Ella al despedirse va a darle un beso. Él lo desea, pero tiene miedo y lo evita.
+La excusa es que no quiere meterla en una relación en un momento en el que podría morir o quedar con secuelas graves.
+Ella piensa que ha sido despreciada, que él no tiene interés. Es la jefa, eso lo agrava.
+Gema tiene un don de gentes increíble, es una lider. Es genial en lo que David nunca lo fue y nunca entendió.
 
-## Pistas sobre Enrique *(propuesta)*
+. Caos
 
-Enrique pudo ser neurocirujano. Eso explicaría que reconozca una posible causa de los síntomas y sepa que la doctora Ferrer es la mejor opción para David, aunque ella no esté en uno de los centros lejanos a los que él acudió. Es una posibilidad para desarrollar a partir de los capítulos; no hace falta que Enrique se lo diga a David.
+Hay una situación de crisis enorme en la empresa.
 
-Para que la segunda lectura funcione, las pistas tienen que ser invisibles en la primera. Algunas posibles:
+David se ofrece a ayudar. Tiene momentos de lucided enormes que son de gran ayuda, pero sobre todo, hace un esfuerzo sobrehumano por ayudar a gema.
+La doctora le había dicho que no hiciera grandes esfuerzos, pero tenía que hacerlo.
+Triunfan, salen de la trampa que les habían puesto de la dirección para justificar reducción de plantilla. Gema está muy contenta. Le abraza, pero se aparta rápidamente pidiendo perdón recordando cuando él la despreció. No quiere incomodarle, piensa que no le gusta.
 
-- **La pregunta del soplo.** «¿Un pitido o un soplo?» Nadie se lo había preguntado así. Un médico sabe que la diferencia importa.
-- **La corrección del término.** Cuando David describe el ruido, Enrique contesta: «Los acúfenos no laten». Y sigue hablando de otra cosa. (Ya está en el capítulo 4.)
-- **El «yo he visto esto antes».** David cree que habla de un familiar o de él mismo. Enrique no aclara nada.
-- **La tarjeta.** Le da el nombre del cirujano en una tarjeta o un papel: «Dile que vas de mi parte». David no lee el membrete.
-- **El cirujano.** «Enrique me pidió que te viera». David no pregunta cómo lo conoce.
-- **El hospital.** Una enfermera o un médico llaman «doctor» a Enrique. David está pendiente de otra cosa.
-- **La casa.** Un diploma detrás de una bici, una caja de radiografías, un fonendoscopio en un cajón. David no mira.
-- **El reconocimiento.** Enrique le mira las pupilas, le pide que siga un dedo, le pregunta si ve doble. Parece una conversación de sobremesa.
-- **El consejo.** Le dice que no beba, que duerma, que no conduzca. David lo toma por manías de viejo.
-- **La jubilación.** Cuando le preguntan por su pasado, contesta con el chiste del ciclista profesional. La segunda lectura: no quiere hablar de su profesión.
+David la agarra, le dice que no desea nada más en el mundo que estar con ella. Pero tiene otro desvanecimiento.
 
-No hacen falta todas. Tres o cuatro bien puestas bastan.
+. Inaplazable
 
-**Por decidir.**
+Viene la ambulancia. En la ambulancia se recupera parcialmente y dice que le está viendo la doctora x en el hospital x.
+Le llevan allí.
 
-- Cómo vuelven David y Gema: el puente puede ser Enrique, pero falta escribirlo.
-- Cómo se ve lo que siente Gema: un capítulo desde su punto de vista, o un diálogo con su tío, o solo lo que se deduce de su conducta.
-- Si se mantiene la recaída de desprecio después de la operación.
-- Qué pistas se quedan y cuáles se descartan.
-- Cómo descubre David a Enrique en la escena final: una mirada, una frase de Gema, un detalle.
+La doctora dice que hay que operar ya.
 
-## Reglas de estilo
+Operan, hay complicaciones. Se alarga.
 
-- Puede haber narrador, pero poco. No explica todos los detalles: deja que el lector ate los cabos. Lo que se entienda por el diálogo y el contexto.
-- Frases con segunda vuelta. Nada de moralejas.
-- El humor, seco. La emoción, racionada: una o dos frases por capítulo, en el momento justo.
-- Los objetos hacen el trabajo: la bisagra, el bolígrafo, la mancha de café, el plato de tostadas, el cómic.
-- **El chiste recurrente**: Marta, luego Gema, luego alguien más llaman «genio» a David justo cuando hace el tonto. Al final, alguien lo llama «tonto» y le sienta bien.
+Gema conversa con Enrique, enrique la apoya sabiamente. Luego se marcha para que no se descubra la pequeña trampa para el lector.
 
-## Estado
+David se recupera. Gema le cuenta sus miedos, él le dice los suyos...
 
-- 1–9: escritos. 1–6 estables; 7, 8 y 9 son versiones nuevas pendientes de lectura (ver [revision-3.md](revision-3.md)).
-- `manuscrito.md`: no existe por defecto. Se genera con `./build.sh` (1–9) o `./build.sh --esbozos` (añade los capítulos posteriores que existan).
 
-## Pendiente
+. cambio
 
-- Título: *Entre tontos*, elegido. Las alternativas quedan descartadas.
-- El narrador puede ser tercera persona con poca intervención: no explica todos los detalles.
+David se recupera completamente.
+Es igual de inteligente que antes. Pero disfruta de los comics, de la compañía de sus compañeros, ama a gema. No quiere volver a su vida anterior...
 
-## Para retomar
+. comienzo
 
-- Punto de vista de Gema: capítulo propio o diálogo con su tío.
-- El puente: cómo Enrique los empuja a volver.
-- Las reflexiones: repartirlas en distintos momentos, no juntarlas.
-- **El tercer miedo de David.** No es solo morir o quedarse tonto: es que la operación le devuelva al de antes y vuelva a despreciar a Gema y a los «tontos». Es el miedo que disfraza de protección. El 8 lo desarrolla.
-- Pulir los capítulos 1–5.
+Es el comienzo de su nueva vida.
+El comienzo de una vida con Gema.
+Se descubre al final que Enrique es el tío/padrino de Gema. Se dejaron pistas falsas.
+Termina con una broma de Enrique de "algo no me gusta de ti"
