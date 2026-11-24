@@ -154,13 +154,15 @@ No recordaba cuándo había salido por última vez al jardín. Tampoco cuándo s
 
 El asesor lo llamó varias veces. David vio su nombre en la pantalla y dejó que sonara. Un día recibió un mensaje: «Necesito hablar contigo de la casa. Te he enviado las cuentas».
 
-Dos días después, el asesor llamó al timbre. David tardó en reconocer el sonido. Esperó a que se marchara, pero el timbre volvió a sonar. Se levantó, apartó la bolsa de basura con el pie y abrió la puerta.
+Dos días después, el asesor llamó al timbre. David tardó en reconocer el sonido. Esperó a que se marchara, pero el timbre volvió a sonar. Se levantó, apartó la bolsa de basura con el pie y abrió la puerta apenas unos centímetros. Se quedó detrás de ella.
 
 —No contestabas —dijo el asesor—. ¿Has visto lo que te envié?
 
-David negó con la cabeza.
+David negó con la cabeza. Llevaba la barba crecida y se pasó una mano por el pelo.
 
-El asesor encontró el sobre entre las cartas del recibidor. Lo abrió y le señaló una cifra.
+—Espera un momento.
+
+Entornó la puerta y buscó el sobre entre las cartas del recibidor. Al volver, lo abrió sin salir y escuchó al asesor indicarle qué página mirar.
 
 —Con los gastos que tienes, el dinero no va a durar tanto como pensabas. Hay que hacer algo con la casa.
 

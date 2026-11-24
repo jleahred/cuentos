@@ -4,6 +4,8 @@ La caja se rompió en el portal. El cartón estaba blando.
 
 David había bajado del coche las cosas que no quería dejar en manos de los de la mudanza. En aquella caja llevaba libros. El fondo cedió cuando intentaba abrir la puerta y los libros quedaron desparramados por el suelo.
 
+La lluvia le había empapado el pelo y la chaqueta. Se sentía extraño al aire libre después de tanto tiempo encerrado. El aire fresco le daba en la cara y, acostumbrado a las persianas bajadas, incluso aquella claridad gris le molestaba en los ojos.
+
 Se quedó mirándolos.
 
 La puerta se abrió desde dentro.
@@ -162,7 +164,7 @@ Luis asintió. La mujer ya había llegado a la esquina.
 
 —Tendría que alcanzar a mi madre antes de que se enfade. Hasta luego.
 
-David salió detrás de él. Caminó hasta una cafetería y pidió una infusión. En la mesa de al lado, dos mujeres hablaban de una compañera de trabajo. Él sacó el teléfono nuevo y lo dejó junto a la taza. No tenía ningún mensaje.
+David salió detrás de él. El sol le dio en la cara. Cerró los ojos un instante; notó el calor en la piel y no supo cuánto tiempo llevaba sin sentirlo. Caminó hasta una cafetería y pidió una infusión. En la mesa de al lado, dos mujeres hablaban de una compañera de trabajo. Él sacó el teléfono nuevo y lo dejó junto a la taza. No tenía ningún mensaje.
 
 ***
 
@@ -201,6 +203,24 @@ Luis se limpió las manos en los pantalones.
 —A Dani también le gusta. Sale conmigo algunos domingos.
 
 Subieron juntos. En el segundo, Luis sacó las llaves.
+
+En el rellano estaba Dani, sentado junto a la puerta.
+
+—¿Vas a guardar la bici? —preguntó.
+
+—Eso pensaba.
+
+—Entonces ya no la voy a ver.
+
+—Podrás verla cuando la saque.
+
+—Pero nunca la sacas.
+
+David esperó a que Luis abriera la puerta.
+
+—La mía tiene un pinchazo —dijo Dani—. Mi padre dice que lo arreglamos el domingo.
+
+—Eso he dicho, sí —dijo Luis.
 
 —Por cierto, no te he preguntado cómo te llamas.
 
@@ -262,7 +282,7 @@ Los demás se echaron a reír.
 
 —También desayuno —replicó Enrique—. Y no veo que tú faltes nunca.
 
-David apartó la vista. Notó que se le escapaba una sonrisa y se concentró en la carretera.
+David siguió pedaleando, con la vista en la carretera.
 
 Le contaron que salían varias mañanas a la semana. Los martes hacían una ruta corta y paraban a desayunar; los jueves salían más temprano y volvían cuando podían. Los sábados también salían.
 
