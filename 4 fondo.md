@@ -76,25 +76,15 @@ David cerró la puerta. Abrió la bolsa en la cocina. Era lo mismo. No lo record
 
 ***
 
-Una noche encendió la televisión para no oír el soplo.
+La televisión estaba encendida casi todo el tiempo. David la había llevado al dormitorio para no tener que bajar al salón. Cerraba las persianas incluso de día; la luz de la pantalla cambiaba de color sobre las paredes.
 
-Pasó canales. Un concurso: tres personas detrás de unos atriles respondían preguntas. ¿Cuál es la capital de Australia? Un hombre de camisa naranja dijo Sídney. El público se rio. El presentador hizo una mueca exagerada.
+Dormía a ratos, sin saber si era de noche o de día. A veces se despertaba con hambre y pedía comida. Otras encontraba una bolsa junto a la cama y comía lo que quedaba dentro. Los vasos y los envases se fueron acumulando en la mesilla.
 
-David se rio también.
+La ropa limpia se mezclaba con la sucia en una silla y, cuando ya no cabía más, en el suelo. Las sábanas se habían soltado por una esquina. Una mañana buscó una camiseta entre las prendas que había junto a la cama, se la puso y volvió a tumbarse.
 
-Siguió mirando. Una mujer no sabía cuántos lados tenía un hexágono. Otra confundía a Cervantes con Quevedo. El presentador hacía chistes que se veían venir desde lejos, y David se reía antes de que terminaran.
+En la cocina había platos sin lavar y bolsas de comida sobre la encimera. Algunas cartas del buzón estaban abiertas encima de la mesa, entre publicidad y un vaso vacío; otras seguían en el suelo del recibidor, donde las había dejado. Una vez tiró una bolsa de basura junto a la puerta para sacarla después. La apartó con el pie cada vez que pasó por allí.
 
-En la pausa publicitaria se dio cuenta de lo que estaba haciendo.
-
-Apagó la televisión. Se quedó sentado a oscuras, con el mando en la mano.
-
-«Se basa en estudios de mercado. Ahí tienes un dato objetivo de que los tontos abundan.»
-
-Lo había dicho en un coche, con un contrato firmado en el bolsillo, en el tono de quien explica algo evidente.
-
-Al cabo de un rato volvió a encenderla. El concurso había terminado. Empezaba otro.
-
-No la apagó.
+Pasaba de un canal a otro sin fijarse demasiado. Un concurso, una película que ya había empezado, otro concurso. A veces dejaba el mando entre las sábanas y seguía mirando lo que hubiera. Cuando apagaba la televisión, oía el soplo. Volvía a encenderla.
 
 ***
 
@@ -156,29 +146,9 @@ Pensaba. Pensaba todo el tiempo. Pensaba despacio, en círculos, siempre en lo m
 
 ***
 
-Una noche de septiembre salió al jardín.
+Una tarde se despertó con la televisión encendida. En la pantalla hablaban de la vuelta al colegio. David buscó el móvil entre las sábanas: era septiembre.
 
-Hacía calor todavía. La piscina estaba iluminada desde dentro, como en los folletos de la inmobiliaria, y el agua verdosa tenía un brillo raro. Se sentó en el borde con los pies dentro. El agua estaba tibia.
-
-Se metió entero, con la ropa puesta.
-
-Bajó hasta el fondo y se quedó allí, sentado, con los ojos abiertos. Arriba, la luz temblaba. Abajo no se oía nada; ni siquiera el soplo. Era la primera vez en meses que no lo oía.
-
-Empezó a contar. Antes podía aguantar dos minutos sin respirar. Lo había calculado una vez: capacidad pulmonar, consumo de oxígeno, frecuencia cardiaca. Le había parecido un problema bonito.
-
-Llegó a cuarenta. Luego no supo si había dicho cuarenta y uno o cincuenta y uno. Volvió a empezar desde cuarenta. Se le había ido otra vez.
-
-Pensó que ni siquiera era capaz de contar aquello.
-
-Le ardía el pecho. Se quedó un poco más. No sabía cuánto. No sabía para qué.
-
-Después empujó el fondo con los pies y subió.
-
-Salió tosiendo, se agarró al borde y se quedó allí, con la cara contra las baldosas, respirando como si el aire se fuera a acabar. Estuvo así mucho rato. La ropa le pesaba. Tenía hojas en el pelo.
-
-No se lo contó a nadie. No había nadie a quien contárselo.
-
-Al día siguiente vació la piscina.
+No recordaba cuándo había salido por última vez al jardín. Tampoco cuándo se había duchado. Se quedó mirando la fecha hasta que la pantalla se apagó. Luego dejó el móvil y siguió viendo la televisión.
 
 ***
 
