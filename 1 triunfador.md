@@ -20,6 +20,32 @@ David sonrió mientras esperaban el coche.
 
 —Te perdono.
 
+—Has estado brillante con Schneider. Hasta que su mujer te ha enseñado la foto del perro.
+
+—No sabía qué quería que dijera.
+
+—Que era bonito.
+
+—Era un perro.
+
+—Y entonces le has preguntado cuánto costaba mantenerlo al año.
+
+—Era una pregunta razonable.
+
+—Te estaba contando que lo habían operado.
+
+—Por suerte, tú sabías cómo se llamaba y has podido preguntarle por la operación.
+
+—Alguien tenía que hacerlo.
+
+—Has estado bien. Has conseguido que todo el mundo se divirtiera.
+
+—Yo también me he divertido.
+
+—Me alegro. Aunque sigo sin entender por qué hemos dedicado diez minutos a hablar de un perro.
+
+—Porque quieren al perro, David.
+
 —Por cierto, la cena ha sido extraordinaria. ¿Cuánto ha costado?
 
 —No tengo ni idea.
@@ -70,7 +96,7 @@ Marta se rio.
 
 —Le ha surgido un desfile en Milán.
 
-—Pobrecita. Y has tenido que conformarte conmigo.
+—Pobrecita. Y has tenido que conformarte conmigo para la cena con parejas.
 
 —No me quejo. Sorprendentemente, casi has estado encantadora.
 
