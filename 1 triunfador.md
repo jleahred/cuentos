@@ -114,6 +114,8 @@ Marta se rio.
 
 —Pobrecita. Y has tenido que conformarte conmigo para la cena con parejas.
 
+—Era importante ir acompañado. Schneider venía con su mujer.
+
 —No me quejo. Sorprendentemente, casi has estado encantadora.
 
 —Gracias. Tú has sido un idiota, como siempre. Y la próxima vez avísame con algo más de dos horas.
