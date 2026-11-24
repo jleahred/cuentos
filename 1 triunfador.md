@@ -20,6 +20,22 @@ David sonrió mientras esperaban el coche.
 
 —Te perdono.
 
+—También ha ayudado que recordaras las previsiones. Schneider ha tenido que buscar el informe.
+
+—Había cambiado una cifra.
+
+—¿La del doce coma algo?
+
+—Doce coma cuatrocientos setenta y tres por ciento. En el informe anterior era doce coma quinientos dieciocho.
+
+—¿Y de verdad podéis saberlo con tantos decimales?
+
+—Nuestros modelos trabajan con miles de variables. Tienen un nivel de detalle enorme.
+
+—Sigo sin verlo claro.
+
+—Son modelos muy avanzados, Marta. No hacemos cálculos en una servilleta.
+
 —Has estado brillante con Schneider. Hasta que su mujer te ha enseñado la foto del perro.
 
 —No sabía qué quería que dijera.
@@ -324,9 +340,13 @@ Marta suspiró.
 
 —Todo el mundo piensa.
 
-—Poco.
+—Poco. Hay muchos tontos, Marta.
 
-—¿Y eso te hace sentir mejor?
+—¿Y yo no soy una de ellos?
+
+—Tú eres especial.
+
+—¿Te hace sentir mejor pensar que hay tantos tontos?
 
 —Me hace sentir solo.
 

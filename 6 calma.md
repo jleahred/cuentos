@@ -268,15 +268,13 @@ Elena le señaló los archivos de origen. David los abrió y encontró dónde se
 
 —Algunas diapositivas dicen lo mismo —dijo David—. Si juntamos estas dos, acabamos antes.
 
-Fueron actualizando los totales uno a uno. David le dictaba los números del papel y Elena los pegaba en los gráficos. Al llegar a las previsiones, él señaló una cifra.
+Fueron actualizando los totales uno a uno. David le dictaba los números del papel y Elena los pegaba en los gráficos. Al llegar a las previsiones, ella borró los decimales de una cifra.
 
-—¿De verdad sabemos que será un siete coma treinta y cuatro por ciento?
+—Era siete coma treinta y cuatro —dijo David.
 
-—No. Es una estimación.
+—Es una estimación. Gema siempre me dice que tantos decimales hacen parecer que sabemos más de lo que sabemos.
 
-—Entonces podemos redondearla. Con tantos decimales parece que sabemos más de lo que sabemos.
-
-—A Gema le va a gustar eso —dijo Elena, y cambió las cifras de las previsiones.
+David miró el siete en la pantalla. Elena siguió redondeando las previsiones.
 
 Cuando terminaron, repasaron la presentación desde el principio.
 

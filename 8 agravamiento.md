@@ -406,6 +406,16 @@ David asintió. Cogió el bolígrafo de Enrique y dibujó dos líneas en el dors
 
 David dejó el bolígrafo. Miró las líneas que había dibujado.
 
+—Una vez vi dos carteles de obras en la misma calle —dijo Enrique—. En uno, el presupuesto era de un millón de euros. En el otro, de un millón ciento cuarenta y siete mil trescientos veintiséis euros con cuarenta y ocho céntimos.
+
+—El segundo era más detallado.
+
+—Seguramente. Pero las obras aún no habían empezado. Me pregunté cómo podían saber lo que costarían hasta el último céntimo.
+
+—Era una estimación.
+
+—Eso pensé yo. Los céntimos estaban en el cartel; la incertidumbre, no.
+
 —Y con las personas no conozco ni las condiciones iniciales.
 
 —A veces ni siquiera las preguntas.
