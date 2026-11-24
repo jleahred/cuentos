@@ -38,7 +38,7 @@ David sonrió mientras esperaban el coche.
 
 —Alguien tenía que hacerlo.
 
-—Has estado bien. Has conseguido que todo el mundo se divirtiera.
+—Me has sacado del apuro. Y has conseguido que todo el mundo se divirtiera.
 
 —Yo también me he divertido.
 
