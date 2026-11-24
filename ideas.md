@@ -1,5 +1,8 @@
 # ideas entre tontos
 
+Ideas básicas fundamentales a mantener.
+
+
 ## sinopsis
 
 Trata de una persona muy inteligente, precoz, triunfador en el terreno profesional, ambicioso.
@@ -34,6 +37,18 @@ La operación es un éxito, se recupera completamente, es igual de inteligente q
 
 Quiere estar con sus compañeros nuevos, con los comics, con su enamorada, con su bici. Tener tiempo, disfrutar de un paseo, de...
 
+
+## Ideas para potenciar: David, Gema y la empresa
+
+David es el protagonista inicial y su caída y transformación forman el hilo de la sinopsis. Pero Gema va adquiriendo mucho protagonismo: su manera de dirigir, sus decisiones, sus sentimientos y sus propios conflictos también son parte central de la historia.
+
+La novela también trata de la vida en las grandes empresas y de qué capacidades se premian. En ellas pueden triunfar personas muy inteligentes en lo racional, ambiciosas y agresivas, pero egoístas, con poca empatía y sin saber dirigir a sus subordinados ni cuidar a sus clientes. Se da prioridad a los números y a los resultados inmediatos. Ese es el mundo en el que triunfa David al principio, y él mismo participa de esos defectos.
+
+Frente a ese modelo hay otros talentos, a menudo poco valorados: personas capaces de liderar, tomar buenas decisiones, escuchar, cuidar a sus equipos y gestionar las relaciones con los clientes sin quemarlos. Gema es un genio en ese terreno. David llega a conocer ambos mundos y aprende a valorar el talento de Gema: lo considera más excepcional y de mayor mérito que el suyo.
+
+**Matiz sobre el miedo de David:** le preocupa morir o quedar con secuelas graves o muy graves y no quiere poner a Gema en la situación de sufrir esas consecuencias con él. También teme perder lo que siente por ella o volver a tratarla como habría hecho antes. Este matiz sustituye la frase de la sinopsis que dice que no teme morir ni quedar mal.
+
+**Enrique:** es un médico jubilado de gran prestigio, aunque no presume de ello y su identidad profesional se mantiene oculta al principio. Lo de «ciclista profesional» es su broma.
 
 ## Por capítulos
 
